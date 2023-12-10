@@ -472,6 +472,7 @@ NewTV精品纪录,http://[2409:8087:2001:20:2800:0:df6e:eb1a]:80/wh7f454c46tw283
 爱科学,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000160630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000160630&livemode=1&stbId=3
 爱青春,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000100630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000100630&livemode=1&stbId=3
 爱动漫,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000280630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000280630&livemode=1&stbId=3
+
 精选电视剧,#genre#
 【电视剧】轮播电视剧,http://epg.112114.xyz/douyu/9826611#https://www.goodiptv.club/douyu/9826611#https://live.metshop.top/douyu/9826611#http://43.138.170.29:35455/douyu/9826611
 【电视剧】影视轮播,http://mmitv.top/pltv/yy.php?id=1355336008#http://43.138.170.29:35455/yy/1355336008
@@ -851,6 +852,7 @@ NewTV精品纪录,http://[2409:8087:2001:20:2800:0:df6e:eb1a]:80/wh7f454c46tw283
 【电影】金三角大营救,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354930924#https://live.metshop.top/yy/1354930924
 【电影】国外高分侦探电影,http://mmitv.top/pltv/yy.php?id=1382736896
 【电影】国外高分侦探电影,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382736896#https://live.metshop.top/yy/1382736896
+
 专题电影,#genre#
 【电影】叶问全集,http://mmitv.top/pltv/yy.php?id=1382828771#http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382828771#https://live.metshop.top/yy/1382828771
 【电影】漫威影片,http://epg.112114.xyz/douyu/6140589
@@ -892,6 +894,7 @@ NewTV精品纪录,http://[2409:8087:2001:20:2800:0:df6e:eb1a]:80/wh7f454c46tw283
 【电影】鹿鼎记-周星驰版,http://mmitv.top/pltv/yy.php?id=1354658049#http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354658049#https://live.metshop.top/yy/1354658049
 【电影】举起手来-惊险抗日,http://mmitv.top/pltv/yy.php?id=1382736877#http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382736877#https://live.metshop.top/yy/1382736877
 【电影】疯岳撬佳人-岳云鹏,http://mmitv.top/pltv/yy.php?id=1382736882#http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382736882#https://live.metshop.top/yy/1382736882
+
 喜剧电影,#genre#
 【电影】喜剧,https://live.metshop.top/huya/11352877
 【电影】喜剧,https://epg.112114.xyz/huya/11352877#http://43.128.40.42:198/虎牙直播/huya.php?id=11352877
@@ -930,6 +933,7 @@ NewTV精品纪录,http://[2409:8087:2001:20:2800:0:df6e:eb1a]:80/wh7f454c46tw283
 【电影】经典喜剧电影,http://mmitv.top/pltv/yy.php?id=1354936238#http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354936238#https://live.metshop.top/yy/1354936238
 【电影】高分搞笑电影,http://mmitv.top/pltv/yy.php?id=33478222#http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=33478222#https://live.metshop.top/yy/33478222
 【电影】经典搞笑影片,http://mmitv.top/pltv/yy.php?id=1382749878#http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382749878#https://live.metshop.top/yy/1382749878
+
 动作电影,#genre#
 【电影】动作影院,rtsp://115.153.233.154/PLTV/88888888/224/3221226999/86441130.smil
 【电影】高分动作,https://live.metshop.top/huya/11352884
@@ -969,6 +973,7 @@ NewTV精品纪录,http://[2409:8087:2001:20:2800:0:df6e:eb1a]:80/wh7f454c46tw283
 【电影】高分科幻动作片,http://mmitv.top/pltv/yy.php?id=1382749948#http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382749948#https://live.metshop.top/yy/1382749948
 【电影】赌神片动作片港片,http://mmitv.top/pltv/yy.php?id=1355112116#http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1355112116#https://live.metshop.top/yy/1355112116
 【电影】敢死队精彩动作电影,http://mmitv.top/pltv/yy.php?id=1382735573#http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382735573#https://live.metshop.top/yy/1382735573
+
 港片电影,#genre#
 【电影】港片,https://live.metshop.top/huya/11602043
 【电影】港片,https://epg.112114.xyz/huya/11602043#http://43.128.40.42:198/虎牙直播/huya.php?id=11602043
@@ -995,6 +1000,7 @@ NewTV精品纪录,http://[2409:8087:2001:20:2800:0:df6e:eb1a]:80/wh7f454c46tw283
 【电影】香港动作大片,http://mmitv.top/pltv/yy.php?id=1382736816#http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382736816#https://live.metshop.top/yy/1382736816
 【电影】香港院线大片,http://mmitv.top/pltv/yy.php?id=1354936242#http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354936242#https://live.metshop.top/yy/1354936242
 【电影】赌神片动作片港片,http://mmitv.top/pltv/yy.php?id=1355112116#http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1355112116#https://live.metshop.top/yy/1355112116
+
 恐怖电影,#genre#
 【电影】小鬼头,https://live.metshop.top/huya/11352963
 【电影】小鬼头,https://epg.112114.xyz/huya/11352963#http://43.128.40.42:198/虎牙直播/huya.php?id=11352963
@@ -1018,6 +1024,7 @@ NewTV精品纪录,http://[2409:8087:2001:20:2800:0:df6e:eb1a]:80/wh7f454c46tw283
 【电影】鬼片恐怖惊悚,https://www.goodiptv.club/douyu/2935323#https://live.metshop.top/douyu/2935323
 【电影】鬼片恐怖惊悚,http://epg.112114.xyz/douyu/2935323
 【电影】超级吓人鬼片 恐怖片,http://mmitv.top/pltv/yy.php?id=1355641195#http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1355641195#https://live.metshop.top/yy/1355641195
+
 科幻电影,#genre#
 【电影】玄幻,https://live.metshop.top/huya/11342414
 【电影】玄幻,https://epg.112114.xyz/huya/11342414http://43.128.40.42:198/虎牙直播/huya.php?id=11342414
@@ -1039,6 +1046,7 @@ NewTV精品纪录,http://[2409:8087:2001:20:2800:0:df6e:eb1a]:80/wh7f454c46tw283
 【电影】地心历险记-科幻,http://mmitv.top/pltv/yy.php?id=1382736911#http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382736911#https://live.metshop.top/yy/1382736911
 【电影】人生必看的科幻片,http://mmitv.top/pltv/yy.php?id=1382745114#http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382745114#https://live.metshop.top/yy/1382745114
 【电影】超燃科幻大片：明日边缘,http://mmitv.top/pltv/yy.php?id=1382736835#http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382736835#https://live.metshop.top/yy/1382736835
+
 战争电影,#genre#
 【电影】枪战,https://live.metshop.top/huya/21059579
 【电影】枪战,https://epg.112114.xyz/huya/21059579#http://43.128.40.42:198/虎牙直播/huya.php?id=21059579
@@ -1071,6 +1079,7 @@ NewTV精品纪录,http://[2409:8087:2001:20:2800:0:df6e:eb1a]:80/wh7f454c46tw283
 【电影】X战警系列电影,http://mmitv.top/pltv/yy.php?id=1382736893#http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382736893#https://live.metshop.top/yy/WORD
 【电影】国内战争大片合集,http://mmitv.top/pltv/yy.php?id=1382749950#http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382749950#https://live.metshop.top/yy/WORD
 【电影】解放：苏联战争巨片,http://mmitv.top/pltv/yy.php?id=1354936249#http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354936249#https://live.metshop.top/yy/WORD
+
 明星经典,#genre#
 【电影】周星驰1,http://mmitv.top/pltv/yy.php?id=1382736808#http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382736808#https://live.metshop.top/yy/1382736808
 【电影】周星驰2,http://mmitv.top/pltv/yy.php?id=1354889048#http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354889048#https://live.metshop.top/yy/1354889048
@@ -1135,15 +1144,7 @@ NewTV精品纪录,http://[2409:8087:2001:20:2800:0:df6e:eb1a]:80/wh7f454c46tw283
 【电影】金庸,https://epg.112114.xyz/huya/11602082
 【电影】金庸,https://live.metshop.top/huya/11602082#http://43.128.40.42:198/虎牙直播/huya.php?id=11602082
 【电影】金庸,http://43.138.170.29:35455/huya/11602082#https://www.goodiptv.club/huya/11602082
-CHC动作电影,rtsp://115.153.233.154/PLTV/88888888/224/3221226992/86128817.smil
-CHC动作电影,rtsp://115.153.245.70/PLTV/88888888/224/3221226992/86128817.smil
-CHC动作电影,rtsp://118.212.169.207:554/PLTV/88888888/224/3221227214/10000100000000060000000000680177_0.smil
-CHC高清电影,rtsp://115.153.233.154/PLTV/88888888/224/3221226990/86128784.smil
-CHC高清电影,rtsp://115.153.245.70/PLTV/88888888/224/3221226990/86128784.smil
-CHC高清电影,rtsp://118.212.169.207:554/PLTV/88888888/224/3221227215/10000100000000060000000000680163_0.smil
-CHC家庭影院,rtsp://115.153.233.154/PLTV/88888888/224/3221226959/86128800.smil
-CHC家庭影院,rtsp://115.153.245.70/PLTV/88888888/224/3221226959/86128800.smil
-CHC家庭影院,rtsp://118.212.169.207:554/PLTV/88888888/224/3221227213/10000100000000060000000000680164_0.smil
+
 动漫动画,#genre#
 黑莓动画,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 金鹰卡通,rtsp://115.153.212.72/PLTV/88888888/224/3221225585/iptv7983.smil?
@@ -1199,6 +1200,7 @@ IPTV少儿动画,rtsp://115.153.233.154/PLTV/88888888/224/3221227006/86440922.sm
 熊出没A,http://mmitv.top/pltv/yy.php?id=1354930977#http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354930977#https://live.metshop.top/yy/1354930977
 熊出没B,http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/ott.mobaibox.com/PLTV/4/224/3221228536/index.m3u8
 熊出没之探险日记,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354930977#http://mmitv.top/pltv/yy.php?id=1354930977#https://live.metshop.top/yy/1354930977
+
 经典音乐,#genre#
 周杰伦,https://xy180x97x222x37xy.mcdn.bilivideo.cn:486/live-bvc/578416/live_298778185_9463386_1500/index.m3u8?expires=1700803086&len=0&oi=3060766400&pt=web&qn=0&trid=10077ec4aa48d3f44abb88ed2b27ca8d7dac&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha16&sign=f678a4f50069c603abc291b1d7241f9d&sk=fdabd7a10bd6d396dcb8744a97ff118c&flvsk=657e1ac1e010c75aa8c2a995fb0e48a5&p2p_type=1&sl=2&free_type=0&mid=511173618&sid=mcdn-wx-jscz-ct-16000447&chash=1&bmt=1&sche=ban&bvchls=1&score=11&pp=rtmp&source=onetier&trace=91&site=141080679cd68538751e17bdcdf5289f&zoneid_l=151388161&sid_l=live_298778185_9463386_1500&order=1
 周杰伦电台,https://cn-cq-ct-01-11.bilivideo.com/live-bvc/574279/live_1527036086_44572298/index.m3u8?expires=1701089401&len=0&oi=3060772175&pt=web&qn=0&trid=10079ae609ceb82840a7874b5d2a12f6f732&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha01&sign=db93e0ece3c83f7767e56aaf1a25267f&sk=ade858c28790e4fd9b23275a6b705d29&flvsk=bb710726d25872e3a0c5fa82f21faf83&p2p_type=1&sl=1&free_type=0&mid=511173618&sid=cn-cq-ct-01-11&chash=1&bmt=1&sche=ban&bvchls=1&score=4&pp=rtmp&source=onetier&trace=1099&site=73f343b99eea3b2d483cdb26a45a4b8f&zoneid_l=151388161&sid_l=stream_name_cold&order=1
@@ -1269,6 +1271,7 @@ IPTV少儿动画,rtsp://115.153.233.154/PLTV/88888888/224/3221227006/86440922.sm
 殿堂级歌手陈慧娴,https://vd4.bdstatic.com/mda-pjsiwmdsrau9hbcs/1080p/cae_h264/1698455668088764234/mda-pjsiwmdsrau9hbcs.mp4
 台湾歌手李翊君,https://vd4.bdstatic.com/mda-pjsas5efkaebupa6/1080p/cae_h264/1698434793444943173/mda-pjsas5efkaebupa6.mp4
 殿堂级歌手邓丽君,https://vd3.bdstatic.com/mda-pjpbciiuab9jhu7p/1080p/cae_h264/1698318630312827481/mda-pjpbciiuab9jhu7p.mp4
+
 纪录片频道,#genre#
 动物世界,http://hls.cntv.myhwcdn.cn/asp/hls/1200/0303000a/3/default/2eba7ee3659b4caf86b40d51a1752d6c/1200.m3u8
 人与自然,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1425e1d505654cb48ba82b807b221193/1200.m3u8
@@ -1640,6 +1643,7 @@ IPTV少儿动画,rtsp://115.153.233.154/PLTV/88888888/224/3221227006/86440922.sm
 鳄鱼王漂流记,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/8da4a365db75455cb0c15bd7681b57fc/1200.m3u8
 黑猩猩的丛林法则,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/05ff5278105445e1a9d5651372faf47e/1200.m3u8
 龙宫里的奇异动物,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/3528163c6b7d4a48b09b24027351ccf7/1200.m3u8
+
 电影点播,#genre#
 战狼,https://txmov2.a.kwimgs.com/upic/2020/12/11/12/BMjAyMDEyMTExMjM1NDRfNDAzMDAxOTlfNDA1MjQ4ODkyMDBfMF8z_b_B464feff0fc15f6544ad0783222e5409f.mp4
 赌神,https://txmov2.a.kwimgs.com/bs3/video-hls/5230086603510673905_hlsb.m3u8?pkey=AAUyMbVkU7WkimubgX0RPM_gxiBDBZ0O6NjXg8fqHAfjVU3xFbWk1Mq_dhogP1fSZfTuxFuTTP4Q9geCGPwtGGOxQWCeEZMzc8A0cmLTyXrZZWUeTZQtSukPK5Y5UyZPBuM
