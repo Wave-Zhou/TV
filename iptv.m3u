@@ -517,12 +517,33 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001245/index.m3u8
 http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/海南少儿.png" group-title="少儿动画",海南少儿
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000323/index.m3u8?fmmv6
+#EXTINF:-1 tvg-logo="https://img04.sogoucdn.com/v2/thumb/crop/xy/ai/x/0/y/0/w/120/h/80/iw/90/ih/60/t/0/ir/3/retype_exclude_gif/ext/auto/q/75?t=2&appid=200997&url=http%3A%2F%2Ftv.haoqu99.com%2Fd%2Ffile%2F2016%2F0616%2F20160616111853448.jpg&sign=0faf39d57383ab640c6d06a857e33896" group-title="少儿动画",南京少儿
+http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
+#EXTINF:-1 tvg-logo="https://img02.sogoucdn.com/v2/thumb/crop/xy/ai/x/0/y/0/w/120/h/80/iw/90/ih/60/t/0/ir/3/retype_exclude_gif/ext/auto/q/75?t=2&appid=200997&url=https%3A%2F%2Fi0.hdslb.com%2Fbfs%2Farchive%2F30951966c3b489475a253625ef8584417f90142e.jpg&sign=9f5ad40801208f39237f318ac4c8532f" group-title="少儿动画",黑龙江少儿
+http://[2409:8087:1a01:df::4035]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/1.m3u8
+#EXTINF:-1 tvg-logo="https://p6.itc.cn/q_70/images03/20210609/62af8319a7ea4503aeb29e45973b2cfc.jpeg" group-title="少儿动画",少儿动漫
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/8145334647720731271/index.m3u8?channel-id=wasusyt&Contentid=8145334647720731271&livemode=1&stbId=3
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/哈哈炫动.png" group-title="少儿动画",哈哈炫动
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001232/index.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png" group-title="少儿动画",金鹰卡通
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001098/index.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/嘉佳卡通.png" group-title="少儿动画",嘉佳卡通
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001227/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.17173cdn.com/2fhnvk/YWxqaGBf/news/17173shuiyin/BdrDfjbmapxqvAk.jpg!a-3-540x.jpg" group-title="少儿动画",名侦探柯南
+https://live.metshop.top/douyu/6484910
+http://epg.112114.xyz/douyu/6484910
+https://www.goodiptv.club/douyu/6484910
+http://43.138.170.29:35455/douyu/6484910
+#EXTINF:-1 tvg-logo="http://s9.rr.itc.cn/r/wapChange/201611_29_18/a58wtu3100984870855.jpeg" group-title="少儿动画",名侦探柯南
+https://live.metshop.top/douyu/5189447
+http://epg.112114.xyz/douyu/5189447
+https://www.goodiptv.club/douyu/5189447
+http://43.138.170.29:35455/douyu/5189447
+#EXTINF:-1 tvg-logo="http://pic.baike.soso.com/p/20131118/20131118142652-403587215.jpg" group-title="少儿动画",名侦探柯南
+https://live.metshop.top/douyu/7620081
+http://epg.112114.xyz/douyu/7620081
+https://www.goodiptv.club/douyu/7620081
+http://43.138.170.29:35455/douyu/7620081
 #EXTINF:-1 tvg-logo="https://pic.baike.soso.com/ugc/baikepic2/0/20220405150314-553904043_jpg_1200_800_177364.jpg/800" tvg-name=“梦工厂动画” group-title="少儿动画",成龙历险记
 https://live.metshop.top/huya/11352946
 https://epg.112114.xyz/huya/11352946
@@ -546,7 +567,7 @@ https://epg.112114.xyz/huya/11602074
 http://43.138.170.29:35455/huya/11602074
 #EXTINF:-1 tvg-logo="https://pic.baike.soso.com/ugc/baikepic2/0/20230629194649-1357468007_png_1147_841_1316814.jpg/800" group-title="少儿动画",德凯奥特曼
 http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/ott.mobaibox.com/PLTV/4/224/3221228456/index.m3u8
-#EXTINF:-1 tvg-logo="https://pic.baike.soso.com/ugc/baikepic2/0/ori-20200306134444-716577093_png_680_680_78385.jpg/800" tvg-name=“梦工厂动画” group-title="少儿动画",熊出没
+#EXTINF:-1 tvg-logo="https://pic.baike.soso.com/ugc/baikepic2/0/ori-20200306134444-716577093_png_680_680_78385.jpg/800" tvg-name=“梦工厂动画” group-title="少儿动画",熊出没之探险日记
 http://mmitv.top/pltv/yy.php?id=1354930977
 http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354930977
 #EXTINF:-1 tvg-logo="https://pic.baike.soso.com/ugc/baikepic2/0/20220319024931-622739088_jpeg_1024_766_178096.jpg/800" group-title="少儿动画",熊出没
