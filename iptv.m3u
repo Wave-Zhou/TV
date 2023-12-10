@@ -517,7 +517,7 @@ http://[2409:8087:2001:20:2800:0:df6e:eb20]:80/ott.mobaibox.com/PLTV/4/224/32212
 http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/ott.mobaibox.com/PLTV/4/224/3221228536/index.m3u8
 #EXTINF:-1 tvg-logo="https://pic.baike.soso.com/ugc/baikepic2/35632/20190506113551-1566376621_jpeg_2428_1616_71658.jpg/0" group-title="少儿动画",超级飞侠
 http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/ott.mobaibox.com/PLTV/4/224/3221228539/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jSmD6rYx/HMDH.jpg" group-title="少儿动画",爆笑虫子
+#EXTINF:-1 tvg-logo="https://pic.baike.soso.com/ugc/baikepic2/0/ori-20230103195652-220580112_jpeg_1311_957_84108.jpg/800" group-title="少儿动画",动画大放映
 http://[2409:8087:2001:20:2800:0:df6e:eb21]:80/ott.mobaibox.com/PLTV/4/224/3221228579/index.m3u8
 #EXTINF:-1 tvg-logo="https://pic.baike.soso.com/ugc/baikepic2/0/ori-20200715094452-2085111046_jpg_800_417_28065.jpg/800" group-title="少儿动画",小猪佩奇
 http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/ott.mobaibox.com/PLTV/4/224/3221228460/index.m3u8
