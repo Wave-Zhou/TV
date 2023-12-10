@@ -298,13 +298,13 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 #EXTINF:-1 tvg-id="NEWTV精品体育" tvg-name="NEWTV精品体育" tvg-logo="https://live.fanmingming.com/tv/NEWTV精品体育.png" group-title="体育频道",精品体育
 http://[2409:8087:2001:20:2800:0:df6e:eb1b]:80/wh7f454c46tw2797725038_-2054878207/ott.mobaibox.com/PLTV/3/224/3221227615/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
-#EXTINF:-1,tvg-id="咪咕综合体育" tvg-name="咪咕综合体育" tvg-logo="https://epg.112114.xyz/logo/咪咕综合体育.png" group-title="体育频道",咪咕综合体育
+#EXTINF:-1,tvg-id="咪咕综合体育" tvg-name="咪咕综合体育" tvg-logo="https://img02.sogoucdn.com/v2/thumb/crop/xy/ai/x/0/y/0/w/120/h/80/iw/90/ih/60/t/0/ir/3/retype_exclude_gif/ext/auto/q/75?t=2&appid=200997&url=https%3A%2F%2Fnimg.ws.126.net%2F%3Furl%3Dhttp%253A%252F%252Fdingyue.ws.126.net%252F2022%252F1207%252F4fadbd8fj00rmirpy000cd000910091p.jpg%26thumbnail%3D125y125%26quality%3D95%26type%3Djpg&sign=8be5e1f0d1737e632981803c1a31e8f3" group-title="体育频道",咪咕综合体育
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226504/1.m3u8
-#EXTINF:-1,tvg-id="咪咕精彩足球" tvg-name="咪咕精彩足球" tvg-logo="https://epg.112114.xyz/logo/咪咕精彩足球.png" group-title="体育频道",咪咕精彩足球
+#EXTINF:-1,tvg-id="咪咕精彩足球" tvg-name="咪咕精彩足球" tvg-logo="https://img03.sogoucdn.com/v2/thumb/crop/xy/ai/x/0/y/0/w/120/h/80/iw/90/ih/60/t/0/ir/3/retype_exclude_gif/ext/auto/q/75?t=2&appid=200997&url=https%3A%2F%2Fp.9136.com%2F00%2Fl%2Fd7e3c7f23_2.jpg&sign=b1b1c8007224eddd17c9828823f08c3b" group-title="体育频道",咪咕精彩足球
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226506/1.m3u8
-#EXTINF:-1,tvg-id="咪咕精彩足球" tvg-name="咪咕精彩足球" tvg-logo="https://epg.112114.xyz/logo/咪咕精彩足球.png" group-title="体育频道",咪咕精彩足球
+#EXTINF:-1,tvg-id="咪咕精彩足球" tvg-name="咪咕精彩足球" tvg-logo="https://img03.sogoucdn.com/v2/thumb/crop/xy/ai/x/0/y/0/w/120/h/80/iw/90/ih/60/t/0/ir/3/retype_exclude_gif/ext/auto/q/75?t=2&appid=200997&url=https%3A%2F%2Fp.9136.com%2F00%2Fl%2Fd7e3c7f23_2.jpg&sign=b1b1c8007224eddd17c9828823f08c3b" group-title="体育频道",咪咕精彩足球
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226508/1.m3u8
-#EXTINF:-1,tvg-id="咪咕精彩足球" tvg-name="咪咕精彩足球" tvg-logo="https://epg.112114.xyz/logo/咪咕精彩足球.png" group-title="体育频道",咪咕精彩足球
+#EXTINF:-1,tvg-id="咪咕精彩足球" tvg-name="咪咕精彩足球" tvg-logo="https://img03.sogoucdn.com/v2/thumb/crop/xy/ai/x/0/y/0/w/120/h/80/iw/90/ih/60/t/0/ir/3/retype_exclude_gif/ext/auto/q/75?t=2&appid=200997&url=https%3A%2F%2Fp.9136.com%2F00%2Fl%2Fd7e3c7f23_2.jpg&sign=b1b1c8007224eddd17c9828823f08c3b" group-title="体育频道",咪咕精彩足球
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225895/index.m3u8
 #EXTINF:-1,tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://live.fanmingming.com/tv/央视台球.png" group-title="体育频道",央视台球
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226956/index.m3u8
