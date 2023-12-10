@@ -455,7 +455,7 @@ http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000100630/index.
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000280630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000280630&livemode=1&stbId=3
 
 
-#EXTINF:-1 tvg-logo="https://nimg.ws.126.net/?url=http%3A%2F%2Fspider.ws.126.net%2Fe040a3aed8340689c02f16731a34f224.jpeg&thumbnail=660x2147483647&quality=80&type=jpg" group-title="少儿动画",新奥特曼
+#EXTINF:-1 tvg-logo="https://pic.baike.soso.com/ugc/baikepic2/0/20220706102902-1757540864_jpg_640_905_326649.jpg/800" group-title="少儿动画",德凯奥特曼
 http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/ott.mobaibox.com/PLTV/4/224/3221228456/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jSmD6rYx/HMDH.jpg" group-title="少儿动画",动画
 http://[2409:8087:2001:20:2800:0:df6e:eb07]:80/ott.mobaibox.com/PLTV/4/224/3221227539/index.m3u8
