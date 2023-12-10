@@ -461,7 +461,7 @@ http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/ott.mobaibox.com/PLTV/4/224/32212
 http://[2409:8087:2001:20:2800:0:df6e:eb07]:80/ott.mobaibox.com/PLTV/4/224/3221227539/index.m3u8
 #EXTINF:-1 tvg-logo="https://pic.baike.soso.com/ugc/baikepic2/0/ori-20200323151610-180480885_png_1080_720_123840.jpg/800" group-title="少儿动画",汪汪队立大功
 http://[2409:8087:2001:20:2800:0:df6e:eb20]:80/ott.mobaibox.com/PLTV/4/224/3221228463/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jSmD6rYx/HMDH.jpg" group-title="少儿动画",熊出没
+#EXTINF:-1 tvg-logo="https://pic.baike.soso.com/ugc/baikepic2/0/20220319024931-622739088_jpeg_1024_766_178096.jpg/800" group-title="少儿动画",熊出没
 http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/ott.mobaibox.com/PLTV/4/224/3221228536/index.m3u8
 #EXTINF:-1 tvg-logo="https://pic.baike.soso.com/ugc/baikepic2/35632/20190506113551-1566376621_jpeg_2428_1616_71658.jpg/0" group-title="少儿动画",超级飞侠
 http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/ott.mobaibox.com/PLTV/4/224/3221228539/index.m3u8
