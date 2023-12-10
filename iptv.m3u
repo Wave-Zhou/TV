@@ -509,18 +509,8 @@ http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000100630/index.
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000280630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000280630&livemode=1&stbId=3
 
 
-#EXTINF:-1 tvg-logo="https://pic.baike.soso.com/ugc/baikepic2/0/20230629194649-1357468007_png_1147_841_1316814.jpg/800" group-title="少儿动画",德凯奥特曼
-http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/ott.mobaibox.com/PLTV/4/224/3221228456/index.m3u8
-#EXTINF:-1 tvg-logo="https://pic.baike.soso.com/ugc/baikepic2/0/ori-20200323151610-180480885_png_1080_720_123840.jpg/800" group-title="少儿动画",汪汪队立大功
-http://[2409:8087:2001:20:2800:0:df6e:eb20]:80/ott.mobaibox.com/PLTV/4/224/3221228463/index.m3u8
-#EXTINF:-1 tvg-logo="https://pic.baike.soso.com/ugc/baikepic2/0/20220319024931-622739088_jpeg_1024_766_178096.jpg/800" group-title="少儿动画",熊出没
-http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/ott.mobaibox.com/PLTV/4/224/3221228536/index.m3u8
-#EXTINF:-1 tvg-logo="https://pic.baike.soso.com/ugc/baikepic2/35632/20190506113551-1566376621_jpeg_2428_1616_71658.jpg/0" group-title="少儿动画",超级飞侠
-http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/ott.mobaibox.com/PLTV/4/224/3221228539/index.m3u8
-#EXTINF:-1 tvg-logo="https://pic.baike.soso.com/ugc/baikepic2/0/ori-20230103195652-220580112_jpeg_1311_957_84108.jpg/800" group-title="少儿动画",动画大放映
-http://[2409:8087:2001:20:2800:0:df6e:eb21]:80/ott.mobaibox.com/PLTV/4/224/3221228579/index.m3u8
-#EXTINF:-1 tvg-logo="https://pic.baike.soso.com/ugc/baikepic2/0/ori-20200715094452-2085111046_jpg_800_417_28065.jpg/800" group-title="少儿动画",小猪佩奇
-http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/ott.mobaibox.com/PLTV/4/224/3221228460/index.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="少儿动画",黑莓动画
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="少儿动画",卡酷少儿
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001245/index.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/浙江少儿.png" group-title="少儿动画",浙江少儿
@@ -535,17 +525,13 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001098/index.m3u8
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001227/index.m3u8
 #EXTINF:-1 tvg-logo="https://pic.baike.soso.com/ugc/baikepic2/0/20220405150314-553904043_jpg_1200_800_177364.jpg/800" tvg-name=“梦工厂动画” group-title="少儿动画",成龙历险记
 https://live.metshop.top/huya/11352946
-#EXTINF:-1 tvg-logo="https://pic.baike.soso.com/ugc/baikepic2/0/20220405150314-553904043_jpg_1200_800_177364.jpg/800" tvg-name=“梦工厂动画” group-title="少儿动画",成龙历险记
 https://epg.112114.xyz/huya/11352946
-#EXTINF:-1 tvg-logo="https://pic.baike.soso.com/ugc/baikepic2/0/20220405150314-553904043_jpg_1200_800_177364.jpg/800" tvg-name=“梦工厂动画” group-title="少儿动画",成龙历险记
 http://43.138.170.29:35455/huya/11352946
 #EXTINF:-1 tvg-logo="https://pic.baike.soso.com/ugc/baikepic2/0/20220405150314-553904043_jpg_1200_800_177364.jpg/800" tvg-name=“梦工厂动画” group-title="少儿动画",成龙历险记
 http://epg.112114.xyz/douyu/2287949
 #EXTINF:-1 tvg-logo="https://pic.baike.soso.com/ugc/baikepic2/0/20220321231616-1796759885_jpeg_402_293_16370.jpg/800" tvg-name=“梦工厂动画” group-title="少儿动画",海绵宝宝
 https://live.metshop.top/huya/11352919
-#EXTINF:-1 tvg-logo="https://pic.baike.soso.com/ugc/baikepic2/0/20220321231616-1796759885_jpeg_402_293_16370.jpg/800" tvg-name=“梦工厂动画” group-title="少儿动画",海绵宝宝
 https://epg.112114.xyz/huya/11352919
-#EXTINF:-1 tvg-logo="https://pic.baike.soso.com/ugc/baikepic2/0/20220321231616-1796759885_jpeg_402_293_16370.jpg/800" tvg-name=“梦工厂动画” group-title="少儿动画",海绵宝宝
 http://43.138.170.29:35455/huya/11352919
 #EXTINF:-1 tvg-logo="https://pic.baike.soso.com/ugc/baikepic2/0/20220321231616-1796759885_jpeg_402_293_16370.jpg/800" tvg-name=“梦工厂动画” group-title="少儿动画",海绵宝宝
 http://epg.112114.xyz/douyu/3949681
@@ -553,18 +539,26 @@ http://epg.112114.xyz/douyu/3949681
 http://epg.112114.xyz/douyu/1569773
 #EXTINF:-1 tvg-logo="https://pic.baike.soso.com/ugc/baikepic2/0/ori-20230105211456-148555150_jpeg_710_532_40490.jpg/800" tvg-name=“梦工厂动画” group-title="少儿动画",猫和老鼠
 https://live.metshop.top/huya/11352879
-#EXTINF:-1 tvg-logo="https://pic.baike.soso.com/ugc/baikepic2/0/ori-20230105211456-148555150_jpeg_710_532_40490.jpg/800" tvg-name=“梦工厂动画” group-title="少儿动画",猫和老鼠
 http://43.138.170.29:35455/huya/11352879
 #EXTINF:-1 tvg-logo="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2022%2F0601%2Fc4ac47a2j00rcs8ol003id200rs00rsg007w007w.jpg&thumbnail=660x2147483647&quality=80&type=jpg" tvg-name=“梦工厂动画” group-title="少儿动画",迪迦奥特曼
-https://epg.112114.xyz/huya/11602074
-#EXTINF:-1 tvg-logo="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2022%2F0601%2Fc4ac47a2j00rcs8ol003id200rs00rsg007w007w.jpg&thumbnail=660x2147483647&quality=80&type=jpg" tvg-name=“梦工厂动画” group-title="少儿动画",迪迦奥特曼
 https://live.metshop.top/huya/11602074
-#EXTINF:-1 tvg-logo="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2022%2F0601%2Fc4ac47a2j00rcs8ol003id200rs00rsg007w007w.jpg&thumbnail=660x2147483647&quality=80&type=jpg" tvg-name=“梦工厂动画” group-title="少儿动画",迪迦奥特曼
+https://epg.112114.xyz/huya/11602074
 http://43.138.170.29:35455/huya/11602074
+#EXTINF:-1 tvg-logo="https://pic.baike.soso.com/ugc/baikepic2/0/20230629194649-1357468007_png_1147_841_1316814.jpg/800" group-title="少儿动画",德凯奥特曼
+http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/ott.mobaibox.com/PLTV/4/224/3221228456/index.m3u8
 #EXTINF:-1 tvg-logo="https://pic.baike.soso.com/ugc/baikepic2/0/ori-20200306134444-716577093_png_680_680_78385.jpg/800" tvg-name=“梦工厂动画” group-title="少儿动画",熊出没
 http://mmitv.top/pltv/yy.php?id=1354930977
-#EXTINF:-1 tvg-logo="https://pic.baike.soso.com/ugc/baikepic2/0/ori-20200306134444-716577093_png_680_680_78385.jpg/800" tvg-name=“梦工厂动画” group-title="少儿动画",熊出没
 http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354930977
+#EXTINF:-1 tvg-logo="https://pic.baike.soso.com/ugc/baikepic2/0/20220319024931-622739088_jpeg_1024_766_178096.jpg/800" group-title="少儿动画",熊出没
+http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/ott.mobaibox.com/PLTV/4/224/3221228536/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.baike.soso.com/ugc/baikepic2/0/ori-20200323151610-180480885_png_1080_720_123840.jpg/800" group-title="少儿动画",汪汪队立大功
+http://[2409:8087:2001:20:2800:0:df6e:eb20]:80/ott.mobaibox.com/PLTV/4/224/3221228463/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.baike.soso.com/ugc/baikepic2/35632/20190506113551-1566376621_jpeg_2428_1616_71658.jpg/0" group-title="少儿动画",超级飞侠
+http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/ott.mobaibox.com/PLTV/4/224/3221228539/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.baike.soso.com/ugc/baikepic2/0/ori-20230103195652-220580112_jpeg_1311_957_84108.jpg/800" group-title="少儿动画",动画大放映
+http://[2409:8087:2001:20:2800:0:df6e:eb21]:80/ott.mobaibox.com/PLTV/4/224/3221228579/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.baike.soso.com/ugc/baikepic2/0/ori-20200715094452-2085111046_jpg_800_417_28065.jpg/800" group-title="少儿动画",小猪佩奇
+http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/ott.mobaibox.com/PLTV/4/224/3221228460/index.m3u8
 
 
 #EXTM3U
