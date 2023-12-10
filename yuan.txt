@@ -61,3 +61,5 @@ https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuyun999/wuyun/main
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/hussobaba/AILE-Tv/main/TEBER_TV.m3u    AILE-TV
 
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/goolguy007/radioer/main/TVradio    TVradio
+
+大部分从https://github.com/Ftindy/IPTV-URL中收集
