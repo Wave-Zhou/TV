@@ -1597,6 +1597,10 @@ NewTV明星大片,http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/wh7f454c46tw285
 【电影】刘德华,https://live.metshop.top/huya/11342424#http://hls.ye23.vip/wl/huya2205.php?id=11342424
 【电影】刘德华,https://epg.112114.xyz/huya/11342424#http://43.128.40.42:198/虎牙直播/huya.php?id=11342424
 【电影】刘德华,http://43.138.170.29:35455/huya/11342424#https://www.goodiptv.club/huya/11342424
+【电影】刘德华1,http://epg.112114.xyz/douyu/2516864
+【电影】刘德华1,https://www.goodiptv.club/douyu/2516864
+【电影】刘德华1,https://live.metshop.top/douyu/2516864
+【电影】刘德华1,http://43.138.170.29:35455/douyu/2516864
 【电影】林正英,http://mmitv.top/pltv/yy.php?id=1382878583#http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382878583#https://live.metshop.top/yy/1382878583#http://43.138.170.29:35455/yy/1382878583
 【电影】林正英1,https://live.metshop.top/huya/11342421#http://hls.ye23.vip/wl/huya2205.php?id=11342421
 【电影】林正英1,https://epg.112114.xyz/huya/11342421#http://43.128.40.42:198/虎牙直播/huya.php?id=11342421
@@ -1644,6 +1648,7 @@ NewTV明星大片,http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/wh7f454c46tw285
 【电影】金庸,https://epg.112114.xyz/huya/11602082#http://hls.ye23.vip/wl/huya2205.php?id=11602082
 【电影】金庸,https://live.metshop.top/huya/11602082#http://43.128.40.42:198/虎牙直播/huya.php?id=11602082
 【电影】金庸,http://43.138.170.29:35455/huya/11602082#https://www.goodiptv.club/huya/11602082
+
 
 
 动漫动画,#genre#
@@ -1706,6 +1711,10 @@ IPTV少儿动画,rtsp://115.153.233.154/PLTV/88888888/224/3221227006/86440922.sm
 迪迦奥特曼,http://43.138.170.29:35455/huya/11602074#https://www.goodiptv.club/huya/11602074
 熊出没,http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/ott.mobaibox.com/PLTV/4/224/3221228536/index.m3u8
 熊出没之探险日记,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354930977#http://mmitv.top/pltv/yy.php?id=1354930977#https://live.metshop.top/yy/1354930977#http://43.138.170.29:35455/yy/1354930977
+圣斗士星矢,http://epg.112114.xyz/douyu/8458270
+圣斗士星矢,https://www.goodiptv.club/douyu/8458270
+圣斗士星矢,https://live.metshop.top/douyu/8458270
+圣斗士星矢,http://43.138.170.29:35455/douyu/8458270
 
 
 经典音乐,#genre#
