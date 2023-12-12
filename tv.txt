@@ -1,5 +1,5 @@
 央视频道,#genre#
-志愿军：雄兵出击,https://play.7re.cc/go?url=p8ECh2gso000oGKfoj3Zwe3u8I9Ozlv1cPOLbegVyTYahkcr7arvW2o0fuTsp3QRj0lUwEZno000o7AMuHymOJo000onI4ygGlfCoUZhAgAO0O0O.m3u8
+
 CCTV1,rtsp://115.153.233.154/PLTV/88888888/224/3221225699/iptv8040.smil
 CCTV1,rtsp://115.153.245.70/PLTV/88888888/224/3221225699/iptv8040.smil
 CCTV1,rtsp://115.153.212.72/PLTV/88888888/224/3221225699/iptv8040.smil
@@ -2116,6 +2116,7 @@ IPTV少儿动画,rtsp://115.153.233.154/PLTV/88888888/224/3221227006/86440922.sm
 
 
 电影点播,#genre#
+志愿军：雄兵出击,https://play.7re.cc/go?url=p8ECh2gso000oGKfoj3Zwe3u8I9Ozlv1cPOLbegVyTYahkcr7arvW2o0fuTsp3QRj0lUwEZno000o7AMuHymOJo000onI4ygGlfCoUZhAgAO0O0O.m3u8
 战狼,https://txmov2.a.kwimgs.com/upic/2020/12/11/12/BMjAyMDEyMTExMjM1NDRfNDAzMDAxOTlfNDA1MjQ4ODkyMDBfMF8z_b_B464feff0fc15f6544ad0783222e5409f.mp4
 赌神,https://txmov2.a.kwimgs.com/bs3/video-hls/5230086603510673905_hlsb.m3u8?pkey=AAUyMbVkU7WkimubgX0RPM_gxiBDBZ0O6NjXg8fqHAfjVU3xFbWk1Mq_dhogP1fSZfTuxFuTTP4Q9geCGPwtGGOxQWCeEZMzc8A0cmLTyXrZZWUeTZQtSukPK5Y5UyZPBuM
 赌侠1990,https://txmov2.a.kwimgs.com/upic/2021/12/27/23/BMjAyMTEyMjcyMzE0NTFfNDAzMDAxOTlfNjM2NTMxODUxMDBfMF8z_bF_Bdb9e531cd6e9c71bb366fe9c16429985.mp4
