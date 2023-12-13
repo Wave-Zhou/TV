@@ -587,133 +587,72 @@ http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/ott.mobaibox.com/PLTV/4/224/32212
 
 
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://k.sinaimg.cn/n/default/transform/116/w550h366/20180409/gDCK-fytnfyp1107789.png/w700h350z1l10t10428.jpg" group-title="精选电视剧",轮播电视剧
-http://epg.112114.xyz/douyu/9826611                                            
-https://www.goodiptv.club/douyu/9826611                                           
- https://live.metshop.top/douyu/9826611                                            
+#EXTINF:-1 tvg-logo="http://k.sinaimg.cn/n/default/transform/116/w550h366/20180409/gDCK-fytnfyp1107789.png/w700h350z1l10t10428.jpg" group-title="精选电视剧",轮播电视剧                                          
  http://43.138.170.29:35455/douyu/9826611
+https://live.metshop.top/douyu/9826611                                            
 #EXTINF:-1 tvg-logo="https://pic.southmoney.com/southmoney/article/auto-tag/202211/17/7018-17-22111G055215J.jpg" group-title="精选电视剧",影视轮播
 http://mmitv.top/pltv/yy.php?id=1355336008                                            
 http://43.138.170.29:35455/yy/1355336008
-http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1355336008                                            
-https://live.metshop.top/yy/1355336008
-#EXTINF:-1 tvg-logo="https://c-ssl.dtstatic.com/uploads/item/201803/23/20180323171350_At4aJ.thumb.1000_0.jpeg" group-title="精选电视剧",西游记
-http://epg.112114.xyz/douyu/8953746                                            
-https://www.goodiptv.club/douyu/8953746                                            
-https://live.metshop.top/douyu/8953746                                            
+#EXTINF:-1 tvg-logo="https://c-ssl.dtstatic.com/uploads/item/201803/23/20180323171350_At4aJ.thumb.1000_0.jpeg" group-title="精选电视剧",西游记                                            
 http://43.138.170.29:35455/douyu/8953746
 #EXTINF:-1 tvg-logo="https://img.51test.net/uploadfile/images/2018/0226/15196211873343076.jpg" group-title="精选电视剧",西游记续集
-http://epg.112114.xyz/douyu/3113309                                            
-https://www.goodiptv.club/douyu/3113309                                            
-https://live.metshop.top/douyu/3113309                                            
+                                            
 http://43.138.170.29:35455/douyu/3113309
 #EXTINF:-1 tvg-logo="https://n.sinaimg.cn/sinacn20113/644/w1320h924/20181223/cc79-hqqzpku6065213.png" group-title="精选电视剧",济公
 http://mmitv.top/pltv/yy.php?id=25519088
 http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=25519088
 #EXTINF:-1 tvg-logo="https://www.zaoxu.com/uploadfile/imgall/0363d9f2d3572c11df17ded7786e2762d0f703c25a.jpg" group-title="精选电视剧",济公游记
 http://mmitv.top/pltv/yy.php?id=1355265814
-http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1355265814
-https://live.metshop.top/yy/1355265814                                            
+                                           
 http://43.138.170.29:35455/yy/1355265814
 #EXTINF:-1 tvg-logo="https://img1.baidu.com/it/u=2967530525,1230953345&fm=253&fmt=auto&app=138&f=JPEG?w=707&h=500" group-title="精选电视剧",活佛济公
-https://live.metshop.top/huya/11342400                                            
-https://epg.112114.xyz/huya/11342400                                            
-http://43.138.170.29:35455/huya/11342400                                            
-https://www.goodiptv.club/huya/11342400                                            
-http://43.128.40.42:198/虎牙直播/huya.php?id=11342400                                            
-http://hls.ye23.vip/wl/huya2205.php?id=11342400
+http://43.138.170.29:35455/huya/11342400
 #EXTINF:-1 tvg-logo="https://i.gtimg.cn/qqlive/img/jpgcache/files/qqvideo/hori/r/rlwji7xa603mced_a.jpg" group-title="精选电视剧",活佛济公高清
-http://epg.112114.xyz/douyu/8595134                                            
-https://www.goodiptv.club/douyu/8595134                                            
-https://live.metshop.top/douyu/8595134                                            
+                                           
 http://43.138.170.29:35455/douyu/8595134
 #EXTINF:-1 tvg-logo="http://dingyue.nosdn.127.net/dyl3u6YJskmhTnLrub8nNBBtiQSuRapSTviZfkb8Xu6Sc1542749731938compressflag.jpeg" group-title="精选电视剧",神话
-http://epg.112114.xyz/douyu/5448413                                            
-https://www.goodiptv.club/douyu/5448413                                            
-https://live.metshop.top/douyu/5448413                                            
+                                           
 http://43.138.170.29:35455/douyu/5448413
 #EXTINF:-1 tvg-logo="http://p2.itc.cn/images01/20200916/8c5591841e6049edae1c14dc39de6bff.jpeg" group-title="精选电视剧",雪豹
-http://epg.112114.xyz/douyu/11863823                                            
-https://www.goodiptv.club/douyu/11863823                                            
-https://live.metshop.top/douyu/11863823                                            
+                                          
 http://43.138.170.29:35455/douyu/11863823
 #EXTINF:-1 tvg-logo="http://5b0988e595225.cdn.sohucs.com/images/20200218/268fa7f8d5004dcab8881321f9756613.jpeg" group-title="精选电视剧",将夜
-https://epg.112114.xyz/huya/11352885                                            
-http://hls.ye23.vip/wl/huya2205.php?id=11352885
-https://live.metshop.top/huya/11352885                                            
-http://43.128.40.42:198/虎牙直播/huya.php?id=11352885
-http://43.138.170.29:35455/huya/11352885                                            
-https://www.goodiptv.club/huya/11352885
+http://43.138.170.29:35455/huya/11352885
 #EXTINF:-1 tvg-logo="https://p1.itc.cn/images01/20210521/30510f52dddb47e0b1ebd21509200ce6.jpeg" group-title="精选电视剧",遇龙
-https://live.metshop.top/huya/11602034                                            
-http://hls.ye23.vip/wl/huya2205.php?id=11602034
-https://epg.112114.xyz/huya/11602034                                            
-http://43.128.40.42:198/虎牙直播/huya.php?id=11602034
-http://43.138.170.29:35455/huya/11602034                                            
-https://www.goodiptv.club/huya/11602034
+http://43.138.170.29:35455/huya/11602034
 #EXTINF:-1 tvg-logo="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2022%2F0704%2F50956cc7j00rehsgx015dc000sr00k0m.jpg&thumbnail=660x2147483647&quality=80&type=jpg" group-title="精选电视剧",梦华录
+http://43.138.170.29:35455/huya/11336590
 https://epg.112114.xyz/huya/11336590                                            
-http://hls.ye23.vip/wl/huya2205.php?id=11336590
-http://43.138.170.29:35455/huya/11336590                                            
-http://43.128.40.42:198/虎牙直播/huya.php?id=11336590
-https://live.metshop.top/huya/11336590                                            
-https://www.goodiptv.club/huya/11336590
+http://hls.ye23.vip/wl/huya2205.php?id=11336590                                          
+
 #EXTINF:-1 tvg-logo="http://i0.hdslb.com/bfs/archive/3506cb4ae422831ce490d70c8b75b537a8e09082.jpg" group-title="精选电视剧",爱情公寓
-https://epg.112114.xyz/huya/11336726                                            
-http://hls.ye23.vip/wl/huya2205.php?id=11336726
-http://43.138.170.29:35455/huya/11336726                                            
-http://43.128.40.42:198/虎牙直播/huya.php?id=11336726
-https://live.metshop.top/huya/111336726                                            
-https://www.goodiptv.club/huya/111336726
+http://43.138.170.29:35455/huya/11336726
+
 #EXTINF:-1 tvg-logo="http://5b0988e595225.cdn.sohucs.com/images/20180811/a310bbdc216047daba42decd0fb239d5.jpeg" group-title="精选电视剧",爱情公寓高清
-http://epg.112114.xyz/douyu/7495810                                            
-https://www.goodiptv.club/douyu/7495810                                            
-https://live.metshop.top/douyu/7495810                                            
+                                           
 http://43.138.170.29:35455/douyu/7495810
 #EXTINF:-1 tvg-logo="https://pic2.zhimg.com/v2-899c4a9a62c3a8477f9b588528fd5831_b.jpg" group-title="精选电视剧",士兵突击
-http://mmitv.top/pltv/yy.php?id=1382828766                                            
+                                           
 http://43.138.170.29:35455/yy/1382828766
-http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382828766                                            
-https://live.metshop.top/yy/1382828766
+http://mmitv.top/pltv/yy.php?id=1382828766 
 #EXTINF:-1 tvg-logo="http://dingyue.nosdn.127.net/469EFeFeCjNqHCDX7HHKLirG1M0umxbqrbjRcMFJSsWcL1512998212072.jpg" group-title="精选电视剧",士兵突击高清
-http://epg.112114.xyz/douyu/10348728                                            
-https://www.goodiptv.club/douyu/10348728                                            
-https://live.metshop.top/douyu/10348728                                           
+                                         
  http://43.138.170.29:35455/douyu/10348728
 #EXTINF:-1 tvg-logo="http://5b0988e595225.cdn.sohucs.com/images/20180406/2e1bfb627c9d4daba7017a203897791d.jpeg" group-title="精选电视剧",火蓝刀锋
-http://mmitv.top/pltv/yy.php?id=1382737892                                            
 http://43.138.170.29:35455/yy/1382737892
-http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382737892                                            
-https://live.metshop.top/yy/1382737892
 #EXTINF:-1 tvg-logo="http://p7.itc.cn/images01/20201024/7aa7c73fd96443ff86749e944663eec0.jpeg" group-title="精选电视剧",雪中悍刀行
-https://epg.112114.xyz/huya/11336592                                            
-http://hls.ye23.vip/wl/huya2205.php?id=11336592
-http://43.138.170.29:35455/huya/11336592                                            
-http://43.128.40.42:198/虎牙直播/huya.php?id=11336592
-https://live.metshop.top/huya/11336592                                            
-https://www.goodiptv.club/huya/11336592
+http://43.138.170.29:35455/huya/11336592
 #EXTINF:-1 tvg-logo="https://p9.itc.cn/q_70/images03/20220105/0ba46eef5a4c436c8806db6afa8ae8c1.png" group-title="精选电视剧",雪中悍刀行超清
-http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382660835                                            
-http://mmitv.top/pltv/yy.php?id=1382660835                                            
-https://live.metshop.top/yy/1382660835                                            
 http://43.138.170.29:35455/yy/1382660835
 #EXTINF:-1 tvg-logo="https://p7.itc.cn/images01/20220104/6023bcfdd4e442f0a7a9fff8c1690f1e.jpeg" group-title="精选电视剧",雪中悍刀行高清
-http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=29600150                                            
-https://live.metshop.top/yy/29600150
-http://mmitv.top/pltv/yy.php?id=29600150                                            
+                                          
 http://43.138.170.29:35455/yy/29600150
 #EXTINF:-1 tvg-logo="https://img2.ixinwei.com/iww201808/146963.jpg" group-title="精选电视剧",仙剑奇侠传
 http://mmitv.top/pltv/yy.php?id=1382749903                                            
 http://43.138.170.29:35455/yy/1382749903
-http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382749903                                            
-https://live.metshop.top/yy/1382749903
+
 #EXTINF:-1 tvg-logo="http://5b0988e595225.cdn.sohucs.com/images/20180717/3fd90ff1f1f44b28a7a3ccfb968c0e07.jpeg" group-title="精选电视剧",宝莲灯
-https://live.metshop.top/huya/21059563                                            
-http://hls.ye23.vip/wl/huya2205.php?id=21059563
-https://epg.112114.xyz/huya/21059563                                            
-http://43.128.40.42:198/虎牙直播/huya.php?id=21059563
-http://43.138.170.29:35455/huya/21059563                                            
-https://www.goodiptv.club/huya/21059563
+http://43.138.170.29:35455/huya/21059563
 #EXTINF:-1 tvg-logo="http://photocdn.sohu.com/20090420/Img263489330.jpg" group-title="精选电视剧",宝莲灯前传
 http://mmitv.top/pltv/yy.php?id=1354931631                                            
 http://43.138.170.29:35455/yy/1354931631
@@ -725,233 +664,120 @@ http://43.138.170.29:35455/yy/1354932433
 http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354932433                                            
 https://live.metshop.top/yy/1354932433
 #EXTINF:-1 tvg-logo="http://p5.itc.cn/images01/20201207/d9d6ed2a855b4153b40ed3895d536e18.png" group-title="精选电视剧",魔幻手机蓝光
-https://live.metshop.top/huya/11352966                                            
-http://hls.ye23.vip/wl/huya2205.php?id=11352966
-https://epg.112114.xyz/huya/11352966                                            
-http://43.128.40.42:198/虎牙直播/huya.php?id=11352966
-http://43.138.170.29:35455/huya/11352966                                            
-https://www.goodiptv.club/huya/11352966
+http://43.138.170.29:35455/huya/11352966
 #EXTINF:-1 tvg-logo="http://pic.baike.soso.com/p/20090711/20090711200030-2132724176.jpg" group-title="精选电视剧",魔幻手机
-http://mmitv.top/pltv/yy.php?id=1382735544                                            
 http://43.138.170.29:35455/yy/1382735544
-http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382735544                                            
-https://live.metshop.top/yy/1382735544
 #EXTINF:-1 tvg-logo="http://5b0988e595225.cdn.sohucs.com/images/20181020/a1d3bae38026435cadbdfc2a13d9ec35.jpeg" group-title="精选电视剧",伪装者
-http://mmitv.top/pltv/yy.php?id=1354936244                                            
 http://43.138.170.29:35455/yy/1354936244
-http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354936244                                            
-https://live.metshop.top/yy/1354936244
 #EXTINF:-1 tvg-logo="https://p2.itc.cn/q_70/images03/20210601/6d9583d5604948d3b6880bb26269a700.jpeg" group-title="精选电视剧",伪装者高清
-http://epg.112114.xyz/douyu/9388931                                            
-https://www.goodiptv.club/douyu/9388931                                            
-https://live.metshop.top/douyu/9388931                                            
+                                           
 http://43.138.170.29:35455/douyu/9388931
 #EXTINF:-1 tvg-logo="http://p3.itc.cn/images01/20200819/e02c25fc895949739dc363effe8270db.jpeg" group-title="精选电视剧",以家人之名
-http://mmitv.top/pltv/yy.php?id=1382736908                                            
-http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382736908                                            
-https://live.metshop.top/yy/1382736908                                            
+http://mmitv.top/pltv/yy.php?id=1382736908                                                                                      
 http://43.138.170.29:35455/yy/1382736908
 #EXTINF:-1 tvg-logo="http://5b0988e595225.cdn.sohucs.com/images/20190809/50dc994c42464890a24d8a4ff4f7b903.jpeg" group-title="精选电视剧",小欢喜
 http://mmitv.top/pltv/yy.php?id=1382737888                                            
 http://43.138.170.29:35455/yy/1382737888
-http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382737888                                            
-https://live.metshop.top/yy/1382737888
 #EXTINF:-1 tvg-logo="https://p6.itc.cn/images01/20210527/44ae75ccfe69444a8868bc0291ed0fba.jpeg" group-title="精选电视剧",都挺好
-http://mmitv.top/pltv/yy.php?id=1382736892                                            
-http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382736892                                            
-https://live.metshop.top/yy/1382736892                                            
+http://mmitv.top/pltv/yy.php?id=1382736892                                                                                      
 http://43.138.170.29:35455/yy/1382736892
 #EXTINF:-1 tvg-logo="http://5b0988e595225.cdn.sohucs.com/images/20191202/c37ba2062ca9489bb65e33e2c7efa840.jpeg" group-title="精选电视剧",朱元璋
-http://epg.112114.xyz/douyu/11686959                                            
-https://www.goodiptv.club/douyu/11686959                                            
-https://live.metshop.top/douyu/11686959                                            
+                                           
 http://43.138.170.29:35455/douyu/11686959
-#EXTINF:-1 tvg-logo="http://5b0988e595225.cdn.sohucs.com/images/20191218/20f9bd8d49f34a90b538c7977326afac.jpeg" group-title="精选电视剧",庆余年
-http://epg.112114.xyz/douyu/11873641                                            
-https://www.goodiptv.club/douyu/11873641                                            
-https://live.metshop.top/douyu/11873641                                            
+#EXTINF:-1 tvg-logo="http://5b0988e595225.cdn.sohucs.com/images/20191218/20f9bd8d49f34a90b538c7977326afac.jpeg" group-title="精选电视剧",庆余年                                           
 http://43.138.170.29:35455/douyu/11873641
 #EXTINF:-1 tvg-logo="http://5b0988e595225.cdn.sohucs.com/images/20200102/e02f37229e34474a9eb4ad82d65e6866.jpeg" group-title="精选电视剧",庆余年高清
-http://epg.112114.xyz/douyu/7489563                                            
-https://www.goodiptv.club/douyu/7489563                                            
-https://live.metshop.top/douyu/7489563                                            
+                                          
 http://43.138.170.29:35455/douyu/7489563
 #EXTINF:-1 tvg-logo="http://img5.mtime.cn/mg/2019/12/25/172352.40985591.jpg" group-title="精选电视剧",庆余年蓝光
-http://epg.112114.xyz/douyu/1885999                                            
-https://www.goodiptv.club/douyu/1885999                                            
-https://live.metshop.top/douyu/1885999                                            
+                                         
 http://43.138.170.29:35455/douyu/1885999
 #EXTINF:-1 tvg-logo="http://5b0988e595225.cdn.sohucs.com/images/20191024/d7c8724814a24d5c8dba9215ddeda9c2.jpeg" group-title="精选电视剧",大秦系列
-http://epg.112114.xyz/douyu/1584198                                            
-https://www.goodiptv.club/douyu/1584198                                            
-https://live.metshop.top/douyu/1584198                                            
+                                          
 http://43.138.170.29:35455/douyu/1584198
 #EXTINF:-1 tvg-logo="http://img.mp.itc.cn/upload/20170728/e9fc5eef8e854fbf8481926374242ef4_th.jpg" group-title="精选电视剧",我的前半生
 http://mmitv.top/pltv/yy.php?id=1382735564                                            
 http://43.138.170.29:35455/yy/1382735564
-http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382735564                                            
-https://live.metshop.top/yy/1382735564
 #EXTINF:-1 tvg-logo="http://5b0988e595225.cdn.sohucs.com/images/20180327/fea630ea6b824795aa901565d7d42ecc.jpg" group-title="精选电视剧",最美的青春
-http://mmitv.top/pltv/yy.php?id=1382745116                                            
 http://43.138.170.29:35455/yy/1382745116
-http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382745116                                            
-https://live.metshop.top/yy/1382745116
 #EXTINF:-1 tvg-logo="http://heilongjiang.sinaimg.cn/2013/0810/U10057P1274DT20130810094019.jpg" group-title="精选电视剧",龙门镖局
-https://epg.112114.xyz/huya/11352874                                            
-http://hls.ye23.vip/wl/huya2205.php?id=11352874
-http://43.138.170.29:35455/huya/11352874                                            
-http://43.128.40.42:198/虎牙直播/huya.php?id=11352874
-https://live.metshop.top/huya/11352874                                            
-https://www.goodiptv.club/huya/11352874
+http://43.138.170.29:35455/huya/11352874
 #EXTINF:-1 tvg-logo="http://5b0988e595225.cdn.sohucs.com/images/20191012/8995e2ee538e41e6bf55578230246922.jpeg" group-title="精选电视剧",父母爱情高清
 http://mmitv.top/pltv/yy.php?id=1354926650                                            
 http://43.138.170.29:35455/yy/1354926650
-http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354926650                                            
-https://live.metshop.top/yy/1354926650
+
 #EXTINF:-1 tvg-logo="http://5b0988e595225.cdn.sohucs.com/images/20180615/47ad3381cb034868a3093d7682e08668.jpg" group-title="精选电视剧",父母爱情超清
-http://mmitv.top/pltv/yy.php?id=1382746276                                            
 http://43.138.170.29:35455/yy/1382746276
-http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382746276                                            
-https://live.metshop.top/yy/1382746276
 #EXTINF:-1 tvg-logo="http://5b0988e595225.cdn.sohucs.com/images/20180827/38fdf0a21f5f4f5fbf0354a794d8ad86.jpeg" group-title="精选电视剧",父母爱情
-http://mmitv.top/pltv/yy.php?id=1382768483                                            
-http://43.138.170.29:35455/yy/1382768483                                            
-http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382768483                                            
-https://live.metshop.top/yy/1382768483
+http://43.138.170.29:35455/yy/1382768483
 #EXTINF:-1 tvg-logo="http://5b0988e595225.cdn.sohucs.com/images/20181030/b762d3f7209645bd9ffcd1f69bccc810.jpeg" group-title="精选电视剧",陈晓版神雕侠侣
-https://epg.112114.xyz/huya/11352964                                            
-http://hls.ye23.vip/wl/huya2205.php?id=11352964
-http://43.138.170.29:35455/huya/11352964                                            
-http://43.128.40.42:198/虎牙直播/huya.php?id=11352964
-https://live.metshop.top/huya/11352964                                            
-https://www.goodiptv.club/huya/11352964
+http://43.138.170.29:35455/huya/11352964
 #EXTINF:-1 tvg-logo="http://img.mp.itc.cn/upload/20160708/6c7fa5cc9dcb406a95acdab3d0c341ea_th.jpg" group-title="精选电视剧",欢乐颂
 http://mmitv.top/pltv/yy.php?id=1382735624                                            
 http://43.138.170.29:35455/yy/1382735624颂
-http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382735624                                            
-https://live.metshop.top/yy/1382735624
+
 #EXTINF:-1 tvg-logo="http://5b0988e595225.cdn.sohucs.com/images/20171205/ceba68560ac5428aa74f8aa62dfec833.jpeg" group-title="精选电视剧",平凡岁月
 http://mmitv.top/pltv/yy.php?id=1382745117                                            
 http://43.138.170.29:35455/yy/1382745117
-http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382745117                                            
-https://live.metshop.top/yy/1382745117
 #EXTINF:-1 tvg-logo="http://5b0988e595225.cdn.sohucs.com/images/20191004/7dc5a1afe8604e8284f350250f56cd57.jpeg" group-title="精选电视剧",陈情令
 http://mmitv.top/pltv/yy.php?id=1382745121                                            
 http://43.138.170.29:35455/yy/1382745121
-http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382745121                                            
-https://live.metshop.top/yy/1382745121
 #EXTINF:-1 tvg-logo="https://p4.itc.cn/images01/20220111/bfc783fc89284e71b4eb88c9b5696aff.jpeg" group-title="精选电视剧",燕云台
-http://mmitv.top/pltv/yy.php?id=1382736895                                            
-http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382736895                                            
-https://live.metshop.top/yy/1382736895                                            
 http://43.138.170.29:35455/yy/1382736895
 #EXTINF:-1 tvg-logo="https://imge.gmw.cn/attachement/jpg/site2/20220714/00d8615120472439c85c1d.jpg" group-title="精选电视剧",星汉灿烂
-http://mmitv.top/pltv/yy.php?id=1354806550                                            
 http://43.138.170.29:35455/yy/1354806550
-http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354806550                                            
-https://live.metshop.top/yy/1354806550
 #EXTINF:-1 tvg-logo="https://khnews.zjol.com.cn/pic/0/11/37/59/11375981_775815.jpg" group-title="精选电视剧",铁梨花
-https://epg.112114.xyz/huya/11352912                                            
-http://hls.ye23.vip/wl/huya2205.php?id=11352912
-http://43.138.170.29:35455/huya/11352912                                            
-http://43.128.40.42:198/虎牙直播/huya.php?id=11352912
-https://live.metshop.top/huya/11352912                                            
-https://www.goodiptv.club/huya/11352912
+http://43.138.170.29:35455/huya/11352912
 #EXTINF:-1 tvg-logo="https://5b0988e595225.cdn.sohucs.com/images/20171127/1a6b804bfbc3464084e1e03aeb4891da.jpeg" group-title="精选电视剧",勇敢的心
 http://mmitv.top/pltv/yy.php?id=1354744544                                            
 http://43.138.170.29:35455/yy/1354744544
-http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354744544                                            
-https://live.metshop.top/yy/1354744544
 #EXTINF:-1 tvg-logo="http://img3.donews.com/uploads/adm/img_pic_1532918918.jpg" group-title="精选电视剧",盗墓笔记
-http://mmitv.top/pltv/yy.php?id=1382702247                                            
-http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382702247                                            
-https://live.metshop.top/yy/1382702247                                            
 http://43.138.170.29:35455/yy/1382702247
 #EXTINF:-1 tvg-logo="https://nimg.ws.126.net/?url=http://videoimg.ws.126.net/cover/20230215/3EpPsH5Sk_cover.jpg&thumbnail=668y375&quality=95&type=jpg" group-title="精选电视剧",小兵张嘎
 http://mmitv.top/pltv/yy.php?id=1354930225                                            
 http://43.138.170.29:35455/yy/1354930225
-http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354930225                                            
-https://live.metshop.top/yy/1354930225
-#EXTINF:-1 tvg-logo="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2020%2F1005%2Fd86327ebj00qhpkby0012d000hs00amp.jpg&thumbnail=650x2147483647&quality=80&type=jpg" group-title="精选电视剧",小兵张嘎高清
-http://epg.112114.xyz/douyu/8366759                                            
-https://www.goodiptv.club/douyu/8366759                                            
-https://live.metshop.top/douyu/8366759                                            
+#EXTINF:-1 tvg-logo="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2020%2F1005%2Fd86327ebj00qhpkby0012d000hs00amp.jpg&thumbnail=650x2147483647&quality=80&type=jpg" group-title="精选电视剧",小兵张嘎高清                                          
 http://43.138.170.29:35455/douyu/8366759
 #EXTINF:-1 tvg-logo="http://img.mp.itc.cn/upload/20160616/c138944d83b0497e855f1e5cef35d8cd_th.jpg" group-title="精选电视剧",神医喜来乐
-https://epg.112114.xyz/huya/11601978                                            
-http://hls.ye23.vip/wl/huya2205.php?id=11601978
 http://43.138.170.29:35455/huya/11601978                                            
 http://43.128.40.42:198/虎牙直播/huya.php?id=11601978
 https://live.metshop.top/huya/11601978                                            
 https://www.goodiptv.club/huya/11601978
 #EXTINF:-1 tvg-logo="http://image.uczzd.cn/7978250614492794514.jpg?id=0" group-title="精选电视剧",神医喜来乐高清
-http://mmitv.top/pltv/yy.php?id=1382714119                                            
 http://43.138.170.29:35455/yy/1382714119
-http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382714119                                            
-https://live.metshop.top/yy/1382714119
 #EXTINF:-1 tvg-logo="http://img1.cache.netease.com/ent/2015/2/3/2015020310003124ceb.jpg" group-title="精选电视剧",医馆笑传
-https://epg.112114.xyz/huya/11352891                                            
-http://hls.ye23.vip/wl/huya2205.php?id=11352891
-http://43.138.170.29:35455/huya/11352891                                            
-http://43.128.40.42:198/虎牙直播/huya.php?id=11352891
-https://live.metshop.top/huya/11352891                                            
-https://www.goodiptv.club/huya/11352891
+http://43.138.170.29:35455/huya/11352891
+
 #EXTINF:-1 tvg-logo="http://img.mp.sohu.com/q_70,c_zoom,w_640/upload/20170727/506fc418e73f472cba6fcf8a64fc6ed1_th.jpg" group-title="精选电视剧",铁齿铜牙纪晓岚
-https://epg.112114.xyz/huya/11342396                                            
-http://hls.ye23.vip/wl/huya2205.php?id=11342396
-http://43.138.170.29:35455/huya/11342396                                            
-http://43.128.40.42:198/虎牙直播/huya.php?id=11342396
-https://live.metshop.top/huya/11342396                                            
-https://www.goodiptv.club/huya/11342396
+http://43.138.170.29:35455/huya/11342396
 #EXTINF:-1 tvg-logo="http://5b0988e595225.cdn.sohucs.com/images/20180419/cba3fae709984150afb34a67126dd711.jpeg" group-title="精选电视剧",铁齿铜牙纪晓岚蓝光
 http://mmitv.top/pltv/yy.php?id=1382781415                                            
 http://43.138.170.29:35455/yy/1382781415
-http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382781415                                            
-https://live.metshop.top/yy/1382781415
+
 #EXTINF:-1 tvg-logo="http://photocdn.sohu.com/20100607/Img272613617.jpg" group-title="精选电视剧",新三国
-https://epg.112114.xyz/huya/11352944                                            
-http://hls.ye23.vip/wl/huya2205.php?id=11352944
-http://43.138.170.29:35455/huya/11352944                                            
-http://43.128.40.42:198/虎牙直播/huya.php?id=11352944
-https://live.metshop.top/huya/11352944                                            
-https://www.goodiptv.club/huya/11352944
+http://43.138.170.29:35455/huya/11352944
 #EXTINF:-1 tvg-logo="https://nimg.ws.126.net/?url=http%3A%2F%2Fvideoimg.ws.126.net%2Fcover%2F20230531%2FHmTFD6zl0_cover.jpg&thumbnail=668y375&quality=95&type=jpg" group-title="精选电视剧",新三国高清
-http://epg.112114.xyz/douyu/5908256                                            
-https://www.goodiptv.club/douyu/5908256                                            
-https://live.metshop.top/douyu/5908256                                            
+                                           
 http://43.138.170.29:35455/douyu/5908256
 #EXTINF:-1 tvg-logo="http://5b0988e595225.cdn.sohucs.com/images/20171203/a7eca16528ff4ac9873206c3d085557b.jpeg" group-title="精选电视剧",雍正王朝
-https://epg.112114.xyz/huya/11342439                                            
-http://hls.ye23.vip/wl/huya2205.php?id=11342439
-http://43.138.170.29:35455/huya/11342439                                            
-http://43.128.40.42:198/虎牙直播/huya.php?id=11342439
-https://live.metshop.top/huya/11342439                                            
-https://www.goodiptv.club/huya/11342439
+http://43.138.170.29:35455/huya/11342439
 #EXTINF:-1 tvg-logo="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2022%2F1227%2F7ce762cdj00rnjmca001hd000rs00ekp.jpg&thumbnail=660x2147483647&quality=80&type=jpg" group-title="精选电视剧",雍正王朝超清
 http://mmitv.top/pltv/yy.php?id=26650882                                            
 http://43.138.170.29:35455/yy/26650882
-http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=26650882                                            
-https://live.metshop.top/yy/26650882
+
 #EXTINF:-1 tvg-logo="http://pic.baike.soso.com/p/20131203/20131203152501-1427659102.jpg" group-title="精选电视剧",钟馗传说
 http://mmitv.top/pltv/yy.php?id=1382736839                                            
 http://43.138.170.29:35455/yy/1382736839
-http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382736839                                            
-https://live.metshop.top/yy/1382736839
+
 #EXTINF:-1 tvg-logo="http://img.mp.itc.cn/upload/20170227/d9d057bf638b42b082119a4443a68457_th.jpg" group-title="精选电视剧",憨豆先生
 http://mmitv.top/pltv/yy.php?id=1354930189                                            
 http://43.138.170.29:35455/yy/1354930189
 http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354930189                                            
 https://live.metshop.top/yy/1354930189
 #EXTINF:-1 tvg-logo="http://5b0988e595225.cdn.sohucs.com/images/20190602/37d451385b89461ca00fafcf59e55373.jpeg" group-title="精选电视剧",吴京系列
-http://mmitv.top/pltv/yy.php?id=1456668939                                            
 http://43.138.170.29:35455/yy/1456668939
-http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1456668939                                            
-https://live.metshop.top/yy/1456668939
 #EXTINF:-1 tvg-logo="http://p4.itc.cn/images01/20200518/de653d1d9ac84619a97500c56290cfc3.jpeg" group-title="精选电视剧",吴京系列高清
-http://mmitv.top/pltv/yy.php?id=1354784284                                            
 http://43.138.170.29:35455/yy/1354784284
-http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354784284                                            
-https://live.metshop.top/yy/1354784284
 #EXTINF:-1 tvg-logo="https://www.vsread.com/iconograph/2013-11-24/0b1f9f5c9fbd243fc71e537c4dee51ca.jpg" group-title="精选电视剧",火凤凰
 http://mmitv.top/pltv/yy.php?id=1463088777                                            
 http://43.138.170.29:35455/yy/1463088777
@@ -962,8 +788,7 @@ http://mmitv.top/pltv/yy.php?id=1382828770
 http://43.138.170.29:35455/yy/1382828770
 http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382828770                                            
 https://live.metshop.top/yy/1382828770
-#EXTINF:-1 tvg-logo="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2023%2F0328%2F1ad3fecfj00rs84n9000pc000hs009pg.jpg&thumbnail=660x2147483647&quality=80&type=jpg" group-title="精选电视剧",狂飙高清
-http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382764587                                            
+#EXTINF:-1 tvg-logo="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2023%2F0328%2F1ad3fecfj00rs84n9000pc000hs009pg.jpg&thumbnail=660x2147483647&quality=80&type=jpg" group-title="精选电视剧",狂飙高清                                          
 http://mmitv.top/pltv/yy.php?id=1382764587                                           
 https://live.metshop.top/yy/1382764587                                            
 http://43.138.170.29:35455/yy/1382764587
@@ -975,9 +800,6 @@ https://live.metshop.top/yy/1354790484
 #EXTINF:-1 tvg-logo="http://5b0988e595225.cdn.sohucs.com/images/20190113/eea35f7c88484d5cad893b1061e44669.jpeg" group-title="精选电视剧",知否知否
 http://[2409:8087:2001:20:2800:0:df6e:eb21]:80/ott.mobaibox.com/PLTV/4/224/3221228465/index.m3u8
 #EXTINF:-1 tvg-logo="http://5b0988e595225.cdn.sohucs.com/images/20191126/b37137c740234b1ba662c8b23b47709f.jpeg" group-title="精选电视剧",知否知否高清
-http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=21881901                                            
-http://mmitv.top/pltv/yy.php?id=21881901                                            
-https://live.metshop.top/yy/21881901                                            
 http://43.138.170.29:35455/yy/21881901
 #EXTINF:-1 tvg-logo="http://5b0988e595225.cdn.sohucs.com/images/20190111/8098b002811d43bcb3a06b547b6774e2.jpg" group-title="精选电视剧",知否知否超清
 http://mmitv.top/pltv/yy.php?id=1351537467                                            
@@ -990,10 +812,11 @@ http://43.138.170.29:35455/yy/1382736850
 http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382736850                                            
 https://live.metshop.top/yy/1382736850
 #EXTINF:-1 tvg-logo="https://img04.sogoucdn.com/app/a/100520093/00f7ce062ff37075-52173f9ca1848127-293a3e2e3c37bab5255cec49ca0dc3ec.jpg" group-title="精选电视剧",花千骨
+http://43.138.170.29:35455/yy/53320802
 http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=53320802                                            
 http://mmitv.top/pltv/yy.php?id=53320802                                            
 https://live.metshop.top/yy/53320802                                            
-http://43.138.170.29:35455/yy/53320802
+
 #EXTINF:-1 tvg-logo="http://5b0988e595225.cdn.sohucs.com/images/20191007/d33b0b8dc1d8475ca55d600a71621cb7.jpeg" group-title="精选电视剧",燕双鹰高清
 http://mmitv.top/pltv/yy.php?id=1354825244                                            
 https://live.metshop.top/yy/1354825244                                            
@@ -1015,55 +838,38 @@ http://43.138.170.29:35455/yy/1382736843
 http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382736843                                            
 https://live.metshop.top/yy/1382736843
 #EXTINF:-1 tvg-logo="http://5b0988e595225.cdn.sohucs.com/images/20181119/8c985d84bd674033bf9f307cbdb73542.jpeg" group-title="精选电视剧",法外风云
-http://mmitv.top/pltv/yy.php?id=1382736805                                            
 http://43.138.170.29:35455/yy/1382736805
-http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382736805                                           
-https://live.metshop.top/yy/1382736805
 #EXTINF:-1 tvg-logo="http://img1.gtimg.com/ent/pics/hv1/168/190/2241/145769643.jpg" group-title="精选电视剧",苦乐村官
-http://mmitv.top/pltv/yy.php?id=1382736864                                            
 http://43.138.170.29:35455/yy/1382736864
-http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382736864                                            
-https://live.metshop.top/yy/1382736864
 #EXTINF:-1 tvg-logo="http://img.mp.itc.cn/upload/20161229/744e36ffbbf845c9971219dc15f35677_th.jpeg" group-title="精选电视剧",小草青青
 http://mmitv.top/pltv/yy.php?id=1354658062                                            
 http://43.138.170.29:35455/yy/1354658062
 http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354658062                                            
 https://live.metshop.top/yy/1354658062
 #EXTINF:-1 tvg-logo="https://p1.itc.cn/images01/20211023/245d0af17037432e8efa85aefcdde578.png" group-title="精选电视剧",大明宫词
-http://mmitv.top/pltv/yy.php?id=1382745190                                            
 http://43.138.170.29:35455/yy/1382745190
-http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382745190                                            
-https://live.metshop.top/yy/1382745190
 #EXTINF:-1 tvg-logo="https://pic.baike.soso.com/ugc/baikepic2/0/ori-20170328220429-1629619871.jpg/800" group-title="精选电视剧",功夫婆媳
 http://mmitv.top/pltv/yy.php?id=1382736883                                            
 http://43.138.170.29:35455/yy/1382736883
 http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382736883                                            
 https://live.metshop.top/yy/1382736883
 #EXTINF:-1 tvg-logo="https://pic1.iqiyipic.com/image/20230413/6b/ed/a_100038760_m_601_m11_480_270.jpg" group-title="精选电视剧",真心想让你幸福
-http://mmitv.top/pltv/yy.php?id=1382736876                                            
 http://43.138.170.29:35455/yy/1382736876
-http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382736876                                            
-https://live.metshop.top/yy/1382736876
 #EXTINF:-1 tvg-logo="http://p1.ifengimg.com/a/2017_37/1249d50183168ec_size174_w1280_h942.jpg" group-title="精选电视剧",田姐辣妹
 http://mmitv.top/pltv/yy.php?id=1354932375                                            
 http://43.138.170.29:35455/yy/1354932375
 http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354932375                                            
 https://live.metshop.top/yy/1354932375
 #EXTINF:-1 tvg-logo="http://y2.ifengimg.com/ent_spider/dci_2013/02/71c640d23f7457cf48e3dd36fabb830e.jpg" group-title="精选电视剧",隋唐演义
+http://43.138.170.29:35455/douyu/7552568
 http://epg.112114.xyz/douyu/7552568                                            
 https://www.goodiptv.club/douyu/7552568                                            
 https://live.metshop.top/douyu/7552568                                            
-http://43.138.170.29:35455/douyu/7552568
+
 #EXTINF:-1 tvg-logo="https://spider.nosdn.127.net/ea4dec6845df2d7f874421e10e3965a1.jpeg" group-title="精选电视剧",隋唐英雄传
-http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1352475619                                            
-http://mmitv.top/pltv/yy.php?id=1352475619                                            
-https://live.metshop.top/yy/1352475619                                            
 http://43.138.170.29:35455/yy/1352475619
 #EXTINF:-1 tvg-logo="http://img.mp.itc.cn/upload/20170425/f7f04178625e44f1bd6d99e41d849093_th.jpeg" group-title="精选电视剧",天龙八部
-http://mmitv.top/pltv/yy.php?id=1382749944                                            
 http://43.138.170.29:35455/yy/1382749944
-http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382749944                                            
-https://live.metshop.top/yy/1382749944
 #EXTINF:-1 tvg-logo="https://gss0.baidu.com/7Po3dSag_xI4khGko9WTAnF6hhy/zhidao/wh%3D600%2C800/sign=b6a8b3be41c2d562f25dd8ebd721bcd7/7acb0a46f21fbe0964f3deca65600c338644adba.jpg" group-title="精选电视剧",天龙八部高清
 http://mmitv.top/pltv/yy.php?id=1351814644                                            
 http://43.138.170.29:35455/yy/1351814644
@@ -1075,45 +881,28 @@ http://43.138.170.29:35455/yy/1382736855
 http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382736855                                            
 https://live.metshop.top/yy/1382736855
 #EXTINF:-1 tvg-logo="http://m.iqiyipic.com/u6/image/20200613/fd/13/pv_16869224800_d_601_220_124.jpg" group-title="精选电视剧",插翅难逃
-http://mmitv.top/pltv/yy.php?id=23402146                                            
 http://43.138.170.29:35455/yy/23402146
-http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=23402146                                            
-https://live.metshop.top/yy/23402146
 #EXTINF:-1 tvg-logo="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2023%2F0324%2Fa4baca50j00rs0swd000rc000ht00a1m.jpg&thumbnail=660x2147483647&quality=80&type=jpg" group-title="精选电视剧",宰相刘罗锅
-http://mmitv.top/pltv/yy.php?id=1382745191                                            
 http://43.138.170.29:35455/yy/1382745191
-http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382745191                                            
-https://live.metshop.top/yy/1382745191
 #EXTINF:-1 tvg-logo="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2023%2F0324%2Fa4baca50j00rs0swd000rc000ht00a1m.jpg&thumbnail=660x2147483647&quality=80&type=jpg" group-title="精选电视剧",宰相刘罗锅高清
 http://mmitv.top/pltv/yy.php?id=1353892468                                            
 http://43.138.170.29:35455/yy/1353892468
 http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1353892468                                            
 https://live.metshop.top/yy/1353892468
 #EXTINF:-1 tvg-logo="http://5b0988e595225.cdn.sohucs.com/q_70,c_zoom,w_640/images/20181028/496edb3c685c4ddaa45066b120369c15.jpeg" group-title="精选电视剧",正阳门下
-http://mmitv.top/pltv/yy.php?id=1354931580                                            
 http://43.138.170.29:35455/yy/1354931580
-http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354931580                                            
-https://live.metshop.top/yy/1354931580
 #EXTINF:-1 tvg-logo="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2023%2F0817%2F73bc3638j00rzimbi00zxc000tx00jym.jpg&thumbnail=660x2147483647&quality=80&type=jpg" group-title="精选电视剧",正阳门下高清
-http://mmitv.top/pltv/yy.php?id=1453059740                                            
 http://43.138.170.29:35455/yy/1453059740
-http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1453059740                                            
-https://live.metshop.top/yy/1453059740
 #EXTINF:-1 tvg-logo="http://5b0988e595225.cdn.sohucs.com/images/20181015/b80edb99997448a49ddb660ef4ceb008.jpeg" group-title="精选电视剧",情满四合院
 http://mmitv.top/pltv/yy.php?id=1382735541                                            
 http://43.138.170.29:35455/yy/1382735541
 http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382735541                                            
 https://live.metshop.top/yy/1382735541
 #EXTINF:-1 tvg-logo="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2023%2F1121%2F8b25b96fj00s4hdie0031c000x200num.jpg&thumbnail=660x2147483647&quality=80&type=jpg" group-title="精选电视剧",情满四合院高清
-http://mmitv.top/pltv/yy.php?id=1382736848                                            
+http://mmitv.top/pltv/yy.php?id=1382736848
 http://43.138.170.29:35455/yy/1382736848
-http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382736848                                            
-https://live.metshop.top/yy/1382736848
 #EXTINF:-1 tvg-logo="https://p3.itc.cn/q_70/images03/20210830/ad53a4be4f45481b9170898fa9dc002a.jpeg" group-title="精选电视剧",情满四合院超清
-http://mmitv.top/pltv/yy.php?id=1382736888                                            
 http://43.138.170.29:35455/yy/1382736888
-http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382736888                                            
-https://live.metshop.top/yy/1382736888
 #EXTINF:-1 tvg-logo="http://p3.ssl.cdn.btime.com/t014561793e58a19e9d.jpg?size=640x415" group-title="精选电视剧",新白娘子传奇
 http://mmitv.top/pltv/yy.php?id=1354490667                                            
 http://43.138.170.29:35455/yy/1354490667
@@ -1125,40 +914,22 @@ http://43.138.170.29:35455/yy/1354930969
 http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354930969                                            
 https://live.metshop.top/yy/1354930969
 #EXTINF:-1 tvg-logo="https://gss0.baidu.com/-4o3dSag_xI4khGko9WTAnF6hhy/zhidao/pic/item/c9fcc3cec3fdfc033e73c359df3f8794a5c226c3.jpg" group-title="精选电视剧",笑傲江湖
-http://mmitv.top/pltv/yy.php?id=1354930909                                            
 http://43.138.170.29:35455/yy/1354930909
-http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354930909                                            
-https://live.metshop.top/yy/1354930909
 #EXTINF:-1 tvg-logo="http://upload.hljtv.com/2015/0215/1423987933556.png" group-title="精选电视剧",石敢当
-http://mmitv.top/pltv/yy.php?id=1394156613                                            
-http://43.138.170.29:35455/yy/1394156613
-http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1394156613                                            
-https://live.metshop.top/yy/1394156613
+http://mmitv.top/pltv/yy.php?id=1394156613
 #EXTINF:-1 tvg-logo="http://i2.sinaimg.cn/ent/x/2007-12-01/f91c231d31b1f4353d7a027850f4a3ce.jpg" group-title="精选电视剧",金婚
-http://mmitv.top/pltv/yy.php?id=1382828768                                            
-http://43.138.170.29:35455/yy/1382828768
-http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382828768                                            
-https://live.metshop.top/yy/1382828768
+http://mmitv.top/pltv/yy.php?id=1382828768
 #EXTINF:-1 tvg-logo="http://www.hinews.cn/pic/0/10/27/54/10275404_529798.jpg" group-title="精选电视剧",金婚超清
-http://mmitv.top/pltv/yy.php?id=1382736832                                            
 http://43.138.170.29:35455/yy/1382736832
-http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382736832                                            
-https://live.metshop.top/yy/1382736832
 #EXTINF:-1 tvg-logo="http://pic.baike.soso.com/ugc/baikepic2/10079/ori-20160307012032-2109814987.jpg/0" group-title="精选电视剧",大汉天子S1
-http://mmitv.top/pltv/yy.php?id=1382749902                                            
 http://43.138.170.29:35455/yy/1382749902
-http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382749902                                            
-https://live.metshop.top/yy/1382749902
 #EXTINF:-1 tvg-logo="https://photo.sohu.com/2004/04/30/16/Img220011669.jpg" group-title="精选电视剧",大汉天子S2
 http://mmitv.top/pltv/yy.php?id=1382736807                                            
 http://43.138.170.29:35455/yy/1382736807
 http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382736807                                            
 https://live.metshop.top/yy/1382736807
 #EXTINF:-1 tvg-logo="http://p4.qhimg.com/t018cb22272e62df14a.jpg" group-title="精选电视剧",大汉天子S3
-http://mmitv.top/pltv/yy.php?id=1382736810                                            
 http://43.138.170.29:35455/yy/1382736810
-http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382736810                                            
-https://live.metshop.top/yy/1382736810
 #EXTINF:-1 tvg-logo="https://newpaper.dahe.cn/jrxf/res/1/20101105/20591288902588203.jpg" group-title="精选电视剧",公主嫁到
 http://mmitv.top/pltv/yy.php?id=1382736915                                            
 http://43.138.170.29:35455/yy/1382736915
@@ -1245,10 +1016,7 @@ http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382736868
 https://live.metshop.top/yy/1382736868                                            
 http://43.138.170.29:35455/yy/1382736868
 #EXTINF:-1 tvg-logo="http://5b0988e595225.cdn.sohucs.com/images/20190116/e94f76b5e8144883af783e9adc43ff9b.jpeg" group-title="精选电视剧",大帅哥
-http://mmitv.top/pltv/yy.php?id=1382736842                                            
 http://43.138.170.29:35455/yy/1382736842
-http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382736842                                            
-https://live.metshop.top/yy/1382736842
 #EXTINF:-1 tvg-logo="http://5b0988e595225.cdn.sohucs.com/q_70,c_zoom,w_640/images/20180522/3efeeb7d4ec0492eb620fa42f957673c.jpeg" group-title="精选电视剧",深海利剑
 http://mmitv.top/pltv/yy.php?id=1382736906                                            
 http://43.138.170.29:35455/yy/1382736906
@@ -1295,10 +1063,7 @@ http://43.138.170.29:35455/yy/1354930945
 http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354930945                                            
 https://live.metshop.top/yy/1354930945
 #EXTINF:-1 tvg-logo="https://5b0988e595225.cdn.sohucs.com/images/20191205/8b449d8c299c466d9df1f401e934188c.jpeg" group-title="精选电视剧",通天狄仁杰
-http://mmitv.top/pltv/yy.php?id=1354658051                                            
 http://43.138.170.29:35455/yy/1354658051
-http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354658051                                            
-https://live.metshop.top/yy/1354658051
 #EXTINF:-1 tvg-logo="http://www.gscn.com.cn/pic/0/10/03/04/10030458_984756.jpg" group-title="精选电视剧",耀舞长安
 http://mmitv.top/pltv/yy.php?id=1382741640                                            
 http://43.138.170.29:35455/yy/1382741640
@@ -1962,9 +1727,6 @@ https://epg.112114.xyz/huya/11342421
 http://43.128.40.42:198/虎牙直播/huya.php?id=11342421
 
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/影迷电影.png" group-title="明星经典",林正英2
-http://mmitv.top/pltv/yy.php?id=1351505899
-http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1351505899
-https://live.metshop.top/yy/1351505899
 http://43.138.170.29:35455/yy/1351505899
 
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/影迷电影.png" group-title="明星经典",周润发1
@@ -2134,3 +1896,5 @@ http://[2409:8087:1a01:df::4033]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:1a01:df::402a]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕系列",咪咕直播-56
 http://[2409:8087:1a01:df::4046]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
+
+
