@@ -1,4 +1,6 @@
-
+测试,#genre#
+雍正,https://live.goodiptv.club/api/huya.php?id=11342439
+王朝,https://ygbh--xingkongbujian.repl.co/huya/11342439
 央视频道,#genre#      
 
 CCTV1,rtsp://115.153.233.154/PLTV/88888888/224/3221225699/iptv8040.smil
