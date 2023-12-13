@@ -1,9 +1,3 @@
-测试,#genre#
-华语,http://lxajh.top/tv/douyu.php?id=8465358
-王朝,http://8.210.232.168/php/douyu1.php?id=8465358
-1,http://103.45.68.47:666/gy/gy_PpqI/斗鱼.php?id=8465358
-2,https://tv.iill.top/douyu/8465358
-3,http://mmitv.top/test/douyu.php?id=8465358
 央视频道,#genre#      
 
 CCTV1,rtsp://115.153.233.154/PLTV/88888888/224/3221225699/iptv8040.smil
