@@ -2881,7 +2881,6 @@ NewTV明星大片,http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/wh7f454c46tw285
 【电影】鬼片恐怖私人影院,https://live.metshop.top/yy/1354952229   
 【电影】鬼片恐怖私人影院,http://43.138.170.29:35455/yy/1354952229
 
-
 科幻电影,#genre#      
 
 【电影】玄幻影院,https://live.metshop.top/huya/11342414   
@@ -2970,7 +2969,6 @@ NewTV明星大片,http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/wh7f454c46tw285
 【电影】超燃科幻大片：明日边缘,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382736835   
 【电影】超燃科幻大片：明日边缘,https://live.metshop.top/yy/1382736835   
 【电影】超燃科幻大片：明日边缘,http://43.138.170.29:35455/yy/1382736835
-
 
 战争电影,#genre#   
 
@@ -3087,18 +3085,7 @@ NewTV明星大片,http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/wh7f454c46tw285
 【电影】解放：苏联战争巨片,https://live.metshop.top/yy/WORD    
 【电影】解放：苏联战争巨片,http://43.138.170.29:35455/yy/1354936249
 
-
 明星经典,#genre#      
-
-
-
-
-
-
-
-
-
-
 
 【电影】周星驰,http://123.132.226.194:31028/hls/39/index.m3u8
 
@@ -3265,9 +3252,8 @@ NewTV明星大片,http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/wh7f454c46tw285
 【电影】金庸,http://43.138.170.29:35455/huya/11602082   
 【电影】金庸,https://www.goodiptv.club/huya/11602082
 
-
-
 动漫动画,#genre#      
+
 黑莓动画,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 
 金鹰卡通,rtsp://115.153.212.72/PLTV/88888888/224/3221225585/iptv7983.smil?
@@ -3284,7 +3270,6 @@ NewTV明星大片,http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/wh7f454c46tw285
 卡酷少儿,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001245/index.m3u8   
 卡酷少儿,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001245/index.m3u8?love=freedom
 卡酷少儿,http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tw1904540750_-2025464312/ott.mobaibox.com/PLTV/88888890/224/3221226305/index.m3u8?icpid=88888890&RTS=1687954116&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
-
 
 浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 
@@ -3430,7 +3415,6 @@ IPTV少儿动画,rtsp://115.153.233.154/PLTV/88888888/224/3221227006/86440922.sm
 圣斗士星矢,https://www.goodiptv.club/douyu/8458270
 圣斗士星矢,https://live.metshop.top/douyu/8458270
 圣斗士星矢,http://43.138.170.29:35455/douyu/8458270
-
 
 经典音乐,#genre#      
 周杰伦,https://xy180x97x222x37xy.mcdn.bilivideo.cn:486/live-bvc/578416/live_298778185_9463386_1500/index.m3u8?expires=1700803086&len=0&oi=3060766400&pt=web&qn=0&trid=10077ec4aa48d3f44abb88ed2b27ca8d7dac&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha16&sign=f678a4f50069c603abc291b1d7241f9d&sk=fdabd7a10bd6d396dcb8744a97ff118c&flvsk=657e1ac1e010c75aa8c2a995fb0e48a5&p2p_type=1&sl=2&free_type=0&mid=511173618&sid=mcdn-wx-jscz-ct-16000447&chash=1&bmt=1&sche=ban&bvchls=1&score=11&pp=rtmp&source=onetier&trace=91&site=141080679cd68538751e17bdcdf5289f&zoneid_l=151388161&sid_l=live_298778185_9463386_1500&order=1
