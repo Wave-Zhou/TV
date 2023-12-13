@@ -1,14 +1,5 @@
 
-测试,#genre#
-李连杰,http://123.132.226.194:31028/hls/38/index.m3u8
-周星驰,http://123.132.226.194:31028/hls/39/index.m3u8
-刘德华,http://123.132.226.194:31028/hls/40/index.m3u8
-成龙,http://123.132.226.194:31028/hls/41/index.m3u8
-吴京,http://123.132.226.194:31028/hls/42/index.m3u8
-李小龙,http://123.132.226.194:31028/hls/103/index.m3u8
-甄子丹,http://123.132.226.194:31028/hls/104/index.m3u8
-黄渤,http://123.132.226.194:31028/hls/105/index.m3u8
-王宝强,http://123.132.226.194:31028/hls/106/index.m3u8
+
 
 央视频道,#genre#      
 
@@ -2963,6 +2954,18 @@ NewTV明星大片,http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/wh7f454c46tw285
 
 明星经典,#genre#      
 
+
+
+
+
+
+
+
+
+
+
+【电影】周星驰,http://123.132.226.194:31028/hls/39/index.m3u8
+
 【电影】周星驰1,http://mmitv.top/pltv/yy.php?id=1354889048  
 【电影】周星驰1,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354889048  
 【电影】周星驰1,https://live.metshop.top/yy/1354889048   
@@ -2986,6 +2989,8 @@ NewTV明星大片,http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/wh7f454c46tw285
 【电影】刘德华1,https://www.goodiptv.club/douyu/2516864
 【电影】刘德华1,https://live.metshop.top/douyu/2516864
 【电影】刘德华1,http://43.138.170.29:35455/douyu/2516864
+
+【电影】刘德华2,http://123.132.226.194:31028/hls/40/index.m3u8
 
 【电影】林正英,http://mmitv.top/pltv/yy.php?id=1382878583  
 【电影】林正英,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382878583   
@@ -3023,6 +3028,10 @@ NewTV明星大片,http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/wh7f454c46tw285
 【电影】李连杰,http://43.138.170.29:35455/huya/11342390   
 【电影】李连杰,https://www.goodiptv.club/huya/11342390
 
+【电影】李连杰1,http://123.132.226.194:31028/hls/38/index.m3u8
+
+【电影】成龙,http://123.132.226.194:31028/hls/41/index.m3u8
+
 【电影】成龙1,https://live.metshop.top/huya/11342386   
 【电影】成龙1,http://hls.ye23.vip/wl/huya2205.php?id=11342386
 【电影】成龙1,https://epg.112114.xyz/huya/11342386    
@@ -3039,6 +3048,14 @@ NewTV明星大片,http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/wh7f454c46tw285
 【电影】成龙3,https://www.goodiptv.club/douyu/3379942    
 【电影】成龙3,https://live.metshop.top/douyu/3379942     
 【电影】成龙3,http://43.138.170.29:35455/douyu/3379942
+
+【电影】吴京,http://123.132.226.194:31028/hls/42/index.m3u8
+
+【电影】李小龙,http://123.132.226.194:31028/hls/103/index.m3u8
+
+【电影】甄子丹,http://123.132.226.194:31028/hls/104/index.m3u8
+
+【电影】王宝强,http://123.132.226.194:31028/hls/106/index.m3u8
 
 【电影】洪金宝,https://live.metshop.top/huya/11279251   
 【电影】洪金宝,http://hls.ye23.vip/wl/huya2205.php?id=11279251
@@ -3088,6 +3105,8 @@ NewTV明星大片,http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/wh7f454c46tw285
 【电影】黄渤,http://43.128.40.42:198/虎牙直播/huya.php?id=11352876
 【电影】黄渤,http://43.138.170.29:35455/huya/11352876  
 【电影】黄渤,https://www.goodiptv.club/huya/11352876
+
+【电影】黄渤1,http://123.132.226.194:31028/hls/105/index.m3u8
 
 【电影】强森,https://live.metshop.top/huya/21059581   
 【电影】强森,http://hls.ye23.vip/wl/huya2205.php?id=21059581
