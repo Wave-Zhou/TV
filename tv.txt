@@ -18,7 +18,7 @@ CCTV1,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/1/224/32
 CCTV1,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001068/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV1,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001331/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV1,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/CCTV-1H265_4000.m3u8
-CCTV1,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225642/index.m3u8
+
 
 CCTV2,rtsp://115.153.233.154/PLTV/88888888/224/3221226825/59814584.smil
 CCTV2,rtsp://115.153.245.70/PLTV/88888888/224/3221226825/59814584.smil
@@ -439,7 +439,7 @@ CGTN纪录,https://livedoc.cgtn.com/500d/prog_index.m3u8
 湖南卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001026/index.m3u8
 湖南卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221226000/index.m3u8
 湖南卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001339/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-
+湖南卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001027/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 浙江卫视,rtsp://115.153.245.70/PLTV/88888888/224/3221225768/10000100000000060000000000913518_0.smil
 浙江卫视,rtsp://115.153.233.154/PLTV/88888888/224/3221225768/10000100000000060000000000913518_0.smil
@@ -453,6 +453,7 @@ CGTN纪录,https://livedoc.cgtn.com/500d/prog_index.m3u8
 浙江卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
 浙江卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225959/index.m3u8
 浙江卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001345/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+浙江卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001026/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 安徽卫视,rtsp://115.153.233.154/PLTV/88888888/224/3221226622/51176344.smil
 安徽卫视,rtsp://115.153.245.70/PLTV/88888888/224/3221226622/51176344.smil
@@ -481,6 +482,7 @@ CGTN纪录,https://livedoc.cgtn.com/500d/prog_index.m3u8
 江苏卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225929/index.m3u8
 江苏卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8
 江苏卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001344/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+江苏卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001032/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 东方卫视,rtsp://115.153.245.70/PLTV/88888888/224/3221225770/10000100000000060000000000913526_0.smil
 东方卫视,rtsp://115.153.233.154/PLTV/88888888/224/3221225770/10000100000000060000000000913526_0.smil
@@ -493,6 +495,7 @@ CGTN纪录,https://livedoc.cgtn.com/500d/prog_index.m3u8
 东方卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001336/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 东方卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001041/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 东方卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225942/index.m3u8
+东方卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001028/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 北京卫视,rtsp://115.153.245.70/PLTV/88888888/224/3221225546/iptv51912.smil
 北京卫视,rtsp://115.153.233.154/PLTV/88888888/224/3221225546/iptv51912.smil
@@ -505,6 +508,7 @@ CGTN纪录,https://livedoc.cgtn.com/500d/prog_index.m3u8
 北京卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225931/index.m3u8
 北京卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
 北京卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001335/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+北京卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001025/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 东南卫视,rtsp://115.153.233.154/PLTV/88888888/224/3221226677/51176347.smil
 东南卫视,rtsp://115.153.245.70/PLTV/88888888/224/3221226677/51176347.smil
@@ -530,6 +534,7 @@ CGTN纪录,https://livedoc.cgtn.com/500d/prog_index.m3u8
 广东卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225966/index.m3u8
 广东卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
 广东卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001337/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+广东卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001031/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 贵州卫视,rtsp://115.153.233.154/PLTV/88888888/224/3221226833/59814738.smil
 贵州卫视,rtsp://115.153.245.70/PLTV/88888888/224/3221226833/59814738.smil
@@ -566,7 +571,7 @@ CGTN纪录,https://livedoc.cgtn.com/500d/prog_index.m3u8
 黑龙江卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
 黑龙江卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221226006/index.m3u8
 黑龙江卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001338/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-
+黑龙江卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001030/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 湖北卫视,rtsp://115.153.233.154/PLTV/88888888/224/3221225827/10000100000000060000000000470332_2.smil
 湖北卫视,rtsp://115.153.212.72/PLTV/88888888/224/3221225827/10000100000000060000000000470332_2.smil
@@ -579,6 +584,7 @@ CGTN纪录,https://livedoc.cgtn.com/500d/prog_index.m3u8
 湖北卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225975/index.m3u8
 湖北卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221226015/index.m3u8
 湖北卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001347/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+湖北卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001299/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 吉林卫视,rtsp://115.153.233.154/PLTV/88888888/224/3221226831/59814731.smil
 吉林卫视,rtsp://115.153.245.70/PLTV/88888888/224/3221226831/59814731.smil
@@ -602,7 +608,7 @@ CGTN纪录,https://livedoc.cgtn.com/500d/prog_index.m3u8
 辽宁卫视,http://[2409:8087:2001:20:2800:0:df6e:eb05]/wh7f454c46tw3985357590_-523810471/ott.mobaibox.com/PLTV/88888890/224/3221225566/index.m3u8?icpid=88888890&RTS=1687951902&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
 辽宁卫视,http://[2409:8087:2001:20:2800:0:df6e:eb10]/wh7f454c46tw531961851_-1644771167/ott.mobaibox.com/PLTV/88888890/224/3221225802/index.m3u8?icpid=88888890&RTS=1687952744&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
 辽宁卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001340/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-
+辽宁卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001296/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 山东卫视,rtsp://115.153.212.72/PLTV/88888888/224/3221225919/10000100000000060000000000811554_0.smil
 山东卫视,rtsp://115.153.233.154/PLTV/88888888/224/3221225919/10000100000000060000000000811554_0.smil
@@ -629,6 +635,7 @@ CGTN纪录,https://livedoc.cgtn.com/500d/prog_index.m3u8
 深圳卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8
 深圳卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225943/index.m3u8
 深圳卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001342/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+深圳卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001029/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 天津卫视,rtsp://115.153.233.154/PLTV/88888888/224/3221226652/46098366.smil
 天津卫视,rtsp://115.153.212.72/PLTV/88888888/224/3221226652/46098366.smil
@@ -834,18 +841,16 @@ CGTN纪录,https://livedoc.cgtn.com/500d/prog_index.m3u8
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
-凤凰资讯,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1
 
 凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
 凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb1c]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
 凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb1d]/ott.mobaibox.com/PLTV/3/224/3221228530/1.m3u8
-凤凰香港,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226251/index.m3u8
 
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=8ee59707fee3ef96c922e680-167055218938751&wsIPSercert=d24f6d7c9d3646d9533d492d5209384b&wsMonitor=0
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
-香港卫视,http://anren.live/HK/BSJDUFpB.m3u8
+
 
 香港8K,http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tW1782571424_-1576923679/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
 
@@ -962,12 +967,20 @@ CGTN纪录,https://livedoc.cgtn.com/500d/prog_index.m3u8
 
 劲爆体育,http://[2409:8087:2001:20:2800:0:df6e:eb05]/wh7f454c46tw2618430885_1969735389/ott.mobaibox.com/PLTV/88888890/224/3221227023/index.m3u8?icpid=88888890&RTS=1687954830&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
 
+精彩体育,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001274/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+
+精彩电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001275/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+
+精彩电视剧,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001276/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+
+精彩综艺,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001273/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+
+圆点生活 ,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002285/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+
 极速汽车,rtsp://115.153.233.154/PLTV/88888888/224/3221225619/iptv8000.smil
 极速汽车,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002263/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 IPTV魅力时尚,rtsp://115.153.233.154/PLTV/88888888/224/3221226981/86440822.smil
-
-芒果综艺,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226887/index.m3u8?servicetype=1
 
 NewTV系列,#genre#      
 
