@@ -1,3 +1,43 @@
+台湾频道,#genre#
+无线新闻台,https://zb.ran-ran.net:443/198proxy.php?id=wxxw
+TVB星河,https://zb.ran-ran.net:443/198proxy.php?id=tvbxh
+公视,https://zb.ran-ran.net:443/198proxy.php?id=gs
+台视,https://zb.ran-ran.net:443/198proxy.php?id=ts
+华视,https://zb.ran-ran.net:443/198proxy.php?id=hs
+民视台湾台,https://zb.ran-ran.net:443/198proxy.php?id=mstw
+中视,https://zb.ran-ran.net:443/198proxy.php?id=zs
+中视新闻,https://zb.ran-ran.net:443/198proxy.php?id=zsxw
+中视经典,https://zb.ran-ran.net:443/198proxy.php?id=zsjd
+中天娱乐,https://zb.ran-ran.net:443/198proxy.php?id=ztyl
+中天综合,https://zb.ran-ran.net:443/198proxy.php?id=ztzh
+三立都会,https://zb.ran-ran.net:443/198proxy.php?id=sldh
+三立戏剧,https://zb.ran-ran.net:443/198proxy.php?id=slxj
+三立都会台,https://zb.ran-ran.net:443/198proxy.php?id=sldh
+三立台湾台,https://zb.ran-ran.net:443/198proxy.php?id=sltw
+中天新闻 ,https://zb.ran-ran.net:443/198proxy.php?id=ztxw
+TVBS新闻台,https://zb.ran-ran.net:443/198proxy.php?id=tvbsxw
+东森新闻,https://zb.ran-ran.net:443/198proxy.php?id=dsxw
+东森财经新闻,https://zb.ran-ran.net:443/198proxy.php?id=dscjxw
+东森超视,https://zb.ran-ran.net:443/198proxy.php?id=dscs
+民视新闻,https://zb.ran-ran.net:443/198proxy.php?id=msxw
+年代新闻,https://zb.ran-ran.net:443/198proxy.php?id=ndxw
+非凡新闻,https://zb.ran-ran.net:443/198proxy.php?id=ffxw
+东森戏剧,https://zb.ran-ran.net:443/198proxy.php?id=dsxj
+星卫电影台,https://zb.ran-ran.net:443/198proxy.php?id=xwdy
+美亚电影,https://zb.ran-ran.net:443/198proxy.php?id=mydy
+东森电影,https://zb.ran-ran.net:443/198proxy.php?id=dsdy
+东森洋片,https://zb.ran-ran.net:443/198proxy.php?id=dsyp
+龙华洋片,https://zb.ran-ran.net:443/198proxy.php?id=lhyp
+龙华戏剧,https://zb.ran-ran.net:443/198proxy.php?id=lhxj
+龙华偶像,https://zb.ran-ran.net:443/198proxy.php?id=lhox
+龙华日韩,https://zb.ran-ran.net:443/198proxy.php?id=lhrh
+龙祥时代,https://zb.ran-ran.net:443/198proxy.php?id=lxsd
+八大综合台,https://zb.ran-ran.net:443/198proxy.php?id=bdzh
+八大戏剧台,https://zb.ran-ran.net:443/198proxy.php?id=bdxj
+八大第1台,https://zb.ran-ran.net:443/198proxy.php?id=bddy
+卫视中文台,https://zb.ran-ran.net:443/198proxy.php?id=wszw
+HBO HD,https://zb.ran-ran.net:443/198proxy.php?id=hbohd
+ELTA影剧,https://zb.ran-ran.net:443/198proxy.php?id=ardyj
 央视频道,#genre#      
 
 CCTV1,rtsp://115.153.233.154/PLTV/88888888/224/3221225699/iptv8040.smil
