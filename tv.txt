@@ -967,18 +967,7 @@ CGTN纪录,https://livedoc.cgtn.com/500d/prog_index.m3u8
 
 劲爆体育,http://[2409:8087:2001:20:2800:0:df6e:eb05]/wh7f454c46tw2618430885_1969735389/ott.mobaibox.com/PLTV/88888890/224/3221227023/index.m3u8?icpid=88888890&RTS=1687954830&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
 
-精彩体育,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001274/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-
-精彩电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001275/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-
-精彩电视剧,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001276/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-
 精彩综艺,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001273/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-
-圆点生活 ,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002285/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-
-极速汽车,rtsp://115.153.233.154/PLTV/88888888/224/3221225619/iptv8000.smil
-极速汽车,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002263/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 IPTV魅力时尚,rtsp://115.153.233.154/PLTV/88888888/224/3221226981/86440822.smil
 
