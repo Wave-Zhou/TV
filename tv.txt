@@ -951,6 +951,9 @@ CGTN纪录,https://livedoc.cgtn.com/500d/prog_index.m3u8
 
 
 茶频道,rtsp://118.212.169.207:554/PLTV/88888888/224/3221227052/10000100000000060000000000571127_0.smil
+茶频道,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002305/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+茶频道,rtsp://115.153.245.70/PLTV/88888888/224/3221226832/59781969.smil
+茶频道,rtsp://115.153.233.154/PLTV/88888888/224/3221226832/59781969.smil
 
 先锋乒羽,rtsp://115.153.212.72/PLTV/88888888/224/3221226935/72307307.smil
 先锋乒羽,rtsp://115.153.245.70/PLTV/88888888/224/3221226935/72307307.smil
@@ -1016,36 +1019,13 @@ CGTN纪录,https://livedoc.cgtn.com/500d/prog_index.m3u8
 
 足球,rtsp://115.153.233.154/PLTV/88888888/224/3221227019/86502107.smil
 
-精彩体育,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001274/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-
 精彩综艺,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001273/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 IPTV魅力时尚,rtsp://115.153.233.154/PLTV/88888888/224/3221226981/86440822.smil
 
-东方财经,rtsp://115.153.245.70/PLTV/88888888/224/3221225609/iptv7995.smil
-东方财经,rtsp://115.153.233.154/PLTV/88888888/224/3221225609/iptv7995.smil
+快乐垂钓,rtsp://115.153.245.70/PLTV/88888888/224/3221226834/59781974.smil
 
-江苏教育,http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw1391469469_704234273/ott.mobaibox.com/PLTV/88888890/224/3221225923/index.m3u8?icpid=88888890&RTS=1687953603&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
-
-江苏公共新闻,http://[2409:8087:2001:20:2800:0:df6e:eb0f]/wh7f454c46tw1421596867_-1892329265/ott.mobaibox.com/PLTV/88888890/224/3221225925/index.m3u8?icpid=88888890&RTS=1687953633&from=40&popid=40&hms_devid=2111&prioritypopid=40&vqe=3
-
-江苏城市,http://[2409:8087:2001:20:2800:0:df6e:eb14]/wh7f454c46tw1444134710_605660387/ott.mobaibox.com/PLTV/88888890/224/3221225929/index.m3u8?icpid=88888890&RTS=1687953656&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
-
-江苏综艺,http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw1479033904_192194920/ott.mobaibox.com/PLTV/88888890/224/3221225931/index.m3u8?icpid=88888890&RTS=1687953691&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
-
-江苏体育休闲,http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw1535211092_-1113928882/ott.mobaibox.com/PLTV/88888890/224/3221225935/index.m3u8?icpid=88888890&RTS=1687953747&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
-
-江苏影视,http://[2409:8087:2001:20:2800:0:df6e:eb14]/wh7f454c46tw1560175852_-2072963186/ott.mobaibox.com/PLTV/88888890/224/3221225937/index.m3u8?icpid=88888890&RTS=1687953772&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
-
-徐州1台,http://[2409:8087:2001:20:2800:0:df6e:eb14]/wh7f454c46tw1587581614_-1891190978/ott.mobaibox.com/PLTV/88888890/224/3221225945/index.m3u8?icpid=88888890&RTS=1687953799&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
-
-徐州2台,http://[2409:8087:2001:20:2800:0:df6e:eb14]/wh7f454c46tw1780085555_-1446723937/ott.mobaibox.com/PLTV/88888890/224/3221225947/index.m3u8?icpid=88888890&RTS=1687953992&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
-
-徐州3台,http://[2409:8087:2001:20:2800:0:df6e:eb14]/wh7f454c46tw1803991863_-180170264/ott.mobaibox.com/PLTV/88888890/224/3221225949/index.m3u8?icpid=88888890&RTS=1687954016&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
-
-徐州4台,http://[2409:8087:2001:20:2800:0:df6e:eb1b]/wh7f454c46tw1827053839_-1062681497/ott.mobaibox.com/PLTV/88888890/224/3221225951/index.m3u8?icpid=88888890&RTS=1687954039&from=40&popid=40&hms_devid=2116&prioritypopid=40&vqe=3
-
-宿迁公共,http://[2409:8087:2001:20:2800:0:df6e:eb08]/wh7f454c46tw1993997748_-791927359/ott.mobaibox.com/PLTV/88888890/224/3221226939/index.m3u8?icpid=88888890&RTS=1687954206&from=40&popid=40&hms_devid=2037&prioritypopid=40&vqe=3
+中华美食,http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw2358157348_789958620/ott.mobaibox.com/PLTV/88888890/224/3221227017/index.m3u8?icpid=88888890&RTS=1687954570&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
 
 NewTV系列,#genre#      
 
