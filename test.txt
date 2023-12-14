@@ -60,7 +60,8 @@
 超级电影,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 超级电视剧,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
 武博世界,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/wh7f454c46tw2554338791_49940138/ott.mobaibox.com/PLTV/3/224/3221227533/index.m3u8
-#️⃣成龙,#genre#
+
+成龙,#genre#
 
 龙马精神2023,http://103.45.68.47:666/gy/gy_PpqI/点播.php?id=330921
 神勇双响炮,http://103.45.68.47:666/gy/gy_PpqI/点播.php?id=330521
