@@ -1148,9 +1148,6 @@ CGTN纪录,https://livedoc.cgtn.com/500d/prog_index.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=8ee59707fee3ef96c922e680-167055218938751&wsIPSercert=d24f6d7c9d3646d9533d492d5209384b&wsMonitor=0
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 
-
-香港8K,http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tW1782571424_-1576923679/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
-
 澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
 
 江西频道,#genre#
