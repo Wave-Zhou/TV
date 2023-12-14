@@ -24,3 +24,58 @@
 分宜综合,http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_fenyi_tv.m3u8
 鄱阳综合,http://pili-live-hls.poyang.jxxw.com.cn/pyxrmtzx/poyang.m3u8
 万载综合频道,http://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
+🍁湖南综合,#genre#
+湖南卫视,http://120.132.122.244:10413/hls/1/index.m3u8
+湖南都市,http://120.132.122.244:10413/hls/3/index.m3u8
+湖南经视,http://120.132.122.244:10413/hls/2/index.m3u8
+湖南电影,http://120.132.122.244:10413/hls/7/index.m3u8
+湖南电视剧,http://120.132.122.244:10413/hls/4/index.m3u8
+潇湘电影,http://120.132.122.244:10413/hls/5/index.m3u8
+宜章综合,http://hnyz.chinashadt.com:2036/live/tv1.stream/playlist.m3u8
+宜章综合,http://hnyz.chinashadt.com:2036/live/tv1.stream/chunklist_w2084740082.m3u8
+张家界1台,http://stream.zjjrtv.com/zjjtv1/playlist.m3u8?_upt=58d7e8211638940948
+张家界2台,http://stream.zjjrtv.com/zjjtv2/playlist.m3u8?_upt=83ed3eb91638941175
+湘潭综合,http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8
+湘潭公共,http://live.hnxttv.com:9601/live/dspd/800K/tzwj_video.m3u8
+新田电视台,https://hlsv2.quklive.com/live/1625110020460086/index.m3u8
+宜章综合,http://hnyz.chinashadt.com:2036/live/stream:tv1.stream_360p/playlist.m3u8
+张家界公共,http://stream.zjjrtv.com/zjjtv2/hd/live.m3u8
+张家界新闻,http://stream.zjjrtv.com/zjjtv1/hd/live.m3u8
+长沙影视,http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_350.flv?auth_key=1936694127-0-0-f081dadf4de8780d84d51755eb65e516
+长沙政法,http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_348.flv?auth_key=1936693647-0-0-09a2ab1e7112296d76b1c37999a5cf32
+湘潭新闻综合,http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8
+湘潭公共频道,http://live.hnxttv.com:9601/live/dspd/800K/tzwj_video.m3u8
+岳阳公共,http://live.hnxttv.com:9601/live/dspd/800K/tzwj_video.m3u8
+平乡电视台,http://hbpx.chinashadt.com:2036/live/px1.stream/playlist.m3u8
+长沙政法频道,http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_348.flv?auth_key=1936693647-0-0-09a2ab1e7112296d76b1c37999a5cf32
+长沙影视频道,http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_350.flv?auth_key=1936694127-0-0-f081dadf4de8780d84d51755eb65e516
+长沙磁浮电视,https://hls.quklive.com/live/1551751256158751/index.m3u8
+长沙地铁电视,https://hls.quklive.com/live/1551751084371710/index.m3u8
+长沙移动电视,https://hls.quklive.com/live/1551750947083772/index.m3u8
+宜章新闻综合,http://hnyz.chinashadt.com:2036/live/stream:tv1.stream/playlist.m3u8
+通道时政,http://live.tongdaotv.com:8087/live/tdtv.m3u8
+
+🍁湖北综合,#genre#
+武汉新闻综合,http://stream.appwuhan.com/1tzb/sd/live.m3u8
+武汉生活,http://stream.appwuhan.com/3tzb/sd/live.m3u8
+武汉电视剧,http://stream.appwuhan.com/2tzb/sd/live.m3u8
+武汉经济,http://stream.appwuhan.com/4tzb/sd/live.m3u8
+武汉外语,http://stream.appwuhan.com/6tzb/sd/live.m3u8
+武汉少儿,http://stream.appwuhan.com/7tzb/sd/live.m3u8
+武汉教育,http://stream.appwuhan.com/jyzb/sd/live.m3u8
+武汉文体,http://stream.appwuhan.com/5tzb/sd/live.m3u8
+荆门新闻,http://stream.jmtv.com.cn/xwzh/sd/live.m3u8
+荆门公共,http://stream.jmtv.com.cn/ngpd/sd/live.m3u8
+荆门教育,http://stream.jmtv.com.cn/ggsh/sd/live.m3u8
+荆州新闻,http://jingzhou-live21.cjyun.org/10085/s10085-jingzhou-tv01.m3u8?auth_key=1704038399-0-0-9b2442b7b11f661edfe71bc7a3a3a5a2
+荆州垄上,http://jingzhou-live21.cjyun.org/10085/s10085-jingzhou-tv03.m3u8?auth_key=1704038399-0-0-a0b56187fea04cf4f776c0b23cf5f547
+荆州公共,http://jingzhou-live21.cjyun.org/10085/s10085-jingzhou-tv02.m3u8?auth_key=1704038399-0-0-35f354ebd7cf85af1104fa76d623c1c6
+十堰新闻,http://p8.vzan.com/slowlive/034028687228317362/live.m3u8
+江夏新闻综合,http://59.175.226.142:280/gb28181/xwzh.m3u8
+十堰新闻,rtmp://r2bj.weizan.cn/v/351104_837056569960221505?zhubd
+十堰新闻,http://p8.vzan.com/slowlive/034028687228317362/live.m3u8
+十堰公共,rtmp://r2bj.weizan.cn/v/351104_694292401376336037?zhubd
+十堰经济旅游,rtmp://r2bj.weizan.cn/v/351104_791122427715011838?zhubd
+郧阳新闻综合,http://58.19.198.159:2021/hls1.m3u8
+江陵综合,http://jiangling-live21.cjyun.org/10090/s10090-jltv01.m3u8?auth_key=1704038399-0-0-bf99cff97b68e2bec58f626f876f75f3
+江陵经济,http://jiangling-live21.cjyun.org/10090/s10090-jltv02.m3u8?auth_key=1704038399-0-0-b9e3fdf662c0b3e550dd4f06836b2b39
