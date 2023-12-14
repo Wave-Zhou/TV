@@ -1534,11 +1534,6 @@ NewTV明星大片,http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/wh7f454c46tw285
 【电视剧】轮播电视剧,https://live.metshop.top/douyu/9826611
 【电视剧】轮播电视剧,http://43.138.170.29:35455/douyu/9826611
 
-【电视剧】影视轮播,http://mmitv.top/pltv/yy.php?id=1355336008
-【电视剧】影视轮播,http://43.138.170.29:35455/yy/1355336008
-【电视剧】影视轮播,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1355336008
-【电视剧】影视轮播,https://live.metshop.top/yy/1355336008
-
 【电视剧】神剧轮播,http://epg.112114.xyz/douyu/338759
 【电视剧】神剧轮播,https://www.goodiptv.club/douyu/338759
 【电视剧】神剧轮播,https://live.metshop.top/douyu/338759
@@ -1580,7 +1575,6 @@ NewTV明星大片,http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/wh7f454c46tw285
 【电视剧】神话,https://www.goodiptv.club/douyu/5448413
 【电视剧】神话,https://live.metshop.top/douyu/5448413
 【电视剧】神话,http://43.138.170.29:35455/douyu/5448413
-
 【电视剧】神话,http://epg.112114.xyz/douyu/11646306
 【电视剧】神话,https://www.goodiptv.club/douyu/11646306
 【电视剧】神话,https://live.metshop.top/douyu/11646306
@@ -1651,11 +1645,6 @@ NewTV明星大片,http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/wh7f454c46tw285
 【电视剧】雪中悍刀行超清,https://live.metshop.top/yy/1382660835
 【电视剧】雪中悍刀行超清,http://43.138.170.29:35455/yy/1382660835
 
-【电视剧】雪中悍刀行高清,http://mmitv.top/pltv/yy.php?id=29600150
-【电视剧】雪中悍刀行高清,http://43.138.170.29:35455/yy/29600150
-【电视剧】雪中悍刀行高清,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=29600150
-【电视剧】雪中悍刀行高清,https://live.metshop.top/yy/29600150
-
 【电视剧】仙剑奇侠传,http://mmitv.top/pltv/yy.php?id=1382749903
 【电视剧】仙剑奇侠传,http://43.138.170.29:35455/yy/1382749903
 【电视剧】仙剑奇侠传,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382749903
@@ -1677,6 +1666,11 @@ NewTV明星大片,http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/wh7f454c46tw285
 【电视剧】亲爱的热爱的,http://43.138.170.29:35455/yy/1354932433
 【电视剧】亲爱的热爱的,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354932433
 【电视剧】亲爱的热爱的,https://live.metshop.top/yy/1354932433
+
+【电视剧】亲爱的热爱的超清,http://mmitv.top/pltv/yy.php?id=1382736896
+【电视剧】亲爱的热爱的超清,http://43.138.170.29:35455/yy/1382736896
+【电视剧】亲爱的热爱的超清,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382736896
+【电视剧】亲爱的热爱的超清,https://live.metshop.top/yy/1382736896
 
 【电视剧】魔幻手机蓝光,https://live.metshop.top/huya/11352966
 【电视剧】魔幻手机蓝光,http://hls.ye23.vip/wl/huya2205.php?id=11352966
@@ -1888,7 +1882,6 @@ NewTV明星大片,http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/wh7f454c46tw285
 【电视剧】新三国超清,https://www.goodiptv.club/douyu/2838296
 【电视剧】新三国超清,https://live.metshop.top/douyu/2838296
 【电视剧】新三国超清,http://43.138.170.29:35455/douyu/2838296
-
 【电视剧】新三国高清,http://epg.112114.xyz/douyu/5908256
 【电视剧】新三国高清,https://www.goodiptv.club/douyu/5908256
 【电视剧】新三国高清,https://live.metshop.top/douyu/5908256
@@ -1963,11 +1956,6 @@ NewTV明星大片,http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/wh7f454c46tw285
 【电视剧】知否知否高清,http://mmitv.top/pltv/yy.php?id=21881901
 【电视剧】知否知否高清,https://live.metshop.top/yy/21881901
 【电视剧】知否知否高清,http://43.138.170.29:35455/yy/21881901
-
-【电视剧】知否知否超清,http://mmitv.top/pltv/yy.php?id=1351537467
-【电视剧】知否知否超清,http://43.138.170.29:35455/yy/1351537467
-【电视剧】知否知否超清,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1351537467
-【电视剧】知否知否超清,https://live.metshop.top/yy/1351537467
 
 【电视剧】新世界,http://mmitv.top/pltv/yy.php?id=1382736850
 【电视剧】新世界,http://43.138.170.29:35455/yy/1382736850
@@ -2114,11 +2102,6 @@ NewTV明星大片,http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/wh7f454c46tw285
 【电视剧】笑傲江湖,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354930909
 【电视剧】笑傲江湖,https://live.metshop.top/yy/1354930909
 
-【电视剧】石敢当,http://mmitv.top/pltv/yy.php?id=1394156613
-【电视剧】石敢当,http://43.138.170.29:35455/yy/1394156613
-【电视剧】石敢当,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1394156613
-【电视剧】石敢当,https://live.metshop.top/yy/1394156613
-
 【电视剧】金婚,http://mmitv.top/pltv/yy.php?id=1382828768
 【电视剧】金婚,http://43.138.170.29:35455/yy/1382828768
 【电视剧】金婚,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382828768
@@ -2149,11 +2132,6 @@ NewTV明星大片,http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/wh7f454c46tw285
 【电视剧】公主嫁到,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382736915
 【电视剧】公主嫁到,https://live.metshop.top/yy/1382736915
 
-【电视剧】公主嫁到超清,http://mmitv.top/pltv/yy.php?id=1354930957
-【电视剧】公主嫁到超清,http://43.138.170.29:35455/yy/1354930957
-【电视剧】公主嫁到超清,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354930957
-【电视剧】公主嫁到超清,https://live.metshop.top/yy/1354930957
-
 【电视剧】宫心计,http://mmitv.top/pltv/yy.php?id=1382828769
 【电视剧】宫心计,http://43.138.170.29:35455/yy/1382828769
 【电视剧】宫心计,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382828769
@@ -2174,20 +2152,10 @@ NewTV明星大片,http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/wh7f454c46tw285
 【电视剧】活着-福贵,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354926537
 【电视剧】活着-福贵,https://live.metshop.top/yy/1354926537
 
-【电视剧】上海滩,http://mmitv.top/pltv/yy.php?id=1382745184
-【电视剧】上海滩,http://43.138.170.29:35455/yy/1382745184
-【电视剧】上海滩,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382745184
-【电视剧】上海滩,https://live.metshop.top/yy/1382745184
-
 【电视剧】传奇英雄,http://mmitv.top/pltv/yy.php?id=1382735578
 【电视剧】传奇英雄,http://43.138.170.29:35455/yy/1382735578
 【电视剧】传奇英雄,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382735578
 【电视剧】传奇英雄,https://live.metshop.top/yy/1382735578
-
-【电视剧】薛元帅传奇,http://mmitv.top/pltv/yy.php?id=31313785
-【电视剧】薛元帅传奇,http://43.138.170.29:35455/yy/31313785
-【电视剧】薛元帅传奇,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=31313785
-【电视剧】薛元帅传奇,https://live.metshop.top/yy/31313785
 
 【电视剧】河山,http://mmitv.top/pltv/yy.php?id=1382749952
 【电视剧】河山,http://43.138.170.29:35455/yy/1382749952
@@ -2298,6 +2266,7 @@ NewTV明星大片,http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/wh7f454c46tw285
 【电视剧】玲珑狼心,http://43.138.170.29:35455/yy/1382736887
 【电视剧】玲珑狼心,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382736887
 【电视剧】玲珑狼心,https://live.metshop.top/yy/1382736887
+
 
 精选电影,#genre#      
 
