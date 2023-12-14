@@ -2360,11 +2360,6 @@ NewTV明星大片,http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/wh7f454c46tw285
 
 【电影】欧美影院,http://[2409:8087:7001:20:1000::95]:6610/000000001000/7185203501769528108/index.m3u8?channel-id=wasusyt&Contentid=7185203501769528108&livemode=1&stbId=3
 
-【电影】经典怀旧,http://epg.112114.xyz/douyu/7822994
-【电影】经典怀旧,https://www.goodiptv.club/douyu/7822994
-【电影】经典怀旧,https://live.metshop.top/douyu/7822994
-【电影】经典怀旧,http://43.138.170.29:35455/douyu/7822994
-
 【电影】国产影片,http://epg.112114.xyz/douyu/5423
 【电影】国产影片,https://www.goodiptv.club/douyu/5423
 【电影】国产影片,https://live.metshop.top/douyu/5423
@@ -2583,11 +2578,6 @@ NewTV明星大片,http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/wh7f454c46tw285
 【电影】金三角大营救,http://43.138.170.29:35455/yy/1354930924
 【电影】金三角大营救,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354930924   
 【电影】金三角大营救,https://live.metshop.top/yy/1354930924
-
-【电影】国外高分侦探电影,http://mmitv.top/pltv/yy.php?id=1382736896   
-【电影】国外高分侦探电影,http://43.138.170.29:35455/yy/1382736896
-【电影】国外高分侦探电影,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382736896     
-【电影】国外高分侦探电影,https://live.metshop.top/yy/1382736896
 
 专题电影,#genre#    
 
@@ -2815,11 +2805,6 @@ NewTV明星大片,http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/wh7f454c46tw285
 【电影】港产搞笑,http://43.138.170.29:35455/huya/11601960   
 【电影】港产搞笑,https://www.goodiptv.club/huya/11601960
 
-【电影】爆笑全场,http://mmitv.top/pltv/yy.php?id=1355269576  
-【电影】爆笑全场,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1355269576  
-【电影】爆笑全场,https://live.metshop.top/yy/1355269576     
-【电影】爆笑全场,http://43.138.170.29:35455/yy/1355269576
-
 【电影】爆笑剧场,http://mmitv.top/pltv/yy.php?id=1382736916   
 【电影】爆笑剧场,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382736916  
 【电影】爆笑剧场,https://live.metshop.top/yy/1382736916    
@@ -2886,11 +2871,6 @@ NewTV明星大片,http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/wh7f454c46tw285
 【电影】外国爆笑喜剧,https://live.metshop.top/yy/1382745093    
 【电影】外国爆笑喜剧,http://43.138.170.29:35455/yy/1382745093
 
-【电影】国外喜剧电影,http://mmitv.top/pltv/yy.php?id=1382749951  
-【电影】国外喜剧电影,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382749951  
-【电影】国外喜剧电影,https://live.metshop.top/yy/1382749951    
-【电影】国外喜剧电影,http://43.138.170.29:35455/yy/1382749951
-
 【电影】国外黑色喜剧,http://mmitv.top/pltv/yy.php?id=1382745175  
 【电影】国外黑色喜剧,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382745175 
 【电影】国外黑色喜剧,https://live.metshop.top/yy/1382745175     
@@ -2900,11 +2880,6 @@ NewTV明星大片,http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/wh7f454c46tw285
 【电影】国产喜剧大片,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382745113 
 【电影】国产喜剧大片,https://live.metshop.top/yy/1382745113    
 【电影】国产喜剧大片,http://43.138.170.29:35455/yy/1382745113
-
-【电影】国内喜剧电影,http://mmitv.top/pltv/yy.php?id=1382745099   
-【电影】国内喜剧电影,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382745099 
-【电影】国内喜剧电影,https://live.metshop.top/yy/1382745099    
-【电影】国内喜剧电影,http://43.138.170.29:35455/yy/1382745099
 
 【电影】经典喜剧电影,http://mmitv.top/pltv/yy.php?id=1354936238   
 【电影】经典喜剧电影,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354936238  
@@ -2968,11 +2943,6 @@ NewTV明星大片,http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/wh7f454c46tw285
 【电影】外国人动作,http://43.128.40.42:198/虎牙直播/huya.php?id=21059552
 【电影】外国人动作,https://live.metshop.top/huya/21059552   
 【电影】外国人动作,https://www.goodiptv.club/huya/21059552
-
-【电影】李连杰功夫,http://mmitv.top/pltv/yy.php?id=74613175  
-【电影】李连杰功夫,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=74613175  
-【电影】李连杰功夫,https://live.metshop.top/yy/74613175     
-【电影】李连杰功夫,http://43.138.170.29:35455/yy/74613175
 
 【电影】燃爆动作片,http://mmitv.top/pltv/yy.php?id=1382736801  
 【电影】燃爆动作片,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382736801  
@@ -3132,11 +3102,6 @@ NewTV明星大片,http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/wh7f454c46tw285
 【电影】港片喜剧动作,https://live.metshop.top/yy/1355480591     
 【电影】港片喜剧动作,http://43.138.170.29:35455/yy/1355480591
 
-【电影】经典港片电影,http://mmitv.top/pltv/yy.php?id=1382793140   
-【电影】经典港片电影,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382793140 
-【电影】经典港片电影,https://live.metshop.top/yy/1382793140    
-【电影】经典港片电影,http://43.138.170.29:35455/yy/1382793140
-
 【电影】奇缘港台影院,http://mmitv.top/pltv/yy.php?id=1354889234 
 【电影】奇缘港台影院,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354889234  
 【电影】奇缘港台影院,https://live.metshop.top/yy/1354889234    
@@ -3189,11 +3154,6 @@ NewTV明星大片,http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/wh7f454c46tw285
 【电影】恐怖鬼片,https://live.metshop.top/yy/1355485328     
 【电影】恐怖鬼片,http://43.138.170.29:35455/yy/1355485328
 
-【电影】经典鬼片,http://mmitv.top/pltv/yy.php?id=1508828185 
-【电影】经典鬼片,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1508828185  
-【电影】经典鬼片,https://live.metshop.top/yy/1508828185    
-【电影】经典鬼片,http://43.138.170.29:35455/yy/1508828185
-
 【电影】恐怖经典,http://epg.112114.xyz/douyu/1165374
 【电影】恐怖经典,https://www.goodiptv.club/douyu/1165374   
 【电影】恐怖经典,https://live.metshop.top/douyu/1165374
@@ -3204,40 +3164,15 @@ NewTV明星大片,http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/wh7f454c46tw285
 【电影】恐怖电影,https://live.metshop.top/douyu/310926
 【电影】恐怖电影,http://43.138.170.29:35455/douyu/310926
 
-【电影】吓人恐怖,http://mmitv.top/pltv/yy.php?id=1382878581  
-【电影】吓人恐怖,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382878581   
-【电影】吓人恐怖,https://live.metshop.top/yy/1382878581     
-【电影】吓人恐怖,http://43.138.170.29:35455/yy/1382878581
-
 【电影】鬼经典老片,http://mmitv.top/pltv/yy.php?id=1463783198  
 【电影】鬼经典老片,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1463783198   
 【电影】鬼经典老片,https://live.metshop.top/yy/1463783198     
 【电影】鬼经典老片,http://43.138.170.29:35455/yy/1463783198
 
-【电影】林正英恐怖,http://mmitv.top/pltv/yy.php?id=1382878583 
-【电影】林正英恐怖,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382878583  
-【电影】林正英恐怖,https://live.metshop.top/yy/1382878583    
-【电影】林正英恐怖,http://43.138.170.29:35455/yy/1382878583
-
 【电影】鬼片惊悚港片,http://mmitv.top/pltv/yy.php?id=1355497884 
 【电影】鬼片惊悚港片,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1355497884 
 【电影】鬼片惊悚港片,https://live.metshop.top/yy/1355497884    
 【电影】鬼片惊悚港片,http://43.138.170.29:35455/yy/1355497884
-
-【电影】经典恐怖电影,http://mmitv.top/pltv/yy.php?id=1382878529  
-【电影】经典恐怖电影,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382878529   
-【电影】经典恐怖电影,https://live.metshop.top/yy/1382878529    
-【电影】经典恐怖电影,http://43.138.170.29:35455/yy/1382878529
-
-【电影】台湾经典恐怖,http://mmitv.top/pltv/yy.php?id=1382878530  
-【电影】台湾经典恐怖,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382878530  
-【电影】台湾经典恐怖,https://live.metshop.top/yy/1382878530     
-【电影】台湾经典恐怖,http://43.138.170.29:35455/yy/1382878530
-
-【电影】香港恐怖经典,http://mmitv.top/pltv/yy.php?id=1382878536  
-【电影】香港恐怖经典,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382878536  
-【电影】香港恐怖经典,https://live.metshop.top/yy/1382878536    
-【电影】香港恐怖经典,http://43.138.170.29:35455/yy/1382878536
 
 【电影】幸福满院恐怖,http://mmitv.top/pltv/yy.php?id=1382737886   
 【电影】幸福满院恐怖,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382737886  
@@ -3508,11 +3443,6 @@ NewTV明星大片,http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/wh7f454c46tw285
 
 【电影】刘德华2,http://123.132.226.194:31028/hls/40/index.m3u8
 
-【电影】林正英,http://mmitv.top/pltv/yy.php?id=1382878583  
-【电影】林正英,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382878583   
-【电影】林正英,https://live.metshop.top/yy/1382878583    
-【电影】林正英,http://43.138.170.29:35455/yy/1382878583
-
 【电影】林正英1,https://live.metshop.top/huya/11342421   
 【电影】林正英1,http://hls.ye23.vip/wl/huya2205.php?id=11342421
 【电影】林正英1,https://epg.112114.xyz/huya/11342421    
@@ -3723,15 +3653,10 @@ IPTV少儿动画,rtsp://115.153.233.154/PLTV/88888888/224/3221227006/86440922.sm
 名侦探柯南,https://live.metshop.top/douyu/6484910   
 名侦探柯南,http://43.138.170.29:35455/douyu/6484910
 
-柯南1,http://epg.112114.xyz/douyu/5189447  
-柯南1,https://www.goodiptv.club/douyu/5189447    
-柯南1,https://live.metshop.top/douyu/5189447   
-柯南1,http://43.138.170.29:35455/douyu/5189447
-
-柯南2,http://epg.112114.xyz/douyu/7620081   
-柯南2,https://www.goodiptv.club/douyu/7620081  
-柯南2,https://live.metshop.top/douyu/7620081   
-柯南2,http://43.138.170.29:35455/douyu/7620081
+柯南,http://epg.112114.xyz/douyu/7620081   
+柯南,https://www.goodiptv.club/douyu/7620081  
+柯南,https://live.metshop.top/douyu/7620081   
+柯南,http://43.138.170.29:35455/douyu/7620081
 
 成龙历险记1,https://live.metshop.top/huya/11352946   
 成龙历险记1,http://hls.ye23.vip/wl/huya2205.php?id=11352946
