@@ -1,6 +1,6 @@
 {
   "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;8a3584c3608a5412fb02a769ab3886bb",
-  "wallpaper": "https://gd-hbimg.huaban.com/616c16fa6d76d5403aea43ba3db9fde5eb3c37b7637dc-CquLkH_fw480webp",
+  "wallpaper": "https://p.ananas.chaoxing.com/star3/400_0cQ80/6273be71ac880b35612e0cf1a5984d5e.webp",
   "sites": [
     {
       "key": "豆豆",
