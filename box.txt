@@ -669,23 +669,6 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": "https://fanty.run.goorm.site/ext/高中课堂.json"
-    },
-    {
-      "key": "fan",
-      "name": "导航 https://饭太硬.top",
-      "type": 3,
-      "api": "csp_fan",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
-    {
-      "key": "cc",
-      "name": "请勿相信视频中任何广告",
-      "type": 3,
-      "api": "csp_fan",
-      "searchable": 0,
-      "quickSearch": 0
     }
   ],
   "parses": [
