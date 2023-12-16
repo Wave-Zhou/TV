@@ -388,7 +388,7 @@
     },
     {
       "key": "77",
-      "name": "七七App ",
+      "name": "七七影视 ",
       "type": 3,
       "api": "csp_Kunyu77",
       "searchable": 1,
@@ -397,7 +397,7 @@
     },
     {
       "key": "南瓜",
-      "name": "南瓜App ",
+      "name": "南瓜影视",
       "type": 3,
       "api": "csp_NanGua",
       "playerType": 2,
