@@ -51,6 +51,10 @@
     {
       "sourceName": "心动仓库",
     "sourceUrl":"https://codeberg.org/hengxing/hx/raw/branch/main/%E5%BF%83%E5%8A%A8%E4%BB%93%E5%BA%93.txt"
+    },
+    {
+      "sourName"："毒盒仓库",
+    "sourceUrl"："https://youdu.fan/DC.txt"
     }
   ]
 }
