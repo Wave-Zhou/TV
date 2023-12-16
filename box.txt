@@ -1206,7 +1206,7 @@
     },
   {
       "key": "js_豆瓣热播",
-      "name": "追剧影院|T热播",
+      "name": "追剧影院",
       "type": 3,
       "api": "./hccx/Api.js",
       "searchable": 0,
@@ -1216,7 +1216,7 @@
     },
     {
       "key": "AliYunPan",
-      "name": "云盘登录|T签到",
+      "name": "云盘登录",
       "type": 3,
       "api": "csp_AliYunPan",
       "searchable": 0,
