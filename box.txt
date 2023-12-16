@@ -921,12 +921,54 @@
     {
       "key":"t4_wo",
       "name":"玩偶影视",
-      "type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清        &token=94fd5ab297e24a769bb762375118ec47",
-  "searchable":1,"quickSearch":1,"filterable":1},
-{"key":"天天视频","name":"天天4K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ttsp.live/api.php/app/"},
-{"key":"酷云77","name":"酷云秒播","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-
-{"key":"csp_AppYsV2","name":"69美剧","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.69mj.com/xgapp.php/v2/"}
+      "type":4,
+      "api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清            &token=94fd5ab297e24a769bb762375118ec47",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1
+    },
+    {
+      "key":"天天视频",
+      "name":"天天4K",
+      "type":3,
+      "api":"csp_AppYsV2",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"https://ttsp.live/api.php/app/"
+    },
+    {
+      "key":"酷云77",
+      "name":"酷云秒播",
+      "type":3,"api":"csp_Kunyu77",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1
+    },
+    {
+      "key":"csp_AppYsV2",
+      "name":"69美剧",
+      "type":3,
+      "api":"csp_AppYsV2",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"https://www.69mj.com/xgapp.php/v2/"
+    },
+    {
+      "key": "drpy_js_爱看机器人",
+      "name": "爱看机器",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/ikanbot2.js"
+    },
+    {
+      "key": "drpy_js_星辰影院",
+      "name": "星辰影院",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/星辰.js"
+    }
   ],
   "parses": [
     {
