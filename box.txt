@@ -428,7 +428,7 @@
     },
     {
       "key": "橘子",
-      "name": "橘子App ",
+      "name": "橘子影视",
       "type": 3,
       "api": "csp_AppMao",
       "searchable": 1,
