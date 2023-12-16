@@ -1319,6 +1319,9 @@ CGTN纪录,https://livedoc.cgtn.com/500d/prog_index.m3u8
 
 五星体育,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001018/index.m3u8
 
+纬来体育,http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
+纬来体育,https://cloud.yumixiu768.com/tmp/123.m3u8
+
 台球,rtsp://115.153.233.154/PLTV/88888888/224/3221227034/86502060.smil
 
 足球,rtsp://115.153.233.154/PLTV/88888888/224/3221227019/86502107.smil
