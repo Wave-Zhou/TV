@@ -1,56 +1,56 @@
 {
   "storeHouse": [
     {
-      "sourceName": "🌹欧歌主仓库🌹",
+      "sourceName": "欧歌主仓库",
       "sourceUrl": "http://tv.nxog.top/nxog/ou1.php?url=http://tv.nxog.top&b=欧歌"
     },
     {
-      "sourceName": "🌷欧歌备仓库🌷",
+      "sourceName": "欧歌备仓库",
       "sourceUrl": "http://m.nxog.top/nxog/ou1.php?url=http://m.nxog.top&b=欧歌"
     },
     {
-      "sourceName": "💐欧歌测试仓库💐",
+      "sourceName": "欧歌测试仓库",
       "sourceUrl": "http://w.nxog.top/nxog/ou1.php?url=http://w.nxog.top&xl=2&b=欧歌"
     },
      {
-      "sourceName": "吾爱电视",
+      "sourceName": "吾爱仓库",
       "sourceUrl": "http://52bsj.vip:81/api/v3/file/get/67776/1.json?sign=Suz6jqs5w4g4FFTohPyWDC82QQdpOkbs8UN4OR9QJsI%3D%3A0"
     },
    {
-      "sourceName": "多仓",
+      "sourceName": "多多仓库",
       "sourceUrl": "https://cyuan.netlify.app/tvbox/duo.json"
     },
    {
-      "sourceName": "运输车多仓",
+      "sourceName": "运输车仓库",
       "sourceUrl": "https://weixine.net/api.json"
     },
    {
-      "sourceName": "🚘蚂蚁窝①🚖",
+      "sourceName": "蚂蚁仓库1",
       "sourceUrl": "https://agit.ai/pinghui/Barton/raw/branch/master/%e6%96%b0%e8%9a%82%e8%9a%81%e7%aa%9d1.txt"
     },
     {
-      "sourceName": "🚘蚂蚁窝③🚖",
+      "sourceName": "蚂蚁仓库2",
       "sourceUrl": "https://agit.ai/pinghui/Barton/raw/branch/master/%ef%bb%bf%e6%96%b0%e8%9a%82%e8%9a%81%e7%aa%9d3.txt"
     },
     {
-      "sourceName": "🚘蚂蚁窝④🚖",
+      "sourceName": "蚂蚁仓库3",
       "sourceUrl": "https://agit.ai/pinghui/Barton/raw/branch/master/%e6%96%b0%e8%9a%82%e8%9a%81%e7%aa%9d4.txt"
     },
     {
-      "sourceName": "🚘蚂蚁窝⑤🚖",
+      "sourceName": "蚂蚁仓库4",
       "sourceUrl": "https://agit.ai/hu/hcr/raw/branch/master/99668.txt"
     },
      {
-      "sourceName": "💕恒星仓库",
+      "sourceName": "恒星仓库",
       "sourceUrl": "https://codeberg.org/hengxing/hx/raw/branch/main/xmyw%E2%80%9C1%E2%80%9D.txt"
     },
     {
-      "sourceName": "💕拾光仓库",
+      "sourceName": "拾光仓库",
       "sourceUrl": "https://codeberg.org/xmbjm/xmbjm/raw/branch/main/xmbjmdc.json"
     },
     {
-      "sourceName": "💕心动仓库",
-      "sourceUrl": "https://codeberg.org/hengxing/hx/raw/branch/main/%E5%BF%83%E5%8A%A8%E4%BB%93%E5%BA%93.txt"
+      "sourceName": "心动仓库",
+    "sourceUrl":"https://codeberg.org/hengxing/hx/raw/branch/main/%E5%BF%83%E5%8A%A8%E4%BB%93%E5%BA%93.txt"
     }
   ]
 }
