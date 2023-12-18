@@ -1175,9 +1175,8 @@ CGTN纪录,https://livedoc.cgtn.com/500d/prog_index.m3u8
 南昌文旅,http://live.cooltv.top/tv/nctv.php?id=2
 南昌资讯,http://live.cooltv.top/tv/nctv.php?id=3
 
-/*
 影视综合,#genre#
-平泉影视频道,http://jwliveqxzb.hebyun.com.cn/pqys/pqys.m3u8
+平泉影视,http://jwliveqxzb.hebyun.com.cn/pqys/pqys.m3u8
 阳谷影视,rtmp://wslivealone.iqilu.com/yanggu/yanggu_tv02
 山西影视,http://liveflash.sxrtv.com/live/sxfilm.m3u8?sub_m3u8=true&edge_slice=true
 浙江影视,http://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel05/1080p.m3u8#https://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
@@ -1206,7 +1205,7 @@ CGTN纪录,https://livedoc.cgtn.com/500d/prog_index.m3u8
 嘉兴影视,rtmp://play-a2.quklive.com/live/1675149625220101
 拉萨影视,http://220.182.45.198:20088/tsfile/live/1003_1.m3u8
 句容影视,http://jrlive.jrntv.com/live/_definst_/yingshis/playlist.m3u8
-*/
+
 
 生活频道,#genre#      
 
