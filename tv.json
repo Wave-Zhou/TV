@@ -19,7 +19,7 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
      {
-      "name": "tvzb",
+      "name": "TV直播",
       "type": 0,
       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Wave-Zhou/tv/main/tvzb.txt",
       "playerType": 1,
@@ -29,7 +29,7 @@
        
      },
       {
-      "name": "tvzb2",
+      "name": "TV直播2",
       "type": 0,
       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Wave-Zhou/tv/main/tvzb2.txt",
       "playerType": 1,
@@ -39,7 +39,7 @@
        
      },
       {
-      "name": "dxtv",
+      "name": "电信直播",
       "type": 0,
       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Wave-Zhou/tv/main/dxtv.txt",
       "playerType": 1,
