@@ -141,11 +141,11 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001333/index.m3
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001333/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 
-#EXTINF:-1 tvg-id="" tvg-name="CCTV4欧洲" tvg-logo="https://live.fanmingming.com/tv/CCTV4-欧洲.png" group-title="央视频道",CCTV4欧洲
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4欧洲" tvg-logo="" group-title="央视频道",CCTV4欧洲
 rtsp://115.153.233.154/PLTV/88888888/224/3221226964/77799053.smil
 rtsp://118.212.169.207:554/PLTV/88888888/224/3221227309/10000100000000060000000001945892_0.smil
 
-#EXTINF:-1 tvg-id="" tvg-name="CCTV4美洲" tvg-logo="https://live.fanmingming.com/tv/CCTV4-美洲.png" group-title="央视频道",CCTV4美洲
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4美洲" tvg-logo="" group-title="央视频道",CCTV4美洲
 rtsp://115.153.233.154/PLTV/88888888/224/3221226962/77799052.smil
 rtsp://118.212.169.207:554/PLTV/88888888/224/3221227311/10000100000000060000000001945895_0.smil
 
