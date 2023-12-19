@@ -661,7 +661,7 @@ http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002497/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 http://[2409:8087:2001:20:2800:0:df6e:eb05]:80/wh7f454c46tw1439464013_-1071136747/ott.mobaibox.com/PLTV/3/224/3221228138/index.m3u8?icpid=3&RTS=1674381554&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
 
-#EXTINF:-1,tvg-id="CETV早期教育" tvg-name="CETV早期教育" tvg-logo="https://live.fanmingming.com/tv/CETV早期教育.png" group-title="央视频道",CETV早期教育
+#EXTINF:-1,tvg-id="CETV早期教育" tvg-name="CETV早期教育" tvg-logo="" group-title="央视频道",CETV早期教育
 rtsp://115.153.233.154/PLTV/88888888/224/3221227007/86441065.smil
 rtsp://115.153.212.72/PLTV/88888888/224/3221227007/86441065.smil
 rtsp://115.153.245.70/PLTV/88888888/224/3221227007/86441065.smil
