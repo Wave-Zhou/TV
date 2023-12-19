@@ -1298,7 +1298,7 @@ CGTN纪录,https://livedoc.cgtn.com/500d/prog_index.m3u8
 赣州公共,http://wb.jxgztv.com/live/gztv2.flv
 赣州教育,http://wb.jxgztv.com/live/gztv3.flv
 南昌新闻综合,http://live.cooltv.top/tv/nctv.php?id=1
-南昌文旅,http://live.cooltv.top/tv/nctv.php?id=2
+南昌都市,http://live.cooltv.top/tv/nctv.php?id=2
 南昌资讯,http://live.cooltv.top/tv/nctv.php?id=3
 
 体育频道,#genre#
