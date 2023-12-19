@@ -1843,40 +1843,116 @@ http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/322122
 
 #EXTINF:-1,tvg-id="iHOT爱院线" tvg-name="iHOT爱院线" tvg-logo="https://epg.112114.eu.org/logo/IHOT爱院线.png" group-title="IHOT系列",iHOT爱院线
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
+http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221226652/index.m3u8?servicetype=1
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000034/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000034&livemode=1&stbId=3
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
+
 #EXTINF:-1,tvg-id="iHOT爱科幻" tvg-name="iHOT爱科幻" tvg-logo="https://epg.112114.eu.org/logo/IHOT爱科幻.png" group-title="IHOT系列",iHOT爱科幻
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000020630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000020630&livemode=1&stbId=3
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000020630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000020630&livemode=1&stbId=3
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000033/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000033&livemode=1&stbId=3
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000020630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000020630&livemode=1&stbId=3
+
 #EXTINF:-1,tvg-id="iHOT爱浪漫" tvg-name="iHOT爱浪漫" tvg-logo="https://epg.112114.eu.org/logo/IHOT爱浪漫.png" group-title="IHOT系列",iHOT爱浪漫
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000040630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000040630&livemode=1&stbId=3
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000040630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000040630&livemode=1&stbId=3
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000035/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000035&livemode=1&stbId=3
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000040630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000040630&livemode=1&stbId=3
+
 #EXTINF:-1,tvg-id="iHOT爱喜剧" tvg-name="iHOT爱喜剧" tvg-logo="https://epg.112114.eu.org/logo/IHOT爱喜剧.png" group-title="IHOT系列",iHOT爱喜剧
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000010630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000010630&livemode=1&stbId=3
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000010630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000010630&livemode=1&stbId=3
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000032/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000032&livemode=1&stbId=3
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000010630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000010630&livemode=1&stbId=3
+
 #EXTINF:-1,tvg-id="iHOT爱悬疑" tvg-name="iHOT爱悬疑" tvg-logo="https://epg.112114.eu.org/logo/IHOT爱悬疑.png" group-title="IHOT系列",iHOT爱悬疑
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000050630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000050630&livemode=1&stbId=3
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000050630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000050630&livemode=1&stbId=3
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000036/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000036&livemode=1&stbId=3
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000050630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000050630&livemode=1&stbId=3
+
 #EXTINF:-1,tvg-id="iHOT爱经典" tvg-name="iHOT爱经典" tvg-logo="https://epg.112114.eu.org/logo/IHOT爱经典.png" group-title="IHOT系列",iHOT爱经典
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000060630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000060630&livemode=1&stbId=3
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000060630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000060630&livemode=1&stbId=3
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000037/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000037&livemode=1&stbId=3
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000060630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000060630&livemode=1&stbId=3
+
 #EXTINF:-1,tvg-id="iHOT爱赛车" tvg-name="iHOT爱赛车" tvg-logo="https://epg.112114.eu.org/logo/IHOT爱赛车.png" group-title="IHOT系列",iHOT爱赛车
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000240630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000240630&livemode=1&stbId=3
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000240630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000240630&livemode=1&stbId=3
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000055/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000055&livemode=1&stbId=3
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000240630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000240630&livemode=1&stbId=3
+
+#EXTINF:-1,tvg-id="iHOT爱电竞" tvg-name="iHOT爱电竞" tvg-logo="https://epg.112114.eu.org/logo/iHOT爱电竞.png" group-title="IHOT系列",iHOT爱电竞
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000054/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000054&livemode=1&stbId=3
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000230630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000230630&livemode=1&stbId=3
+
 #EXTINF:-1,tvg-id="iHOT爱体育" tvg-name="iHOT爱体育" tvg-logo="https://epg.112114.eu.org/logo/IHOT爱体育.png" group-title="IHOT系列",iHOT爱体育
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000290630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000290630&livemode=1&stbId=3
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000290630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000290630&livemode=1&stbId=3
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000060/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000060&livemode=1&stbId=3
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000290630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000290630&livemode=1&stbId=3
+
 #EXTINF:-1,tvg-id="iHOT爱奇谈" tvg-name="iHOT爱奇谈" tvg-logo="https://epg.112114.eu.org/logo/IHOT爱奇谈.png" group-title="IHOT系列",iHOT爱奇谈
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000270630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000270630&livemode=1&stbId=3
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000270630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000270630&livemode=1&stbId=3
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000058/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000058&livemode=1&stbId=3
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000270630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000270630&livemode=1&stbId=3
+
 #EXTINF:-1,tvg-id="iHOT爱玩具" tvg-name="iHOT爱玩具" tvg-logo="https://epg.112114.eu.org/logo/IHOT爱玩具.png" group-title="IHOT系列",iHOT爱玩具
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000220630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000220630&livemode=1&stbId=3
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000220630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000220630&livemode=1&stbId=3
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000053/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000053&livemode=1&stbId=3
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000220630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000220630&livemode=1&stbId=3
+
 #EXTINF:-1,tvg-id="iHOT爱怀旧" tvg-name="iHOT爱怀旧" tvg-logo="https://epg.112114.eu.org/logo/IHOT爱怀旧.png" group-title="IHOT系列",iHOT爱怀旧
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000260630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000260630&livemode=1&stbId=3
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000260630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000260630&livemode=1&stbId=3
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000057/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000057&livemode=1&stbId=3
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000260630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000260630&livemode=1&stbId=3
+
 #EXTINF:-1,tvg-id="iHOT爱旅行" tvg-name="iHOT爱旅行" tvg-logo="https://epg.112114.eu.org/logo/IHOT爱旅行.png" group-title="IHOT系列",iHOT爱旅行
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000250630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000250630&livemode=1&stbId=3
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000250630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000250630&livemode=1&stbId=3
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000056/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000056&livemode=1&stbId=3
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000250630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000250630&livemode=1&stbId=3
+
 #EXTINF:-1,tvg-id="iHOT爱幼教" tvg-name="iHOT爱幼教" tvg-logo="https://epg.112114.eu.org/logo/IHOT爱幼教.png" group-title="IHOT系列",iHOT爱幼教
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000180630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000180630&livemode=1&stbId=3
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000180630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000180630&livemode=1&stbId=3
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000049/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000049&livemode=1&stbId=3
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000180630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000180630&livemode=1&stbId=3
+
 #EXTINF:-1,tvg-id="iHOT爱谍战" tvg-name="iHOT爱谍战" tvg-logo="https://epg.112114.eu.org/logo/IHOT爱谍战.png" group-title="IHOT系列",iHOT爱谍战
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000070630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000070630&livemode=1&stbId=3
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000070630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000070630&livemode=1&stbId=3
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000038/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000038&livemode=1&stbId=3
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000070630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000070630&livemode=1&stbId=3
+
 #EXTINF:-1,tvg-id="iHOT爱历史" tvg-name="iHOT爱历史" tvg-logo="https://epg.112114.eu.org/logo/IHOT爱历史.png" group-title="IHOT系列",iHOT爱历史
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000150630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000150630&livemode=1&stbId=3
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000150630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000150630&livemode=1&stbId=3
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000046/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000046&livemode=1&stbId=3
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000150630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000150630&livemode=1&stbId=3
+
 #EXTINF:-1,tvg-id="iHOT爱科学" tvg-name="iHOT爱科学" tvg-logo="https://epg.112114.eu.org/logo/IHOT爱科学.png" group-title="IHOT系列",iHOT爱科学
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000160630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000160630&livemode=1&stbId=3
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000160630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000160630&livemode=1&stbId=3
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000047/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000047&livemode=1&stbId=3
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000160630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000160630&livemode=1&stbId=3
+
 #EXTINF:-1,tvg-id="iHOT爱青春" tvg-name="iHOT爱青春" tvg-logo="https://epg.112114.eu.org/logo/IHOT爱青春.png" group-title="IHOT系列",iHOT爱青春
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000100630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000100630&livemode=1&stbId=3
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000100630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000100630&livemode=1&stbId=3
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000041/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000041&livemode=1&stbId=3
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000100630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000100630&livemode=1&stbId=3
+
 #EXTINF:-1,tvg-id="iHOT爱动漫" tvg-name="iHOT爱动漫" tvg-logo="https://epg.112114.eu.org/logo/IHOT爱动漫.png" group-title="IHOT系列",iHOT爱动漫
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000280630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000280630&livemode=1&stbId=3
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000280630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000280630&livemode=1&stbId=3
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000059/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000059&livemode=1&stbId=3
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000280630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000280630&livemode=1&stbId=3
 
 
 
@@ -2018,65 +2094,137 @@ http://hls.ye23.vip/wl/huya2205.php?id=23728674
 
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/黑莓动画.png" group-title="少儿动画",黑莓动画
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
+http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw3744543001_-1909627957/ott.mobaibox.com/PLTV/88888890/224/3221225555/index.m3u8?icpid=88888890&RTS=1687951661&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="少儿动画",卡酷少儿
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001245/index.m3u8
+rtsp://115.153.212.72/PLTV/88888888/224/3221225566/iptv101695.smil?
+rtsp://115.153.233.154/PLTV/88888888/224/3221225566/iptv101695.smil  
+rtsp://115.153.245.70/PLTV/88888888/224/3221225566/iptv101695.smil
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001245/index.m3u8   
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001245/index.m3u8?love=freedom
+http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tw1904540750_-2025464312/ott.mobaibox.com/PLTV/88888890/224/3221226305/index.m3u8?icpid=88888890&RTS=1687954116&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
+
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/浙江少儿.png" group-title="少儿动画",浙江少儿
 http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/海南少儿.png" group-title="少儿动画",海南少儿
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000323/index.m3u8?fmmv6
 #EXTINF:-1 tvg-logo="https://img04.sogoucdn.com/v2/thumb/crop/xy/ai/x/0/y/0/w/120/h/80/iw/90/ih/60/t/0/ir/3/retype_exclude_gif/ext/auto/q/75?t=2&appid=200997&url=http%3A%2F%2Ftv.haoqu99.com%2Fd%2Ffile%2F2016%2F0616%2F20160616111853448.jpg&sign=0faf39d57383ab640c6d06a857e33896" group-title="少儿动画",南京少儿
 http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
+http://live.nbs.cn/channels/njtv/sepd/500k.m3u8?zjiangsd
 #EXTINF:-1 tvg-logo="https://img02.sogoucdn.com/v2/thumb/crop/xy/ai/x/0/y/0/w/120/h/80/iw/90/ih/60/t/0/ir/3/retype_exclude_gif/ext/auto/q/75?t=2&appid=200997&url=https%3A%2F%2Fi0.hdslb.com%2Fbfs%2Farchive%2F30951966c3b489475a253625ef8584417f90142e.jpg&sign=9f5ad40801208f39237f318ac4c8532f" group-title="少儿动画",黑龙江少儿
 http://[2409:8087:1a01:df::4035]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/1.m3u8
 #EXTINF:-1 tvg-logo="https://p6.itc.cn/q_70/images03/20210609/62af8319a7ea4503aeb29e45973b2cfc.jpeg" group-title="少儿动画",少儿动漫
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/8145334647720731271/index.m3u8?channel-id=wasusyt&Contentid=8145334647720731271&livemode=1&stbId=3
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/哈哈炫动.png" group-title="少儿动画",哈哈炫动
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001232/index.m3u8
+rtsp://115.153.212.72/PLTV/88888888/224/3221225583/iptv7982.smil?
+rtsp://115.153.245.70/PLTV/88888888/224/3221225583/iptv7982.smil
+rtsp://115.153.233.154/PLTV/88888888/224/3221225583/iptv7982.smil
+rtsp://118.212.169.207:554/PLTV/88888888/224/3221226968/10000100000000060000000000568712_0.smil   
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001232/index.m3u8     
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001232/index.m3u8?love=freedom
+http://[2409:8087:2001:20:2800:0:df6e:eb19]/wh7f454c46tw1973202911_-433788268/ott.mobaibox.com/PLTV/88888890/224/3221226388/index.m3u8?icpid=88888890&RTS=1687954185&from=40&popid=40&hms_devid=2113&prioritypopid=40&vqe=3
+
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png" group-title="少儿动画",金鹰卡通
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001098/index.m3u8
+rtsp://115.153.212.72/PLTV/88888888/224/3221225585/iptv7983.smil?
+rtsp://115.153.233.154/PLTV/88888888/224/3221226972/80382319.smil      
+rtsp://115.153.233.154/PLTV/88888888/224/3221225585/iptv7983.smil
+rtsp://115.153.245.70/PLTV/88888888/224/3221225585/iptv7983.smil
+rtsp://118.212.169.207:554/PLTV/88888888/224/3221227312/10000100000000060000000001945876_0.smil    
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001098/index.m3u8
+http://[2409:8087:2001:20:2800:0:df6e:eb18]/wh7f454c46tw1873256595_-856782013/ott.mobaibox.com/PLTV/88888890/224/3221226303/index.m3u8?icpid=88888890&RTS=1687954085&from=40&popid=40&hms_devid=2113&prioritypopid=40&vqe=3
+
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/嘉佳卡通.png" group-title="少儿动画",嘉佳卡通
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001227/index.m3u8
-#EXTINF:-1 tvg-logo="http://i.17173cdn.com/2fhnvk/YWxqaGBf/news/17173shuiyin/BdrDfjbmapxqvAk.jpg!a-3-540x.jpg" group-title="少儿动画",名侦探柯南
+rtsp://115.153.245.70/PLTV/88888888/224/3221225588/10000100000000060000000000140157_0.smil
+rtsp://115.153.212.72/PLTV/88888888/224/3221225588/10000100000000060000000000140157_0.smil? 
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001227/index.m3u8
+http://[2409:8087:2001:20:2800:0:df6e:eb05]/wh7f454c46tw2246498188_271805725/ott.mobaibox.com/PLTV/88888890/224/3221227009/index.m3u8?icpid=88888890&RTS=1687954458&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
+
+#EXTINF:-1 tvg-logo="http://i.17173cdn.com/2fhnvk/YWxqaGBf/news/17173shuiyin/BdrDfjbmapxqvAk.jpg!a-3-540x.jpg" group-title="少儿动画",名侦探柯南1
 https://live.metshop.top/douyu/6484910
 http://epg.112114.xyz/douyu/6484910
 https://www.goodiptv.club/douyu/6484910
 http://43.138.170.29:35455/douyu/6484910
-#EXTINF:-1 tvg-logo="http://s9.rr.itc.cn/r/wapChange/201611_29_18/a58wtu3100984870855.jpeg" group-title="少儿动画",名侦探柯南
-https://live.metshop.top/douyu/5189447
-http://epg.112114.xyz/douyu/5189447
-https://www.goodiptv.club/douyu/5189447
-http://43.138.170.29:35455/douyu/5189447
-#EXTINF:-1 tvg-logo="http://pic.baike.soso.com/p/20131118/20131118142652-403587215.jpg" group-title="少儿动画",名侦探柯南
+http://lxajh.top/tv/douyu.php?id=6484910
+https://tv.iill.top/douyu/6484910
+http://mmitv.top/test/douyu.php?id=6484910
+
+#EXTINF:-1 tvg-logo="http://pic.baike.soso.com/p/20131118/20131118142652-403587215.jpg" group-title="少儿动画",名侦探柯南2
 https://live.metshop.top/douyu/7620081
 http://epg.112114.xyz/douyu/7620081
 https://www.goodiptv.club/douyu/7620081
 http://43.138.170.29:35455/douyu/7620081
-#EXTINF:-1 tvg-logo="https://pic.baike.soso.com/ugc/baikepic2/0/20220405150314-553904043_jpg_1200_800_177364.jpg/800" tvg-name=“梦工厂动画” group-title="少儿动画",成龙历险记
-https://live.metshop.top/huya/11352946
-https://epg.112114.xyz/huya/11352946
-http://43.138.170.29:35455/huya/11352946
-#EXTINF:-1 tvg-logo="https://pic.baike.soso.com/ugc/baikepic2/0/20220405150314-553904043_jpg_1200_800_177364.jpg/800" tvg-name=“梦工厂动画” group-title="少儿动画",成龙历险记
-http://epg.112114.xyz/douyu/2287949
-#EXTINF:-1 tvg-logo="https://pic.baike.soso.com/ugc/baikepic2/0/20220321231616-1796759885_jpeg_402_293_16370.jpg/800" tvg-name=“梦工厂动画” group-title="少儿动画",海绵宝宝
-https://live.metshop.top/huya/11352919
-https://epg.112114.xyz/huya/11352919
-http://43.138.170.29:35455/huya/11352919
-#EXTINF:-1 tvg-logo="https://pic.baike.soso.com/ugc/baikepic2/0/20220321231616-1796759885_jpeg_402_293_16370.jpg/800" tvg-name=“梦工厂动画” group-title="少儿动画",海绵宝宝
-http://epg.112114.xyz/douyu/3949681
-#EXTINF:-1 tvg-logo="https://pic.baike.soso.com/ugc/baikepic2/0/20220321231616-1796759885_jpeg_402_293_16370.jpg/800" tvg-name=“梦工厂动画” group-title="少儿动画",海绵宝宝
-http://epg.112114.xyz/douyu/1569773
+http://lxajh.top/tv/douyu.php?id=7620081
+https://tv.iill.top/douyu/7620081
+http://mmitv.top/test/douyu.php?id=7620081
+
+#EXTINF:-1 tvg-logo="https://pic.baike.soso.com/ugc/baikepic2/0/20220405150314-553904043_jpg_1200_800_177364.jpg/800" tvg-name=“梦工厂动画” group-title="少儿动画",成龙历险记1
+https://live.metshop.top/huya/11352946   
+http://hls.ye23.vip/wl/huya2205.php?id=11352946
+https://epg.112114.xyz/huya/11352946    
+http://43.128.40.42:198/虎牙直播/huya.php?id=11352946
+http://43.138.170.29:35455/huya/11352946  
+https://www.goodiptv.club/huya/11352946
+
+#EXTINF:-1 tvg-logo="https://pic.baike.soso.com/ugc/baikepic2/0/20220405150314-553904043_jpg_1200_800_177364.jpg/800" tvg-name=“梦工厂动画” group-title="少儿动画",成龙历险记2
+https://www.goodiptv.club/douyu/2287949  
+https://live.metshop.top/douyu/2287949
+http://epg.112114.xyz/douyu/2287949    
+http://43.138.170.29:35455/douyu/2287949
+http://lxajh.top/tv/douyu.php?id=2287949
+https://tv.iill.top/douyu/2287949
+http://mmitv.top/test/douyu.php?id=2287949
+
+#EXTINF:-1 tvg-logo="https://pic.baike.soso.com/ugc/baikepic2/0/20220321231616-1796759885_jpeg_402_293_16370.jpg/800" tvg-name=“梦工厂动画” group-title="少儿动画",海绵宝宝1
+https://live.metshop.top/huya/11352919   
+http://hls.ye23.vip/wl/huya2205.php?id=11352919
+https://epg.112114.xyz/huya/11352919    
+http://43.128.40.42:198/虎牙直播/huya.php?id=11352919
+http://43.138.170.29:35455/huya/11352919   
+https://www.goodiptv.club/huya/11352919
+
+#EXTINF:-1 tvg-logo="https://pic.baike.soso.com/ugc/baikepic2/0/20220321231616-1796759885_jpeg_402_293_16370.jpg/800" tvg-name=“梦工厂动画” group-title="少儿动画",海绵宝宝2
+https://www.goodiptv.club/douyu/3949681   
+https://live.metshop.top/douyu/3949681
+http://epg.112114.xyz/douyu/3949681    
+http://43.138.170.29:35455/douyu/3949681
+http://lxajh.top/tv/douyu.php?id=3949681
+https://tv.iill.top/douyu/3949681
+http://mmitv.top/test/douyu.php?id=3949681
+
+#EXTINF:-1 tvg-logo="https://pic.baike.soso.com/ugc/baikepic2/0/20220321231616-1796759885_jpeg_402_293_16370.jpg/800" tvg-name=“梦工厂动画” group-title="少儿动画",海绵宝宝3
+https://www.goodiptv.club/douyu/1569773  
+https://live.metshop.top/douyu/1569773
+http://epg.112114.xyz/douyu/1569773   
+http://43.138.170.29:35455/douyu/1569773
+http://lxajh.top/tv/douyu.php?id=1569773
+https://tv.iill.top/douyu/1569773
+http://mmitv.top/test/douyu.php?id=1569773
+
 #EXTINF:-1 tvg-logo="https://pic.baike.soso.com/ugc/baikepic2/0/ori-20230105211456-148555150_jpeg_710_532_40490.jpg/800" tvg-name=“梦工厂动画” group-title="少儿动画",猫和老鼠
-https://live.metshop.top/huya/11352879
-http://43.138.170.29:35455/huya/11352879
+https://live.metshop.top/huya/11352879   
+http://hls.ye23.vip/wl/huya2205.php?id=11352879
+https://epg.112114.xyz/huya/11352879   
+http://43.128.40.42:198/虎牙直播/huya.php?id=11352879
+http://43.138.170.29:35455/huya/11352879  
+https://www.goodiptv.club/huya/11352879
 #EXTINF:-1 tvg-logo="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2022%2F0601%2Fc4ac47a2j00rcs8ol003id200rs00rsg007w007w.jpg&thumbnail=660x2147483647&quality=80&type=jpg" tvg-name=“梦工厂动画” group-title="少儿动画",迪迦奥特曼
-https://live.metshop.top/huya/11602074
-https://epg.112114.xyz/huya/11602074
-http://43.138.170.29:35455/huya/11602074
+https://epg.112114.xyz/huya/11602074   
+http://hls.ye23.vip/wl/huya2205.php?id=11602074
+https://live.metshop.top/huya/11602074   
+http://43.128.40.42:198/虎牙直播/huya.php?id=11602074
+http://43.138.170.29:35455/huya/11602074  
+https://www.goodiptv.club/huya/11602074
+
 #EXTINF:-1 tvg-logo="https://pic.baike.soso.com/ugc/baikepic2/0/20230629194649-1357468007_png_1147_841_1316814.jpg/800" group-title="少儿动画",德凯奥特曼
 http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/ott.mobaibox.com/PLTV/4/224/3221228456/index.m3u8
 #EXTINF:-1 tvg-logo="https://pic.baike.soso.com/ugc/baikepic2/0/ori-20200306134444-716577093_png_680_680_78385.jpg/800" tvg-name=“梦工厂动画” group-title="少儿动画",熊出没之探险日记
-http://mmitv.top/pltv/yy.php?id=1354930977
-http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354930977
+http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354930977   
+http://mmitv.top/pltv/yy.php?id=1354930977    
+https://live.metshop.top/yy/1354930977    
+http://43.138.170.29:35455/yy/1354930977
 #EXTINF:-1 tvg-logo="https://pic.baike.soso.com/ugc/baikepic2/0/20220319024931-622739088_jpeg_1024_766_178096.jpg/800" group-title="少儿动画",熊出没
 http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/ott.mobaibox.com/PLTV/4/224/3221228536/index.m3u8
 #EXTINF:-1 tvg-logo="https://pic.baike.soso.com/ugc/baikepic2/0/ori-20200323151610-180480885_png_1080_720_123840.jpg/800" group-title="少儿动画",汪汪队立大功
