@@ -1156,9 +1156,7 @@ http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=8ee59707fee3ef
 
 #EXTINF:-1 group-title="江西频道",江西卫视
 rtsp://115.153.233.154/PLTV/88888888/224/3221226656/46275837.smil
-#EXTINF:-1 group-title="江西频道",江西卫视
 rtsp://115.153.245.70/PLTV/88888888/224/3221226656/46275837.smil
-#EXTINF:-1 group-title="江西频道",江西卫视
 rtsp://115.153.212.72/PLTV/88888888/224/3221226656/46275837.smil
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Wave-Zhou/tv/main/logo/%E6%B1%9F%E8%A5%BF%E4%BA%8C%E5%A5%97.png" group-title="江西频道",江西二套
 rtsp://115.153.233.154/PLTV/88888888/224/3221227069/94448631.smil
@@ -1195,9 +1193,7 @@ rtsp://115.153.245.70/PLTV/88888888/224/3221227070/96801473.smil
 rtsp://115.153.212.72/PLTV/88888888/224/3221227070/96801473.smil
 #EXTINF:-1 group-title="江西频道",江西教育
 rtsp://115.153.233.154/PLTV/88888888/224/3221226942/69552502.smil
-#EXTINF:-1 group-title="江西频道",江西教育
 rtsp://115.153.245.70/PLTV/88888888/224/3221226942/69552502.smil
-#EXTINF:-1 group-title="江西频道",江西教育
 rtsp://115.153.212.72/PLTV/88888888/224/3221226942/69552502.smil
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Wave-Zhou/tv/main/logo/%E8%B5%A3%E5%B7%9E%E7%94%B5%E8%A7%86%E5%8F%B0.png" group-title="江西频道",赣州新闻
 http://wb.jxgztv.com/live/gztv1.flv
@@ -1287,49 +1283,32 @@ http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000290630/index.
 rtsp://115.153.233.154/PLTV/88888888/224/3221227038/86502156.smil
 #EXTINF:-1 group-title="生活频道",东方影视
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001016/index.m3u8?
-#EXTINF:-1 group-title="生活频道",东方影视
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001016/index.m3u8
-#EXTINF:-1 group-title="生活频道",东方影视
 https://live.goodiptv.club/api/bestv.php?id=dfyshd8m/8000000
-#EXTINF:-1 group-title="生活频道",东方影视
 http://[2409:8087:1e03:21::34]:6610/cms001/ch00000090990000001016/index.m3u8?IASHttpSessionId=RR8275420230310002030000839
-#EXTINF:-1 group-title="生活频道",东方影视
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001016/index.m3u8?love=freedom
 #EXTINF:-1 group-title="生活频道",都市剧场
 rtsp://115.153.233.154/PLTV/88888888/224/3221225738/10000100000000060000000000901499_0.smil
-#EXTINF:-1 group-title="生活频道",都市剧场
 rtsp://115.153.212.72/PLTV/88888888/224/3221225738/10000100000000060000000000901499_0.smil?
-#EXTINF:-1 group-title="生活频道",都市剧场
 rtsp://115.153.245.70/PLTV/88888888/224/3221225738/10000100000000060000000000901499_0.smil
-#EXTINF:-1 group-title="生活频道",都市剧场
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002108/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="生活频道",都市剧场
 http://[2409:8087:7000:20::F]:80/dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221226581/index.m3u8
-#EXTINF:-1 group-title="生活频道",都市剧场
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001203/index.m3u8
 #EXTINF:-1 group-title="生活频道",欢笑剧场
 rtsp://115.153.212.72/PLTV/88888888/224/3221225734/10000100000000060000000000901456_0.smil?
-#EXTINF:-1 group-title="生活频道",欢笑剧场
 rtsp://115.153.233.154/PLTV/88888888/224/3221225734/10000100000000060000000000901456_0.smil
-#EXTINF:-1 group-title="生活频道",欢笑剧场
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001193/index.m3u8
-#EXTINF:-1 group-title="生活频道",欢笑剧场
 http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 group-title="生活频道",精彩影视
 rtsp://115.153.233.154/PLTV/88888888/224/3221227052/86502219.smil
-#EXTINF:-1 group-title="生活频道",精彩影视
 rtsp://115.153.245.70/PLTV/88888888/224/3221227052/86502219.smil
-#EXTINF:-1 group-title="生活频道",精彩影视
 rtsp://118.212.169.207:554/PLTV/88888888/224/3221227271/10000100000000060000000001646400_0.smil
-#EXTINF:-1 group-title="生活频道",精彩影视
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000320630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000320630&livemode=1&stbId=3
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Wave-Zhou/tv/main/logo/%E6%97%B6%E5%85%89%E5%89%A7%E5%9C%BA.png" group-title="生活频道",时光剧场
 rtsp://115.153.233.154/PLTV/88888888/224/3221227008/86440955.smil
-#EXTINF:-1 group-title="生活频道",时光剧场
 rtsp://115.153.245.70/PLTV/88888888/224/3221227008/86440955.smil
 #EXTINF:-1 group-title="生活频道",喜剧影院
 rtsp://115.153.245.70/PLTV/88888888/224/3221226997/86441126.smil
-#EXTINF:-1 group-title="生活频道",喜剧影院
 rtsp://115.153.233.154/PLTV/88888888/224/3221226997/86441126.smil
 #EXTINF:-1 group-title="生活频道",动作影院
 rtsp://115.153.245.70/PLTV/88888888/224/3221226999/86441130.smil
@@ -1339,35 +1318,27 @@ rtsp://115.153.245.70/PLTV/88888888/224/3221227022/86441136.smil
 rtsp://115.153.233.154/PLTV/88888888/224/3221227018/86441003.smil
 #EXTINF:-1 group-title="生活频道",军旅剧场
 rtsp://115.153.245.70/PLTV/88888888/224/3221226995/86441107.smil
-#EXTINF:-1 group-title="生活频道",军旅剧场
 rtsp://115.153.233.154/PLTV/88888888/224/3221226995/86441107.smil
 #EXTINF:-1 group-title="生活频道",古装剧场
 rtsp://115.153.245.70/PLTV/88888888/224/3221227020/86441115.smil
-#EXTINF:-1 group-title="生活频道",古装剧场
 rtsp://115.153.233.154/PLTV/88888888/224/3221227020/86441115.smil
 #EXTINF:-1 group-title="生活频道",武侠剧场
 rtsp://115.153.245.70/PLTV/88888888/224/3221227003/86441017.smil
-#EXTINF:-1 group-title="生活频道",武侠剧场
 rtsp://115.153.233.154/PLTV/88888888/224/3221227003/86441017.smil
 #EXTINF:-1 group-title="生活频道",精品剧场
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/8230197131234717902/index.m3u8?channel-id=wasusyt&Contentid=8230197131234717902&livemode=1&stbId=3
 #EXTINF:-1 group-title="生活频道",谍战剧场
 rtsp://115.153.233.154/PLTV/88888888/224/3221227016/86441085.smil
-#EXTINF:-1 group-title="生活频道",谍战剧场
 rtsp://115.153.245.70/PLTV/88888888/224/3221227016/86441085.smil
 #EXTINF:-1 group-title="生活频道",茶频道
 rtsp://118.212.169.207:554/PLTV/88888888/224/3221227052/10000100000000060000000000571127_0.smil
-#EXTINF:-1 group-title="生活频道",茶频道
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002305/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="生活频道",茶频道
 rtsp://115.153.245.70/PLTV/88888888/224/3221226832/59781969.smil
-#EXTINF:-1 group-title="生活频道",茶频道
 rtsp://115.153.233.154/PLTV/88888888/224/3221226832/59781969.smil
 #EXTINF:-1 group-title="生活频道",汽摩频道
 rtsp://115.153.233.154/PLTV/88888888/224/3221226819/59781852.smil
 #EXTINF:-1 group-title="生活频道",梨园频道
 rtsp://115.153.233.154/PLTV/88888888/224/3221226822/59781815.smil
-#EXTINF:-1 group-title="生活频道",梨园频道
 rtsp://118.212.169.207:554/PLTV/88888888/224/3221227267/10000100000000060000000001646411_0.smil
 #EXTINF:-1 group-title="生活频道",靓妆频道
 rtsp://115.153.233.154/PLTV/88888888/224/3221227021/86502160.smil
@@ -1377,29 +1348,23 @@ rtsp://115.153.233.154/PLTV/88888888/224/3221226971/86128924.smil
 rtsp://115.153.233.154/PLTV/88888888/224/3221227040/86502111.smil
 #EXTINF:-1 group-title="生活频道",武术世界
 rtsp://115.153.233.154/PLTV/88888888/224/3221226824/59781846.smil
-#EXTINF:-1 group-title="生活频道",武术世界
 rtsp://118.212.169.207:554/PLTV/88888888/224/3221227278/10000100000000060000000001646403_0.smil
 #EXTINF:-1 group-title="生活频道",国学频道
 rtsp://115.153.233.154/PLTV/88888888/224/3221226797/59781463.smil
 #EXTINF:-1 group-title="生活频道",车迷频道
 rtsp://115.153.233.154/PLTV/88888888/224/3221227027/86502211.smil
-#EXTINF:-1 group-title="生活频道",车迷频道
 rtsp://118.212.169.207:554/PLTV/88888888/224/3221227282/10000100000000060000000001646427_0.smil
 #EXTINF:-1 group-title="生活频道",法治天地
 rtsp://115.153.233.154/PLTV/88888888/224/3221225607/iptv7994.smil
 #EXTINF:-1 group-title="生活频道",环球旅游
 rtsp://115.153.233.154/PLTV/88888888/224/3221227033/86502177.smil
-#EXTINF:-1 group-title="生活频道",环球旅游
 rtsp://118.212.169.207:554/PLTV/88888888/224/3221227272/10000100000000060000000001646421_0.smil
 #EXTINF:-1 group-title="生活频道",环球奇观
 rtsp://115.153.233.154/PLTV/88888888/224/3221226977/86128939.smil
 #EXTINF:-1 group-title="生活频道",金鹰纪实
 rtsp://115.153.245.70/PLTV/88888888/224/3221226823/59781863.smil
-#EXTINF:-1 group-title="生活频道",金鹰纪实
 rtsp://115.153.233.154/PLTV/88888888/224/3221226823/59781863.smil
-#EXTINF:-1 group-title="生活频道",金鹰纪实
 rtsp://115.153.212.72/PLTV/88888888/224/3221226823/59781863.smil
-#EXTINF:-1 group-title="生活频道",金鹰纪实
 rtsp://118.212.169.207:554/PLTV/88888888/224/3221227039/10000100000000060000000000570897_0.smil
 #EXTINF:-1 group-title="生活频道",纪实人文
 rtsp://118.212.169.207:554/PLTV/88888888/224/3221227040/10000100000000060000000000570944_0.smil
@@ -1407,11 +1372,9 @@ rtsp://118.212.169.207:554/PLTV/88888888/224/3221227040/100001000000000600000000
 rtsp://115.153.233.154/PLTV/88888888/224/3221225603/iptv7992.smil
 #EXTINF:-1 group-title="生活频道",四海钓鱼
 rtsp://115.153.233.154/PLTV/88888888/224/3221227048/86502173.smil
-#EXTINF:-1 group-title="生活频道",四海钓鱼
 rtsp://118.212.169.207:554/PLTV/88888888/224/3221227277/10000100000000060000000001646431_0.smil
 #EXTINF:-1 group-title="生活频道",文物宝库
 rtsp://115.153.233.154/PLTV/88888888/224/3221226808/59781526.smil
-#EXTINF:-1 group-title="生活频道",文物宝库
 rtsp://118.212.169.207:554/PLTV/88888888/224/3221227273/10000100000000060000000001646408_0.smil
 #EXTINF:-1 group-title="生活频道",家庭理财
 rtsp://118.212.169.207:554/PLTV/88888888/224/3221227280/10000100000000060000000001646426_0.smil
@@ -1419,11 +1382,8 @@ rtsp://118.212.169.207:554/PLTV/88888888/224/3221227280/100001000000000600000000
 rtsp://115.153.233.154/PLTV/88888888/224/3221227001/86441055.smil
 #EXTINF:-1 group-title="生活频道",游戏风云
 rtsp://115.153.233.154/PLTV/88888888/224/3221225615/iptv7998.smil
-#EXTINF:-1 group-title="生活频道",游戏风云
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001192/index.m3u8
-#EXTINF:-1 group-title="生活频道",游戏风云
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002306/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="生活频道",游戏风云
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002295/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 group-title="生活频道",精彩综艺
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001273/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
