@@ -1323,7 +1323,7 @@ rtsp://115.153.245.70/PLTV/88888888/224/3221227052/86502219.smil
 rtsp://118.212.169.207:554/PLTV/88888888/224/3221227271/10000100000000060000000001646400_0.smil
 #EXTINF:-1 group-title="生活频道",精彩影视
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000320630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000320630&livemode=1&stbId=3
-#EXTINF:-1 group-title="生活频道",时光剧场
+#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Wave-Zhou/tv/main/logo/%E6%97%B6%E5%85%89%E5%89%A7%E5%9C%BA.png" group-title="生活频道",时光剧场
 rtsp://115.153.233.154/PLTV/88888888/224/3221227008/86440955.smil
 #EXTINF:-1 group-title="生活频道",时光剧场
 rtsp://115.153.245.70/PLTV/88888888/224/3221227008/86440955.smil
