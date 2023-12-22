@@ -3068,10 +3068,7 @@ TVB埋堆堆,#genre#
 【电影】经典抗日电影,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354936141  
 【电影】经典抗日电影,https://live.metshop.top/yy/1354936141
 
-【电影】金三角大营救,http://mmitv.top/pltv/yy.php?id=1354930924    
-【电影】金三角大营救,http://43.138.170.29:35455/yy/1354930924
-【电影】金三角大营救,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354930924   
-【电影】金三角大营救,https://live.metshop.top/yy/1354930924
+
 
 专题电影,#genre#    
 
@@ -3155,6 +3152,7 @@ TVB埋堆堆,#genre#
 【电影】缝纫机乐队,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354926612    
 【电影】缝纫机乐队,https://live.metshop.top/yy/1354926612
 
+
 【电影】侏罗纪公园,http://mmitv.top/pltv/yy.php?id=1354936191    
 【电影】侏罗纪公园,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354936191  
 【电影】侏罗纪公园,https://live.metshop.top/yy/1354936191     
@@ -3194,6 +3192,11 @@ TVB埋堆堆,#genre#
 【电影】缉妖法海传,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354936203   
 【电影】缉妖法海传,https://live.metshop.top/yy/1354936203     
 【电影】缉妖法海传,http://43.138.170.29:35455/yy/1354936203
+
+【电影】金三角大营救,http://mmitv.top/pltv/yy.php?id=1354930924    
+【电影】金三角大营救,http://43.138.170.29:35455/yy/1354930924
+【电影】金三角大营救,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354930924   
+【电影】金三角大营救,https://live.metshop.top/yy/1354930924
 
 【电影】哈利波特系列,http://epg.112114.xyz/douyu/8814650    
 【电影】哈利波特系列,https://www.goodiptv.club/douyu/8814650   
