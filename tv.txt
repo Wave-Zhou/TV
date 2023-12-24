@@ -4142,8 +4142,8 @@ TVB埋堆堆,#genre#
 
 晴天动画,rtsp://115.153.233.154/PLTV/88888888/224/3221227009/86502150.smil
 
-IPTV少儿动画,rtsp://115.153.233.154/PLTV/88888888/224/3221227006/86440922.smil
-IPTV少儿动画,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000081/index.m3u8?blog.ntnas.top
+少儿动画,rtsp://115.153.233.154/PLTV/88888888/224/3221227006/86440922.smil
+少儿动画,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000081/index.m3u8?blog.ntnas.top
 
 南京少儿,http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
 南京少儿,http://live.nbs.cn/channels/njtv/sepd/500k.m3u8?zjiangsd
