@@ -1315,7 +1315,7 @@ CCTV5+,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/1/224/3
 咪咕体育1,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225895/index.m3u8
 咪咕体育2,http://[2409:8087:2001:20:2800:0:df6e:eb0f]:80/wh7f454c46tw1758408081_1139282982/ott.mobaibox.com/PLTV/3/224/3221228206/index.m3u8?icpid=3&RTS=1674386168&from=40&popid=40&hms_devid=2111&prioritypopid=40&vqe=3
 咪咕体育3,http://[2409:8087:2001:20:2800:0:df6e:eb13]:80/wh7f454c46tw336300127_-934579930/ott.mobaibox.com/PLTV/3/224/3221228234/index.m3u8?icpid=3&RTS=1674380451&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
-咪咕综合体育1,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226504/1.m3u8
+咪咕综合体育,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226504/1.m3u8
 足球频道,rtsp://115.153.233.154/PLTV/88888888/224/3221227019/86502107.smil
 台球,rtsp://115.153.233.154/PLTV/88888888/224/3221227034/86502060.smil
 咪咕足球,http://[2409:8087:2001:20:2800:0:df6e:eb0e]:80/wh7f454c46tw336955688_-567193112/ott.mobaibox.com/PLTV/3/224/3221228129/index.m3u8?icpid=3&RTS=1674380452&from=40&popid=40&hms_devid=2111&prioritypopid=40&vqe=3
