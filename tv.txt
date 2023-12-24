@@ -512,9 +512,9 @@ CCTV8K,http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw1981574683_-21187
 
 华数4K,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
 
-4KUHD,http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/ott.mobaibox.com/PLTV/4/224/3221228242/index.m3u8
-4KUHD,http://[2409:8087:2001:20:2800:0:df6e:eb11]:80/wh7f454c46tw3557828768_-2114508791/ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8?icpid=3&RTS=1674379378&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
-4KUHD,http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/wh7f454c46tw3154895646_1897439205/ott.mobaibox.com/PLTV/3/224/3221227506/index.m3u8?icpid=3&RTS=1674378975&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
+纯享4K,http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/ott.mobaibox.com/PLTV/4/224/3221228242/index.m3u8
+纯享4K,http://[2409:8087:2001:20:2800:0:df6e:eb11]:80/wh7f454c46tw3557828768_-2114508791/ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8?icpid=3&RTS=1674379378&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
+纯享4K,http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/wh7f454c46tw3154895646_1897439205/ott.mobaibox.com/PLTV/3/224/3221227506/index.m3u8?icpid=3&RTS=1674378975&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
 
 4K修复,http://[2409:8087:2001:20:2800:0:df6e:eb15]:80/wh7f454c46tw3859899175_1232992871/ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8?icpid=3&RTS=1674379680&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
 4K修复,http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw1958249448_-1314265822/ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
