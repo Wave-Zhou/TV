@@ -4160,14 +4160,6 @@ TVB埋堆堆,#genre#
 
 超级飞侠,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/ott.mobaibox.com/PLTV/4/224/3221228539/index.m3u8
 
-兔八哥达菲鸭,http://epg.112114.xyz/douyu/3669437  
-兔八哥达菲鸭,https://www.goodiptv.club/douyu/3669437    
-兔八哥达菲鸭,https://live.metshop.top/douyu/3669437   
-兔八哥达菲鸭,http://43.138.170.29:35455/douyu/3669437
-兔八哥达菲鸭,http://lxajh.top/tv/douyu.php?id=3669437
-兔八哥达菲鸭,https://tv.iill.top/douyu/3669437
-兔八哥达菲鸭,http://mmitv.top/test/douyu.php?id=3669437
-
 名侦探柯南,http://epg.112114.xyz/douyu/6484910  
 名侦探柯南,https://www.goodiptv.club/douyu/6484910   
 名侦探柯南,https://live.metshop.top/douyu/6484910   
