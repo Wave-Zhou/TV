@@ -1835,6 +1835,8 @@ iHOT系列,#genre#
 西游记,https://tv.iill.top/douyu/8953746
 西游记,http://mmitv.top/test/douyu.php?id=8953746
 
+西游记优酷,http://123.132.226.194:31028/hls/52/index.m3u8
+
 西游记续集,http://epg.112114.xyz/douyu/3113309
 西游记续集,https://www.goodiptv.club/douyu/3113309
 西游记续集,https://live.metshop.top/douyu/3113309
