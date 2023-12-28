@@ -1837,8 +1837,6 @@ iHOT系列,#genre#
 西游记,https://tv.iill.top/douyu/8953746
 西游记,http://mmitv.top/test/douyu.php?id=8953746
 
-西游记优酷,http://123.132.226.194:31028/hls/52/index.m3u8
-
 西游记续集,http://epg.112114.xyz/douyu/3113309
 西游记续集,https://www.goodiptv.club/douyu/3113309
 西游记续集,https://live.metshop.top/douyu/3113309
@@ -2030,13 +2028,13 @@ iHOT系列,#genre#
 最美的青春,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382745116
 最美的青春,https://live.metshop.top/yy/1382745116
 
-龙门镖局高清,http://epg.112114.xyz/douyu/9650860
-龙门镖局高清,https://www.goodiptv.club/douyu/9650860
-龙门镖局高清,https://live.metshop.top/douyu/9650860
-龙门镖局高清,http://43.138.170.29:35455/douyu/9650860
-龙门镖局高清,http://lxajh.top/tv/douyu.php?id=9650860
-龙门镖局高清,https://tv.iill.top/douyu/9650860
-龙门镖局高清,http://mmitv.top/test/douyu.php?id=9650860
+龙门镖局,http://epg.112114.xyz/douyu/9650860
+龙门镖局,https://www.goodiptv.club/douyu/9650860
+龙门镖局,https://live.metshop.top/douyu/9650860
+龙门镖局,http://43.138.170.29:35455/douyu/9650860
+龙门镖局,http://lxajh.top/tv/douyu.php?id=9650860
+龙门镖局,https://tv.iill.top/douyu/9650860
+龙门镖局,http://mmitv.top/test/douyu.php?id=9650860
 
 父母爱情高清,http://mmitv.top/pltv/yy.php?id=1354926650
 父母爱情高清,http://43.138.170.29:35455/yy/1354926650
@@ -2109,15 +2107,15 @@ iHOT系列,#genre#
 永不磨灭的番号,https://tv.iill.top/douyu/8157860
 永不磨灭的番号,http://mmitv.top/test/douyu.php?id=8157860
 
-神医喜来乐高清,http://mmitv.top/pltv/yy.php?id=1382714119
-神医喜来乐高清,http://43.138.170.29:35455/yy/1382714119
-神医喜来乐高清,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382714119
-神医喜来乐高清,https://live.metshop.top/yy/1382714119
+神医喜来乐,http://mmitv.top/pltv/yy.php?id=1382714119
+神医喜来乐,http://43.138.170.29:35455/yy/1382714119
+神医喜来乐,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382714119
+神医喜来乐,https://live.metshop.top/yy/1382714119
 
-铁齿铜牙纪晓岚蓝光,http://mmitv.top/pltv/yy.php?id=1382781415
-铁齿铜牙纪晓岚蓝光,http://43.138.170.29:35455/yy/1382781415
-铁齿铜牙纪晓岚蓝光,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382781415
-铁齿铜牙纪晓岚蓝光,https://live.metshop.top/yy/1382781415
+铁齿铜牙纪晓岚,http://mmitv.top/pltv/yy.php?id=1382781415
+铁齿铜牙纪晓岚,http://43.138.170.29:35455/yy/1382781415
+铁齿铜牙纪晓岚,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382781415
+铁齿铜牙纪晓岚,https://live.metshop.top/yy/1382781415
 
 新三国超清,http://epg.112114.xyz/douyu/2838296
 新三国超清,https://www.goodiptv.club/douyu/2838296
@@ -2143,10 +2141,10 @@ iHOT系列,#genre#
 新水浒传,https://tv.iill.top/douyu/3758762
 新水浒传,http://mmitv.top/test/douyu.php?id=3758762
 
-雍正王朝超清,http://mmitv.top/pltv/yy.php?id=26650882
-雍正王朝超清,http://43.138.170.29:35455/yy/26650882
-雍正王朝超清,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=26650882
-雍正王朝超清,https://live.metshop.top/yy/26650882
+雍正王朝,http://mmitv.top/pltv/yy.php?id=26650882
+雍正王朝,http://43.138.170.29:35455/yy/26650882
+雍正王朝,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=26650882
+雍正王朝,https://live.metshop.top/yy/26650882
 
 钟馗传说,http://mmitv.top/pltv/yy.php?id=1382736839
 钟馗传说,http://43.138.170.29:35455/yy/1382736839
@@ -2206,10 +2204,10 @@ iHOT系列,#genre#
 花千骨,https://live.metshop.top/yy/53320802
 花千骨,http://43.138.170.29:35455/yy/53320802
 
-燕双鹰高清,http://mmitv.top/pltv/yy.php?id=1354825244
-燕双鹰高清,https://live.metshop.top/yy/1354825244
-燕双鹰高清,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354825244
-燕双鹰高清,http://43.138.170.29:35455/yy/1354825244
+燕双鹰,http://mmitv.top/pltv/yy.php?id=1354825244
+燕双鹰,https://live.metshop.top/yy/1354825244
+燕双鹰,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354825244
+燕双鹰,http://43.138.170.29:35455/yy/1354825244
 
 野山鹰,http://mmitv.top/pltv/yy.php?id=1354932395
 野山鹰,http://43.138.170.29:35455/yy/1354932395
