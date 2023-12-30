@@ -1251,7 +1251,27 @@ CGTN纪录,https://livedoc.cgtn.com/500d/prog_index.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=8ee59707fee3ef96c922e680-167055218938751&wsIPSercert=d24f6d7c9d3646d9533d492d5209384b&wsMonitor=0
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 
+澳门卫视,https://live.mastvnet.com/lsdream/MSTV/1500/live.m3u8
+
 澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
+
+东森新闻,http://udnhls.skilldns.com:80/dsxw.m3u8
+
+东森超视,http://60.248.77.83/sat/tv331.flv
+
+东森财经新闻,http://60.248.77.83/sat/tv571.flv
+
+民视,http://60.248.77.83/sat/tv051.flv
+
+台视,http://60.248.77.83/sat/tv071.flv
+
+中视,http://60.248.77.83/sat/tv091.flv
+
+华视,http://60.248.77.83/sat/tv111.flv
+
+TVBS欢乐台,http://60.248.77.83/sat/tv421.flv
+
+TVBS新闻台,http://60.248.77.83/sat/tv551.flv
 
 江西频道,#genre#
 
