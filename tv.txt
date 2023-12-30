@@ -1884,6 +1884,11 @@ iHOT系列,#genre#
 济公,https://live.metshop.top/yy/25519088
 济公,http://43.138.170.29:35455/yy/25519088
 
+武林外传,http://mmitv.top/pltv/yy.php?id=1355652820
+武林外传,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1355652820
+武林外传,https://live.metshop.top/yy/1355652820
+武林外传,http://43.138.170.29:35455/yy/1355652820
+
 活佛济公,http://epg.112114.xyz/douyu/8595134
 活佛济公,https://www.goodiptv.club/douyu/8595134
 活佛济公,https://live.metshop.top/douyu/8595134
@@ -3131,6 +3136,11 @@ X战警系列,http://43.138.170.29:35455/yy/1382736893
 恐怖电影,http://lxajh.top/tv/douyu.php?id=310926
 恐怖电影,https://tv.iill.top/douyu/310926
 恐怖电影,http://mmitv.top/test/douyu.php?id=310926
+
+僵尸女鬼电影,http://mmitv.top/pltv/yy.php?id=1457229809
+僵尸女鬼电影,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1457229809
+僵尸女鬼电影,https://live.metshop.top/yy/1457229809
+僵尸女鬼电影,http://43.138.170.29:35455/yy/1457229809
 
 鬼片惊悚港片,http://mmitv.top/pltv/yy.php?id=1355497884 
 鬼片惊悚港片,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1355497884 
