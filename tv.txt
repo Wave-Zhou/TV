@@ -1332,6 +1332,10 @@ CCTV5+,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/1/224/3
 广东体育,http://8.217.90.28:9999/触电.php?id=gdty
 纬来体育,http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
 纬来体育,https://cloud.yumixiu768.com/tmp/123.m3u8
+纬来体育,http://60.248.77.83/sat/tv721.flv
+ELEVEN1,http://60.248.77.83/sat/tv731.flv
+ELEVEN2,http://60.248.77.83/sat/tv741.flv
+MOMOTV,http://60.248.77.83/sat/tv761.flv
 超级体育,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
 精品体育,http://[2409:8087:2001:20:2800:0:df6e:eb1b]:80/wh7f454c46tw2797725038_-2054878207/ott.mobaibox.com/PLTV/3/224/3221227615/index.m3u8
 咪咕体育1,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225895/index.m3u8
