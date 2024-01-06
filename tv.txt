@@ -2560,6 +2560,8 @@ iHOT系列,#genre#
 
 电影频道,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?blog.ntnas.top
 
+轮播电影,http://[2409:8087:2001:20:2800:0:df6e:eb04]:80/wh7f454c46tw698941571_-1832672106/ott.mobaibox.com/PLTV/3/224/3221227579/index.m3u8?icpid=3&RTS=1674380814&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
+
 华语电影,http://epg.112114.xyz/douyu/8465358
 华语电影,https://www.goodiptv.club/douyu/8465358
 华语电影,https://live.metshop.top/douyu/8465358
@@ -2567,6 +2569,10 @@ iHOT系列,#genre#
 华语电影,http://lxajh.top/tv/douyu.php?id=8465358
 华语电影,https://tv.iill.top/douyu/8465358
 华语电影,http://mmitv.top/test/douyu.php?id=8465358
+
+
+
+
 
 亚洲影院,http://[2409:8087:7001:20:1000::95]:6610/000000001000/5841816227539527643/index.m3u8?channel-id=wasusyt&Contentid=5841816227539527643&livemode=1&stbId=3
 
