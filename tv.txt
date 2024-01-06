@@ -3514,6 +3514,8 @@ X战警系列,http://43.138.170.29:35455/yy/1382736893
 柯南,https://tv.iill.top/douyu/7620081
 柯南,http://mmitv.top/test/douyu.php?id=7620081
 
+成龙历险记,http://cfss.cc/cdn/hy/11352946.flv
+
 成龙历险记1,https://www.goodiptv.club/douyu/2287949  
 成龙历险记1,https://live.metshop.top/douyu/2287949
 成龙历险记1,http://epg.112114.xyz/douyu/2287949    
@@ -3543,6 +3545,14 @@ X战警系列,http://43.138.170.29:35455/yy/1382736893
 神厨小福贵,https://live.metshop.top/yy/1382736860  
 神厨小福贵,http://43.138.170.29:35455/yy/1382736860
 
+猫和老鼠,http://cfss.cc/cdn/hy/11352879.flv
+
+哆啦A梦,http://cfss.cc/cdn/hy/11601963.flv
+
+蜡笔小新,http://cfss.cc/cdn/hy/11352970.flv
+
+迪迦奥特曼,http://cfss.cc/cdn/hy/11602074.flv
+
 德凯奥特曼,http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/ott.mobaibox.com/PLTV/4/224/3221228456/index.m3u8
 
 熊出没,http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/ott.mobaibox.com/PLTV/4/224/3221228536/index.m3u8
@@ -3551,6 +3561,13 @@ X战警系列,http://43.138.170.29:35455/yy/1382736893
 熊出没之探险日记,http://mmitv.top/pltv/yy.php?id=1354930977    
 熊出没之探险日记,https://live.metshop.top/yy/1354930977    
 熊出没之探险日记,http://43.138.170.29:35455/yy/1354930977
+
+大头儿子小头爸爸,http://123.132.226.194:31028/hls/46/index.m3u8
+
+开心超人,http://123.132.226.194:31028/hls/47/index.m3u8
+
+贝肯熊,http://123.132.226.194:31028/hls/45/index.m3u8
+
 
 经典音乐,#genre#      
 周杰伦,https://xy180x97x222x37xy.mcdn.bilivideo.cn:486/live-bvc/739821/live_298778185_9463386_1500/index.m3u8?expires=1703663925&len=0&oi=0x240e037041107400e1c0127a7898eb73&pt=web&qn=0&trid=1007802738ad71914399a4b1ae82e4bc0ab6&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha16&sign=d6e8f11b1d9f963aee8025892dce66e8&sk=527f7e42174f5b2fa05de6b9f7482d9e&flvsk=61a4f3899d53a462a3da3bd134780288&p2p_type=1&sl=2&free_type=0&mid=511173618&sid=mcdn-wx-jscz-ct-16000447&chash=1&bmt=1&sche=ban&bvchls=1&score=12&pp=rtmp&source=onetier&trace=91&site=c3ed8d5239f72170ac1d4d3eac665ce0&qp=de_0&zoneid_l=151388161&sid_l=live_298778185_9463386_1500&order=1
