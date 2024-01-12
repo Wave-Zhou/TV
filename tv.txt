@@ -1878,8 +1878,6 @@ iHOT系列,#genre#
 
 梦工厂动画,http://[2409:8087:2001:20:2800:0:df6e:eb21]:80/ott.mobaibox.com/PLTV/4/224/3221228579/index.m3u8
 
-超级飞侠,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/ott.mobaibox.com/PLTV/4/224/3221228539/index.m3u8
-
 名侦探柯南,http://epg.112114.xyz/douyu/6484910  
 名侦探柯南,https://www.goodiptv.club/douyu/6484910   
 名侦探柯南,https://live.metshop.top/douyu/6484910   
@@ -1936,8 +1934,6 @@ iHOT系列,#genre#
 迪迦奥特曼,http://cfss.cc/cdn/hy/11602074.flv
 
 德凯奥特曼,http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/ott.mobaibox.com/PLTV/4/224/3221228456/index.m3u8
-
-熊出没,http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/ott.mobaibox.com/PLTV/4/224/3221228536/index.m3u8
 
 熊出没之探险日记,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354930977   
 熊出没之探险日记,http://mmitv.top/pltv/yy.php?id=1354930977    
