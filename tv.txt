@@ -2758,14 +2758,6 @@ iHOT系列,#genre#
 
 欧美影院,http://[2409:8087:7001:20:1000::95]:6610/000000001000/7185203501769528108/index.m3u8?channel-id=wasusyt&Contentid=7185203501769528108&livemode=1&stbId=3
 
-国产影片,http://epg.112114.xyz/douyu/5423
-国产影片,https://www.goodiptv.club/douyu/5423
-国产影片,https://live.metshop.top/douyu/5423
-国产影片,http://43.138.170.29:35455/douyu/5423
-国产影片,http://lxajh.top/tv/douyu.php?id=5423
-国产影片,https://tv.iill.top/douyu/5423
-国产影片,http://mmitv.top/test/douyu.php?id=5423
-
 贝爷电影,http://epg.112114.xyz/douyu/36337
 贝爷电影,https://www.goodiptv.club/douyu/36337
 贝爷电影,https://live.metshop.top/douyu/36337
